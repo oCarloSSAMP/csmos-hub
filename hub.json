@@ -2989,6 +2989,19 @@
       ],
       "tamanho": 1941882,
       "arma": "AUG"
+    },
+    {
+      "id": "arma_famas_so_space_marine",
+      "nome": "FAMAS | Colony",
+      "categoria": "armas",
+      "descricao": "FAMAS | Colony do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1I4M29eKVuJc-eD3WZz-tJvOhuRz39xExw5GXTw4qod3uUaQ91ApZ3QbMItxDrxtK2ZbuxtAaLg4hDxS76hjQJsHgze9LmZw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_famas_so_space_marine.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_famas_so_space_marine.zip"
+      ],
+      "tamanho": 2131464,
+      "arma": "FAMAS"
     }
   ],
   "links": {},
