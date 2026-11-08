@@ -3054,6 +3054,32 @@
       ],
       "tamanho": 1200249,
       "arma": "Galil AR"
+    },
+    {
+      "id": "arma_g3sg1_so_green",
+      "nome": "G3SG1 | Green Apple",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Green Apple do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I4M2peqFoLs-fB2CY1aBzs7g4SXC2zRgjsWuBmdmtdiifagMhWZUlEeEP5BG9ktG2Pu-w4QSMlcsbmpnYc5LS",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_green.zip"
+      ],
+      "tamanho": 1407011,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_so_pmc",
+      "nome": "G3SG1 | Contractor",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Contractor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I4M2-ZadSLPmUBnPelOwj47A4GCyywEgl52_TmNyuJH2XOgJzX5UlQeUCsBS9m9bhP-rq4Rue1dx74w5z0g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_pmc.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_pmc.zip"
+      ],
+      "tamanho": 1406977,
+      "arma": "G3SG1"
     }
   ],
   "links": {},
