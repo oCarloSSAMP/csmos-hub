@@ -6254,19 +6254,6 @@
       "arma": "AWP"
     },
     {
-      "id": "arma_awp_ice_coaled",
-      "nome": "AWP | Ice Coaled",
-      "categoria": "armas",
-      "descricao": "AWP | Ice Coaled do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0PutbZtuL_GfC2OvzedxuPUnS3u3wR8lsTzTn4qqcXuXOlQmCpUiQOdYtUG_ltXgP-u04wWL3Y9NnjK-0H2dw8uldQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_ice_coaled.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_ice_coaled.zip"
-      ],
-      "tamanho": 3833607,
-      "arma": "AWP"
-    },
-    {
       "id": "arma_ak_puffer_custom",
       "nome": "AK-47 | The Oligarch",
       "categoria": "armas",
@@ -6278,6 +6265,19 @@
       ],
       "tamanho": 1844329,
       "arma": "AK-47"
+    },
+    {
+      "id": "arma_awp_ice_coaled",
+      "nome": "AWP | Ice Coaled",
+      "categoria": "armas",
+      "descricao": "AWP | Ice Coaled do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0PutbZtuL_GfC2OvzedxuPUnS3u3wR8lsTzTn4qqcXuXOlQmCpUiQOdYtUG_ltXgP-u04wWL3Y9NnjK-0H2dw8uldQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_ice_coaled.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_ice_coaled.zip"
+      ],
+      "tamanho": 2531168,
+      "arma": "AWP"
     }
   ],
   "links": {},
