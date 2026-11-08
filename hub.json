@@ -2820,6 +2820,45 @@
       ],
       "tamanho": 3518182,
       "arma": "AWP"
+    },
+    {
+      "id": "arma_ssg08_so_moss",
+      "nome": "SSG 08 | Blue Spruce",
+      "categoria": "armas",
+      "descricao": "SSG 08 | Blue Spruce do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I4M2jZ7d-H_yaCW-Ej7sl6OVsHXHizUQksGyDyNn7dH-WZgEgXJshFOdZskO6xoC1Y-LjtVDAy9US2YFh0PQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_so_moss.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_so_moss.zip"
+      ],
+      "tamanho": 1126439,
+      "arma": "SSG 08"
+    },
+    {
+      "id": "arma_ssg08_so_rune_stone",
+      "nome": "SSG 08 | Red Stone",
+      "categoria": "armas",
+      "descricao": "SSG 08 | Red Stone do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I4M28fapoH-OHAWmV_uJ_t-l9AX_gkxl25W6AzIupcyqVagcjCJp4EeBctRHrx9KxMb6x5FONiotAnyXgznQeYtQapjc",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_so_rune_stone.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_so_rune_stone.zip"
+      ],
+      "tamanho": 1126455,
+      "arma": "SSG 08"
+    },
+    {
+      "id": "arma_ssg08_so_sand",
+      "nome": "SSG 08 | Sand Dune",
+      "categoria": "armas",
+      "descricao": "SSG 08 | Sand Dune do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I4M29aappH_yaCW-Ej7wvsuJrHivilER-6j-EwtipIC-fald1DMcmEOYI4EW-lNOxY-u251bAy9US9tunUnw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_so_sand.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_so_sand.zip"
+      ],
+      "tamanho": 1126423,
+      "arma": "SSG 08"
     }
   ],
   "links": {},
