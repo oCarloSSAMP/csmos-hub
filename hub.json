@@ -480,6 +480,19 @@
    ],
    "tamanho": 117696,
    "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/efeito_cs2_tracers.jpg"
+  },
+  {
+   "id": "arma_ak_asiimov",
+   "nome": "AK-47 | Asiimov",
+   "categoria": "armas",
+   "descricao": "AK-47 Asiimov do CS2 (modelo CS2 + textura original, Factory New).",
+   "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlPPNSIeOaB2qf19F6ueZhW2e2wEt-t2jcytf6dymSO1JxA5oiRecLsRa5kIfkYr-241aLgotHz3-rkGoXuUp8oX57",
+   "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_asiimov.zip",
+   "urls": [
+    "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_asiimov.zip"
+   ],
+   "tamanho": 19239857,
+   "arma": "AK-47"
   }
  ],
  "links": {},
