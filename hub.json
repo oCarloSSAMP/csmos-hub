@@ -3275,6 +3275,32 @@
       ],
       "tamanho": 1521898,
       "arma": "MAC-10"
+    },
+    {
+      "id": "arma_ump45_so_caramel",
+      "nome": "UMP-45 | Caramel",
+      "categoria": "armas",
+      "descricao": "UMP-45 | Caramel do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1I4M2tabZsLfWfMWuZxuZi_rgxTXGwkBt36juDnI36dXrFOw5yC5ciF7YPsUbuld22Zb-x4lCP34tbjXKpx97cZGE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ump45_so_caramel.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ump45_so_caramel.zip"
+      ],
+      "tamanho": 1526772,
+      "arma": "UMP-45"
+    },
+    {
+      "id": "arma_ump45_so_indigo_and_grey",
+      "nome": "UMP-45 | Indigo",
+      "categoria": "armas",
+      "descricao": "UMP-45 | Indigo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlp4WjTyN78In-Wb1QgDcNzRLUI5ka4wdfjPruxswbdgopGzHj73yNLvzErvbhz6ja6HQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ump45_so_indigo_and_grey.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ump45_so_indigo_and_grey.zip"
+      ],
+      "tamanho": 1526751,
+      "arma": "UMP-45"
     }
   ],
   "links": {},
