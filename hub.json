@@ -1,716 +1,729 @@
 {
- "app": {
-  "versao": 7,
-  "nome": "1.6",
-  "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.6.apk",
-  "notas": "Nova seção Skins por arma, com busca e filtro por arma.",
-  "obrigatorio": true
- },
- "anuncio": "Bem-vindo ao CSMOS Hub!",
- "servidores": [
-  {
-   "nome": "DEATHMATCH | oCarloS x Qlf_Robert",
-   "ip": "124.198.128.99",
-   "porta": 27015
-  }
- ],
- "conteudo": [
-  {
-   "id": "arma_ak_oligarch",
-   "nome": "AK-47 The Oligarch (Gold)",
-   "categoria": "armas",
-   "descricao": "AK-47 The Oligarch dourada com adesivos Cologne e animações. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_oligarch.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_oligarch.zip"
-   ],
-   "tamanho": 10796403,
-   "arma": "AK-47"
+  "app": {
+    "versao": 7,
+    "nome": "1.6",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.6.apk",
+    "notas": "Nova seção Skins por arma, com busca e filtro por arma.",
+    "obrigatorio": true
   },
-  {
-   "id": "arma_ak_blood_sport",
-   "nome": "AK-47 Blood Sport",
-   "categoria": "armas",
-   "descricao": "AK-47 Blood Sport com 4 adesivos 2014. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_blood_sport.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_blood_sport.zip"
-   ],
-   "tamanho": 5278069,
-   "arma": "AK-47"
+  "anuncio": "Bem-vindo ao CSMOS Hub!",
+  "servidores": [
+    {
+      "nome": "DEATHMATCH | oCarloS x Qlf_Robert",
+      "ip": "124.198.128.99",
+      "porta": 27015
+    }
+  ],
+  "conteudo": [
+    {
+      "id": "arma_ak_oligarch",
+      "nome": "AK-47 The Oligarch (Gold)",
+      "categoria": "armas",
+      "descricao": "AK-47 The Oligarch dourada com adesivos Cologne e animações. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_oligarch.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_oligarch.zip"
+      ],
+      "tamanho": 10796403,
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_blood_sport",
+      "nome": "AK-47 Blood Sport",
+      "categoria": "armas",
+      "descricao": "AK-47 Blood Sport com 4 adesivos 2014. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_blood_sport.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_blood_sport.zip"
+      ],
+      "tamanho": 5278069,
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_treasure_hunter",
+      "nome": "AK-47 Treasure Hunter",
+      "categoria": "armas",
+      "descricao": "AK-47 dourada Treasure Hunter (port do Standoff 2). Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_treasure_hunter.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_treasure_hunter.zip"
+      ],
+      "tamanho": 2237976,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/arma_ak_treasure_hunter.jpg",
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_cs2",
+      "nome": "AK-47 modelo CS2",
+      "categoria": "armas",
+      "descricao": "Troca a AK-47 pelo modelo novo do CS2, com som. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_cs2.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_cs2.zip"
+      ],
+      "tamanho": 26622207,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/arma_ak_cs2.jpg",
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_m4a1s_jewelry",
+      "nome": "M4A1-S Jewelry (VIP)",
+      "categoria": "armas",
+      "descricao": "M4A1-S dourada Jewelry, port feito pelo Shinon. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m4a1s_jewelry.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m4a1s_jewelry.zip"
+      ],
+      "tamanho": 11966433,
+      "arma": "M4A1-S"
+    },
+    {
+      "id": "arma_awp_noelle",
+      "nome": "AWP Noelle",
+      "categoria": "armas",
+      "descricao": "AWP Noelle estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_awp_noelle.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_awp_noelle.zip"
+      ],
+      "tamanho": 15579469,
+      "arma": "AWP"
+    },
+    {
+      "id": "arma_deagle_printstream",
+      "nome": "Desert Eagle Printstream",
+      "categoria": "armas",
+      "descricao": "Desert Eagle Printstream (FN). Do kit do silva13.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_deagle_printstream.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_deagle_printstream.zip"
+      ],
+      "tamanho": 3375369,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_karambit_case_hardened",
+      "nome": "Karambit Case Hardened",
+      "categoria": "armas",
+      "descricao": "Karambit Case Hardened (FN). Do kit do silva13.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_karambit_case_hardened.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_karambit_case_hardened.zip"
+      ],
+      "tamanho": 3365930,
+      "arma": "Faca"
+    },
+    {
+      "id": "arma_m9_kumo",
+      "nome": "M9 Bayonet Kumo",
+      "categoria": "armas",
+      "descricao": "M9 Bayonet Kumo. Do kit do silva13.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m9_kumo.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m9_kumo.zip"
+      ],
+      "tamanho": 1275095,
+      "arma": "Faca"
+    },
+    {
+      "id": "arma_luva_driver_wave_chaser",
+      "nome": "Luva Driver Wave Chaser",
+      "categoria": "armas",
+      "descricao": "Luva Driver Gloves Wave Chaser estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_driver_wave_chaser.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_driver_wave_chaser.zip"
+      ],
+      "tamanho": 7016082,
+      "arma": "Luvas"
+    },
+    {
+      "id": "arma_luva_sport_frosty",
+      "nome": "Luva Sport Frosty",
+      "categoria": "armas",
+      "descricao": "Luva Sport Gloves Frosty estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_frosty.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_frosty.zip"
+      ],
+      "tamanho": 8628399,
+      "arma": "Luvas"
+    },
+    {
+      "id": "arma_luva_sport_nocts",
+      "nome": "Luva Sport Nocts",
+      "categoria": "armas",
+      "descricao": "Luva Sport Gloves Nocts estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_nocts.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_nocts.zip"
+      ],
+      "tamanho": 7686102,
+      "arma": "Luvas"
+    },
+    {
+      "id": "arma_luva_sport_hedge_maze",
+      "nome": "Luva Sport Hedge Maze",
+      "categoria": "armas",
+      "descricao": "Luva Sport Gloves Hedge Maze estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_hedge_maze.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_hedge_maze.zip"
+      ],
+      "tamanho": 5731117,
+      "arma": "Luvas"
+    },
+    {
+      "id": "hud_cs2_v38",
+      "nome": "HUD CS2 3.8 (Killcards)",
+      "categoria": "hud",
+      "descricao": "HUD estilo CS2 com killcards remasterizadas e ícones de vitória centralizados. Feito pra 1280x720, funciona em widescreen e esticada. Autor: 10's.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v38.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v38.zip"
+      ],
+      "tamanho": 50328386
+    },
+    {
+      "id": "skins_all_black_tired",
+      "nome": "Pack All Black (Tired)",
+      "categoria": "skins",
+      "descricao": "Skins todas pretas: USP-S, M4A1-S, AWP, Deagle, Glock, AK-47 e faca Nomad. Autor: pareianuncakk (Pack do Tired).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_all_black_tired.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_all_black_tired.zip"
+      ],
+      "tamanho": 7047801
+    },
+    {
+      "id": "mapa_dust2_v2",
+      "nome": "Dust2 (mapa do mix)",
+      "categoria": "mapas",
+      "descricao": "Dust2 estilo CS:GO usada no mix. Instale se não tiver o mapa.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_dust2_v2.zip.parte00",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_dust2_v2.zip.parte00",
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_dust2_v2.zip.parte01"
+      ],
+      "tamanho": 154655960,
+      "mapa": "de_dust2_csgo_new_v2",
+      "juntar": true,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_dust2_v2.jpg"
+    },
+    {
+      "id": "mapa_mirage_cs2",
+      "nome": "Mirage CS2 (mapa do mix)",
+      "categoria": "mapas",
+      "descricao": "Mirage estilo CS2 usada no mix.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_mirage_cs2.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_mirage_cs2.zip"
+      ],
+      "tamanho": 55478006,
+      "mapa": "de_mirage_cs2",
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_mirage_cs2.jpg"
+    },
+    {
+      "id": "mapa_anubis_cs2mix",
+      "nome": "Anubis CS2 (mapa do mix)",
+      "categoria": "mapas",
+      "descricao": "Anubis estilo CS2 usada no mix, com navegação pra bots.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_anubis_cs2mix.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_anubis_cs2mix.zip"
+      ],
+      "tamanho": 44818699,
+      "mapa": "de_anubis_cs2mix",
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_anubis_cs2mix.jpg"
+    },
+    {
+      "id": "mapa_ancient_css",
+      "nome": "Ancient CSS (mapa do mix)",
+      "categoria": "mapas",
+      "descricao": "Ancient pra CSS, necessária pro mix.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_ancient_css.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_ancient_css.zip"
+      ],
+      "tamanho": 11376012,
+      "mapa": "de_ancient_css",
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_ancient_css.jpg"
+    },
+    {
+      "id": "mapa_aimbotz",
+      "nome": "Aimbotz (treino de mira)",
+      "categoria": "mapas",
+      "descricao": "Mapa de treino pra melhorar a mira, com configs prontas. Postado por Qlf_Robert.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aimbotz.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aimbotz.zip"
+      ],
+      "tamanho": 3114434,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_aimbotz.jpg",
+      "mapa": "aimbotz"
+    },
+    {
+      "id": "mapa_aim_map",
+      "nome": "Aim Map (1v1)",
+      "categoria": "mapas",
+      "descricao": "Mapa de trocação usado pra treino 1v1. Postado por sefmy.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aim_map.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aim_map.zip"
+      ],
+      "tamanho": 482988,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_aim_map.jpg",
+      "mapa": "aim_map"
+    },
+    {
+      "id": "mapa_nuke_cs2mix",
+      "nome": "Nuke CS2 (mapa do mix)",
+      "categoria": "mapas",
+      "descricao": "Nuke estilo CS2 usada no mix.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_nuke_cs2mix.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_nuke_cs2mix.zip"
+      ],
+      "tamanho": 101654741,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_nuke_cs2mix.jpg",
+      "mapa": "de_nuke_cs2mix"
+    },
+    {
+      "id": "skins_mitsuke_full_black",
+      "nome": "Mitsuke Full Black",
+      "categoria": "skins",
+      "descricao": "Butterfly, Bayonet, M9, Karambit e Huntsman Black Laminate, AK Slate, M4A1-S Knight, AWP Black Nile, Glock Red Tire, USP Ticket to Hell, M4A4 Mainframe e luva. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_full_black.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_full_black.zip"
+      ],
+      "tamanho": 42620449,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/skins_mitsuke.jpg"
+    },
+    {
+      "id": "skins_mitsuke_amarelo",
+      "nome": "Mitsuke Amarelo (Lore)",
+      "categoria": "skins",
+      "descricao": "M9, Karambit e Butterfly Lore, AWP Dragon Lore, M4A1-S Knight, M4A4 Coalition e luva Omega. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_amarelo.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_amarelo.zip"
+      ],
+      "tamanho": 37563326
+    },
+    {
+      "id": "skins_mitsuke_preto",
+      "nome": "Mitsuke Preto",
+      "categoria": "skins",
+      "descricao": "Butterfly, Bayonet, M9 e Karambit Black Laminate, M4A1-S Black Death, AWP Atheris, Glock Red Tire, USP Ticket to Hell e luva. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_preto.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_preto.zip"
+      ],
+      "tamanho": 29477439
+    },
+    {
+      "id": "skins_mitsuke_branco",
+      "nome": "Mitsuke Branco",
+      "categoria": "skins",
+      "descricao": "Galil Tuxedo, Butterfly Urban Masked, USP Printstream, Glock Franklin, SSG Blood in the Water, MP7 Whiteout e MP9 Starlight. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_branco.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_branco.zip"
+      ],
+      "tamanho": 49728483
+    },
+    {
+      "id": "skins_mitsuke_verde",
+      "nome": "Mitsuke Verde",
+      "categoria": "skins",
+      "descricao": "USP Monster Mashup, Deagle Emerald Jörmungandr e Glock Gamma Doppler Emerald. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_verde.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_verde.zip"
+      ],
+      "tamanho": 30413834
+    },
+    {
+      "id": "skins_mitsuke_rosa",
+      "nome": "Mitsuke Rosa",
+      "categoria": "skins",
+      "descricao": "Butterfly Hello Kitty, Bayonet Neon Rider, Karambit Fade, USP e Glock personalizadas. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_rosa.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_rosa.zip"
+      ],
+      "tamanho": 38633534
+    },
+    {
+      "id": "skins_mitsuke_vermelho",
+      "nome": "Mitsuke Vermelho",
+      "categoria": "skins",
+      "descricao": "Luva Crimson Web, Deagle Crimson Web, M4A1-S Hot Rod, Glock Water Elemental, AWP e AK Redline, Talon e M9 Doppler Ruby, USP Check Engine. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_vermelho.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_vermelho.zip"
+      ],
+      "tamanho": 36778205
+    },
+    {
+      "id": "skins_mitsuke_azul",
+      "nome": "Mitsuke Azul",
+      "categoria": "skins",
+      "descricao": "Glock Twilight Galaxy, M4A1-S Blue Phosphor, M4A4 Emperor, Butterfly Doppler Phase 4, AK Vulcan, USP Blueprint e luva SuperConductor. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_azul.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_azul.zip"
+      ],
+      "tamanho": 43628638
+    },
+    {
+      "id": "skins_kit_silva13",
+      "nome": "Kit Azul/Branco (silva13)",
+      "categoria": "skins",
+      "descricao": "M9 Bayonet Kumo, Deagle Printstream e Karambit Case Hardened. Autor: silva13 (clean silva).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_kit_silva13.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_kit_silva13.zip"
+      ],
+      "tamanho": 8016350
+    },
+    {
+      "id": "papel_loading_csgo",
+      "nome": "Loading CS:GO",
+      "categoria": "papel_parede",
+      "descricao": "Tela de carregamento estilo CS:GO com o painel amarelo. Autor: hauntedrecords.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_loading_csgo.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_loading_csgo.zip"
+      ],
+      "tamanho": 2357668
+    },
+    {
+      "id": "papel_background_valve",
+      "nome": "Fundo Valve",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu com a tela clássica da Valve. Autor: hauntedrecords.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_background_valve.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_background_valve.zip"
+      ],
+      "tamanho": 54417
+    },
+    {
+      "id": "hud_maxeto_touch",
+      "nome": "Touch Maxeto",
+      "categoria": "hud",
+      "descricao": "Botões de touch e ícones de armas, logos e HUD do Maxeto. Substitui o HUD que estiver em uso.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_maxeto_touch.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_maxeto_touch.zip"
+      ],
+      "tamanho": 1790094
+    },
+    {
+      "id": "config_massinha",
+      "nome": "Gráficos Massinha",
+      "categoria": "configs",
+      "descricao": "Deixa o jogo com visual liso (massinha) e mais FPS. Usa sv_cheats, então só funciona offline ou em servidor que libera. Autor: Obeso Safado.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/config_massinha.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/config_massinha.zip"
+      ],
+      "tamanho": 339,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/config_massinha.jpg",
+      "exec": "mass"
+    },
+    {
+      "id": "skins_crystal_invisible",
+      "nome": "Crystal Invisible",
+      "categoria": "skins",
+      "descricao": "Armas transparentes azuladas: M4A1-S, AK-47, Desert Eagle, Glock, USP, AWP e SSG 08. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_crystal_invisible.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_crystal_invisible.zip"
+      ],
+      "tamanho": 803894,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/skins_crystal_invisible.jpg"
+    },
+    {
+      "id": "hud_cs2_v39",
+      "nome": "HUD CS2 3.9 (Killcards)",
+      "categoria": "hud",
+      "descricao": "Versão nova do HUD CS2 com menu de compra estilo CS2 e killcards. Cor TR (padrão). Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v39.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v39.zip"
+      ],
+      "tamanho": 49454246,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/hud_cs2_v39.jpg"
+    },
+    {
+      "id": "sons_csgo_2013",
+      "nome": "Sons do CS:GO 2013",
+      "categoria": "sons",
+      "descricao": "Sons antigos das armas do CS:GO de 2013. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/sons_csgo_2013.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/sons_csgo_2013.zip"
+      ],
+      "tamanho": 56321560
+    },
+    {
+      "id": "efeito_cs2_tracers",
+      "nome": "Rastro de bala CS2",
+      "categoria": "efeitos",
+      "descricao": "Rastro dos tiros (tracers) igual ao do CS2. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/efeito_cs2_tracers.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/efeito_cs2_tracers.zip"
+      ],
+      "tamanho": 117696,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/efeito_cs2_tracers.jpg"
+    },
+    {
+      "id": "arma_ak_asiimov",
+      "nome": "AK-47 | Asiimov",
+      "categoria": "armas",
+      "descricao": "AK-47 Asiimov do CS2 (modelo CS2 + textura original, Factory New).",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlPPNSIeOaB2qf19F6ueZhW2e2wEt-t2jcytf6dymSO1JxA5oiRecLsRa5kIfkYr-241aLgotHz3-rkGoXuUp8oX57",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_asiimov.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_asiimov.zip"
+      ],
+      "tamanho": 19239857,
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_nightwish",
+      "nome": "AK-47 | Nightwish",
+      "categoria": "armas",
+      "descricao": "AK-47 Nightwish do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_nightwish.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_nightwish.zip"
+      ],
+      "tamanho": 4433222,
+      "arma": "AK-47"
+    }
+  ],
+  "links": {},
+  "jogo": {
+    "versao": "1.0",
+    "url_base": "https://github.com/oCarloSSAMP/csmos-hub/releases/download/v1.0/",
+    "pacotes": [
+      {
+        "nome": "csmos/mos_extras_000.vpk",
+        "arquivo": "mos_extras_000.vpk",
+        "tamanho": 209731919,
+        "sha256": "b98997b6ce913de514d6a4e02025ba656824f2c598db145feadfab6b7639d98c",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_000.vpk",
+        "arquivo": "mos_pak_000.vpk",
+        "tamanho": 210246162,
+        "sha256": "621be041a1d3d6b7c446a5e61381578fc1702d99f2bd9c9bae950491ffffbdc1",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_001.vpk",
+        "arquivo": "mos_pak_001.vpk",
+        "tamanho": 214491546,
+        "sha256": "e2101390c7adf1f17f571ab35f81134ee10b3dbe6dfeadb6f530daaf31816b41",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_002.vpk",
+        "arquivo": "mos_pak_002.vpk",
+        "tamanho": 278250566,
+        "sha256": "9f171ef9d445725275cd76ce183cd8c33ebb14f393997732560232b079be99ae",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_003.vpk",
+        "arquivo": "mos_pak_003.vpk",
+        "tamanho": 209743534,
+        "sha256": "7fb6a6166ecb788f6a96daf9e115a60a846211b6fbcb9bc0786b44047640ad03",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_004.vpk",
+        "arquivo": "mos_pak_004.vpk",
+        "tamanho": 209748512,
+        "sha256": "00a2f5d2757b5141c41b14fccdd377c315f80b18f2f0eeca54555b510a4bb3cd",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_005.vpk",
+        "arquivo": "mos_pak_005.vpk",
+        "tamanho": 209793959,
+        "sha256": "36d2971300d06ac3c2137467b7739c159cbd7c3ace341983440a4ead4a025ab5",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/cstrike_pak_000.vpk",
+        "arquivo": "cstrike_pak_000.vpk",
+        "tamanho": 209722141,
+        "sha256": "091f9135fb0796d82058f85863d04c87d2d7b0ca3e352cfcd322c28e55dadb64",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/cstrike_pak_001.vpk",
+        "arquivo": "cstrike_pak_001.vpk",
+        "tamanho": 209891400,
+        "sha256": "3b7973a053b020560a98b0ba7947fc548b5fa9a79b9de0d6aa2b4f7d1572b34d",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/cstrike_pak_002.vpk",
+        "arquivo": "cstrike_pak_002.vpk",
+        "tamanho": 116886530,
+        "sha256": "cf7ec74834ab22538e25e73af1de5fe015b7f0583e61ef24a7ac52aafa63f757",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/de_ancient_csgo_cssold.bsp",
+        "arquivo": "de_ancient_csgo_cssold.bsp",
+        "tamanho": 148073254,
+        "sha256": "1f28eb96042532e08aceac91da8810832fa91319d51da88d0736f0c90ac76d77",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/de_anubis_css.bsp",
+        "arquivo": "de_anubis_css.bsp",
+        "tamanho": 81926028,
+        "sha256": "0283e86ef1476923803d6203560a700adea291fdfba6ed993b86791e9a5b5717",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/de_cbble_go.bsp",
+        "arquivo": "de_cbble_go.bsp",
+        "tamanho": 173584344,
+        "sha256": "d4b527bb802580ad19bb77d5aff011bce1a97a1a351c4d6620c0be1b747d6368",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/de_inferno_csgo_cssold.bsp",
+        "arquivo": "de_inferno_csgo_cssold.bsp",
+        "tamanho": 128166420,
+        "sha256": "559872c32c6d7b6808fb0f55a83575fc431fbe9cbc9eb61ddd8ecce830e947d7",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/de_inferno_csgo_cssold_fix.bsp",
+        "arquivo": "de_inferno_csgo_cssold_fix.bsp",
+        "tamanho": 123654312,
+        "sha256": "faa19077b07bd467ff76027683750ead0476aa49491094408e8bf01432c24634",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/de_nukenew_csgo.bsp",
+        "arquivo": "de_nukenew_csgo.bsp",
+        "tamanho": 158358172,
+        "sha256": "f0f3acf722a53298fed5747909ea8b247c5cb16627d661ba63e62128b22b622f",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/de_overpass_cs2.bsp",
+        "arquivo": "de_overpass_cs2.bsp",
+        "tamanho": 375131170,
+        "sha256": "d516a0bc32ec8aca14d20752fe697b690ca7e9f0fd7ef7585bc20b3d5839a727",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/de_vertigo_csgo_v34_fix.bsp",
+        "arquivo": "de_vertigo_csgo_v34_fix.bsp",
+        "tamanho": 88606496,
+        "sha256": "ce587dae67c40e2c947de622562d4f99364f032d7688f1f60966a8a90dc7c9b5",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/inferno2.bsp",
+        "arquivo": "inferno2.bsp",
+        "tamanho": 369522628,
+        "sha256": "30b54371a3f5775d9adfb6d13393b09e14f818df05e9e4ed2466185cdc67b6bc",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/mirage2.bsp",
+        "arquivo": "mirage2.bsp",
+        "tamanho": 111595473,
+        "sha256": "2ced1429b871e3799040b89a36caf39029d16e80ee336899014fc8d46a66566e",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "cstrike/maps/vertigo2.bsp",
+        "arquivo": "vertigo2.bsp",
+        "tamanho": 99788686,
+        "sha256": "460e25c4e7d33c65dcdac492c3160a8aa2b36792e5eff01edbb1448c6b2e0eb6",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "hl2/hl2_misc_000.vpk",
+        "arquivo": "hl2_misc_000.vpk",
+        "tamanho": 113051756,
+        "sha256": "d4d0633db715f12c1f8321465c5b7a365aa8385d76c9fd945f36b75b8d5fb38f",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "hl2/hl2_misc_001.vpk",
+        "arquivo": "hl2_misc_001.vpk",
+        "tamanho": 112721564,
+        "sha256": "e3812d4092b18c67b33f09c0423bf4ca5e1b834253c5a69456e9d3948a2a0104",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "hl2/hl2_misc_002.vpk",
+        "arquivo": "hl2_misc_002.vpk",
+        "tamanho": 112856674,
+        "sha256": "abb0d8f7263291b2da81f4ca151d52e42dc0262ec11263dbb1093666c077e4c2",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "hl2/hl2_misc_003.vpk",
+        "arquivo": "hl2_misc_003.vpk",
+        "tamanho": 127103582,
+        "sha256": "ad78cc8de64664653419908431823db1adb001dd5a6c1fc64d9e11b623d26f7c",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "hl2/hl2_textures_000.vpk",
+        "arquivo": "hl2_textures_000.vpk",
+        "tamanho": 209734184,
+        "sha256": "399070565d411d140b6af547ffb143ca2513e263b632102cd59daa0b8b317d4e",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "base_01.zip",
+        "arquivo": "base_01.zip",
+        "tamanho": 404460866,
+        "sha256": "0c51eafa40dd090e678a95edc6996e18b6cc39d06b3c402871471564d5c9ded7",
+        "tipo": "zip"
+      },
+      {
+        "nome": "base_02.zip",
+        "arquivo": "base_02.zip",
+        "tamanho": 151999430,
+        "sha256": "4d6f3bba0115b15df5ca78b6d82d8af8543093d64ae9b6b42030565e15df2f7e",
+        "tipo": "zip"
+      }
+    ]
   },
-  {
-   "id": "arma_ak_treasure_hunter",
-   "nome": "AK-47 Treasure Hunter",
-   "categoria": "armas",
-   "descricao": "AK-47 dourada Treasure Hunter (port do Standoff 2). Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_treasure_hunter.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_treasure_hunter.zip"
-   ],
-   "tamanho": 2237976,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/arma_ak_treasure_hunter.jpg",
-   "arma": "AK-47"
-  },
-  {
-   "id": "arma_ak_cs2",
-   "nome": "AK-47 modelo CS2",
-   "categoria": "armas",
-   "descricao": "Troca a AK-47 pelo modelo novo do CS2, com som. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_cs2.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_cs2.zip"
-   ],
-   "tamanho": 26622207,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/arma_ak_cs2.jpg",
-   "arma": "AK-47"
-  },
-  {
-   "id": "arma_m4a1s_jewelry",
-   "nome": "M4A1-S Jewelry (VIP)",
-   "categoria": "armas",
-   "descricao": "M4A1-S dourada Jewelry, port feito pelo Shinon. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m4a1s_jewelry.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m4a1s_jewelry.zip"
-   ],
-   "tamanho": 11966433,
-   "arma": "M4A1-S"
-  },
-  {
-   "id": "arma_awp_noelle",
-   "nome": "AWP Noelle",
-   "categoria": "armas",
-   "descricao": "AWP Noelle estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_awp_noelle.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_awp_noelle.zip"
-   ],
-   "tamanho": 15579469,
-   "arma": "AWP"
-  },
-  {
-   "id": "arma_deagle_printstream",
-   "nome": "Desert Eagle Printstream",
-   "categoria": "armas",
-   "descricao": "Desert Eagle Printstream (FN). Do kit do silva13.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_deagle_printstream.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_deagle_printstream.zip"
-   ],
-   "tamanho": 3375369,
-   "arma": "Desert Eagle"
-  },
-  {
-   "id": "arma_karambit_case_hardened",
-   "nome": "Karambit Case Hardened",
-   "categoria": "armas",
-   "descricao": "Karambit Case Hardened (FN). Do kit do silva13.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_karambit_case_hardened.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_karambit_case_hardened.zip"
-   ],
-   "tamanho": 3365930,
-   "arma": "Faca"
-  },
-  {
-   "id": "arma_m9_kumo",
-   "nome": "M9 Bayonet Kumo",
-   "categoria": "armas",
-   "descricao": "M9 Bayonet Kumo. Do kit do silva13.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m9_kumo.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m9_kumo.zip"
-   ],
-   "tamanho": 1275095,
-   "arma": "Faca"
-  },
-  {
-   "id": "arma_luva_driver_wave_chaser",
-   "nome": "Luva Driver Wave Chaser",
-   "categoria": "armas",
-   "descricao": "Luva Driver Gloves Wave Chaser estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_driver_wave_chaser.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_driver_wave_chaser.zip"
-   ],
-   "tamanho": 7016082,
-   "arma": "Luvas"
-  },
-  {
-   "id": "arma_luva_sport_frosty",
-   "nome": "Luva Sport Frosty",
-   "categoria": "armas",
-   "descricao": "Luva Sport Gloves Frosty estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_frosty.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_frosty.zip"
-   ],
-   "tamanho": 8628399,
-   "arma": "Luvas"
-  },
-  {
-   "id": "arma_luva_sport_nocts",
-   "nome": "Luva Sport Nocts",
-   "categoria": "armas",
-   "descricao": "Luva Sport Gloves Nocts estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_nocts.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_nocts.zip"
-   ],
-   "tamanho": 7686102,
-   "arma": "Luvas"
-  },
-  {
-   "id": "arma_luva_sport_hedge_maze",
-   "nome": "Luva Sport Hedge Maze",
-   "categoria": "armas",
-   "descricao": "Luva Sport Gloves Hedge Maze estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_hedge_maze.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_hedge_maze.zip"
-   ],
-   "tamanho": 5731117,
-   "arma": "Luvas"
-  },
-  {
-   "id": "hud_cs2_v38",
-   "nome": "HUD CS2 3.8 (Killcards)",
-   "categoria": "hud",
-   "descricao": "HUD estilo CS2 com killcards remasterizadas e ícones de vitória centralizados. Feito pra 1280x720, funciona em widescreen e esticada. Autor: 10's.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v38.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v38.zip"
-   ],
-   "tamanho": 50328386
-  },
-  {
-   "id": "skins_all_black_tired",
-   "nome": "Pack All Black (Tired)",
-   "categoria": "skins",
-   "descricao": "Skins todas pretas: USP-S, M4A1-S, AWP, Deagle, Glock, AK-47 e faca Nomad. Autor: pareianuncakk (Pack do Tired).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_all_black_tired.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_all_black_tired.zip"
-   ],
-   "tamanho": 7047801
-  },
-  {
-   "id": "mapa_dust2_v2",
-   "nome": "Dust2 (mapa do mix)",
-   "categoria": "mapas",
-   "descricao": "Dust2 estilo CS:GO usada no mix. Instale se não tiver o mapa.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_dust2_v2.zip.parte00",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_dust2_v2.zip.parte00",
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_dust2_v2.zip.parte01"
-   ],
-   "tamanho": 154655960,
-   "mapa": "de_dust2_csgo_new_v2",
-   "juntar": true,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_dust2_v2.jpg"
-  },
-  {
-   "id": "mapa_mirage_cs2",
-   "nome": "Mirage CS2 (mapa do mix)",
-   "categoria": "mapas",
-   "descricao": "Mirage estilo CS2 usada no mix.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_mirage_cs2.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_mirage_cs2.zip"
-   ],
-   "tamanho": 55478006,
-   "mapa": "de_mirage_cs2",
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_mirage_cs2.jpg"
-  },
-  {
-   "id": "mapa_anubis_cs2mix",
-   "nome": "Anubis CS2 (mapa do mix)",
-   "categoria": "mapas",
-   "descricao": "Anubis estilo CS2 usada no mix, com navegação pra bots.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_anubis_cs2mix.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_anubis_cs2mix.zip"
-   ],
-   "tamanho": 44818699,
-   "mapa": "de_anubis_cs2mix",
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_anubis_cs2mix.jpg"
-  },
-  {
-   "id": "mapa_ancient_css",
-   "nome": "Ancient CSS (mapa do mix)",
-   "categoria": "mapas",
-   "descricao": "Ancient pra CSS, necessária pro mix.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_ancient_css.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_ancient_css.zip"
-   ],
-   "tamanho": 11376012,
-   "mapa": "de_ancient_css",
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_ancient_css.jpg"
-  },
-  {
-   "id": "mapa_aimbotz",
-   "nome": "Aimbotz (treino de mira)",
-   "categoria": "mapas",
-   "descricao": "Mapa de treino pra melhorar a mira, com configs prontas. Postado por Qlf_Robert.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aimbotz.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aimbotz.zip"
-   ],
-   "tamanho": 3114434,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_aimbotz.jpg",
-   "mapa": "aimbotz"
-  },
-  {
-   "id": "mapa_aim_map",
-   "nome": "Aim Map (1v1)",
-   "categoria": "mapas",
-   "descricao": "Mapa de trocação usado pra treino 1v1. Postado por sefmy.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aim_map.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aim_map.zip"
-   ],
-   "tamanho": 482988,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_aim_map.jpg",
-   "mapa": "aim_map"
-  },
-  {
-   "id": "mapa_nuke_cs2mix",
-   "nome": "Nuke CS2 (mapa do mix)",
-   "categoria": "mapas",
-   "descricao": "Nuke estilo CS2 usada no mix.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_nuke_cs2mix.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_nuke_cs2mix.zip"
-   ],
-   "tamanho": 101654741,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_nuke_cs2mix.jpg",
-   "mapa": "de_nuke_cs2mix"
-  },
-  {
-   "id": "skins_mitsuke_full_black",
-   "nome": "Mitsuke Full Black",
-   "categoria": "skins",
-   "descricao": "Butterfly, Bayonet, M9, Karambit e Huntsman Black Laminate, AK Slate, M4A1-S Knight, AWP Black Nile, Glock Red Tire, USP Ticket to Hell, M4A4 Mainframe e luva. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_full_black.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_full_black.zip"
-   ],
-   "tamanho": 42620449,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/skins_mitsuke.jpg"
-  },
-  {
-   "id": "skins_mitsuke_amarelo",
-   "nome": "Mitsuke Amarelo (Lore)",
-   "categoria": "skins",
-   "descricao": "M9, Karambit e Butterfly Lore, AWP Dragon Lore, M4A1-S Knight, M4A4 Coalition e luva Omega. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_amarelo.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_amarelo.zip"
-   ],
-   "tamanho": 37563326
-  },
-  {
-   "id": "skins_mitsuke_preto",
-   "nome": "Mitsuke Preto",
-   "categoria": "skins",
-   "descricao": "Butterfly, Bayonet, M9 e Karambit Black Laminate, M4A1-S Black Death, AWP Atheris, Glock Red Tire, USP Ticket to Hell e luva. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_preto.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_preto.zip"
-   ],
-   "tamanho": 29477439
-  },
-  {
-   "id": "skins_mitsuke_branco",
-   "nome": "Mitsuke Branco",
-   "categoria": "skins",
-   "descricao": "Galil Tuxedo, Butterfly Urban Masked, USP Printstream, Glock Franklin, SSG Blood in the Water, MP7 Whiteout e MP9 Starlight. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_branco.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_branco.zip"
-   ],
-   "tamanho": 49728483
-  },
-  {
-   "id": "skins_mitsuke_verde",
-   "nome": "Mitsuke Verde",
-   "categoria": "skins",
-   "descricao": "USP Monster Mashup, Deagle Emerald Jörmungandr e Glock Gamma Doppler Emerald. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_verde.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_verde.zip"
-   ],
-   "tamanho": 30413834
-  },
-  {
-   "id": "skins_mitsuke_rosa",
-   "nome": "Mitsuke Rosa",
-   "categoria": "skins",
-   "descricao": "Butterfly Hello Kitty, Bayonet Neon Rider, Karambit Fade, USP e Glock personalizadas. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_rosa.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_rosa.zip"
-   ],
-   "tamanho": 38633534
-  },
-  {
-   "id": "skins_mitsuke_vermelho",
-   "nome": "Mitsuke Vermelho",
-   "categoria": "skins",
-   "descricao": "Luva Crimson Web, Deagle Crimson Web, M4A1-S Hot Rod, Glock Water Elemental, AWP e AK Redline, Talon e M9 Doppler Ruby, USP Check Engine. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_vermelho.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_vermelho.zip"
-   ],
-   "tamanho": 36778205
-  },
-  {
-   "id": "skins_mitsuke_azul",
-   "nome": "Mitsuke Azul",
-   "categoria": "skins",
-   "descricao": "Glock Twilight Galaxy, M4A1-S Blue Phosphor, M4A4 Emperor, Butterfly Doppler Phase 4, AK Vulcan, USP Blueprint e luva SuperConductor. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_azul.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_azul.zip"
-   ],
-   "tamanho": 43628638
-  },
-  {
-   "id": "skins_kit_silva13",
-   "nome": "Kit Azul/Branco (silva13)",
-   "categoria": "skins",
-   "descricao": "M9 Bayonet Kumo, Deagle Printstream e Karambit Case Hardened. Autor: silva13 (clean silva).",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_kit_silva13.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_kit_silva13.zip"
-   ],
-   "tamanho": 8016350
-  },
-  {
-   "id": "papel_loading_csgo",
-   "nome": "Loading CS:GO",
-   "categoria": "papel_parede",
-   "descricao": "Tela de carregamento estilo CS:GO com o painel amarelo. Autor: hauntedrecords.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_loading_csgo.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_loading_csgo.zip"
-   ],
-   "tamanho": 2357668
-  },
-  {
-   "id": "papel_background_valve",
-   "nome": "Fundo Valve",
-   "categoria": "papel_parede",
-   "descricao": "Fundo do menu com a tela clássica da Valve. Autor: hauntedrecords.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_background_valve.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_background_valve.zip"
-   ],
-   "tamanho": 54417
-  },
-  {
-   "id": "hud_maxeto_touch",
-   "nome": "Touch Maxeto",
-   "categoria": "hud",
-   "descricao": "Botões de touch e ícones de armas, logos e HUD do Maxeto. Substitui o HUD que estiver em uso.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_maxeto_touch.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_maxeto_touch.zip"
-   ],
-   "tamanho": 1790094
-  },
-  {
-   "id": "config_massinha",
-   "nome": "Gráficos Massinha",
-   "categoria": "configs",
-   "descricao": "Deixa o jogo com visual liso (massinha) e mais FPS. Usa sv_cheats, então só funciona offline ou em servidor que libera. Autor: Obeso Safado.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/config_massinha.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/config_massinha.zip"
-   ],
-   "tamanho": 339,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/config_massinha.jpg",
-   "exec": "mass"
-  },
-  {
-   "id": "skins_crystal_invisible",
-   "nome": "Crystal Invisible",
-   "categoria": "skins",
-   "descricao": "Armas transparentes azuladas: M4A1-S, AK-47, Desert Eagle, Glock, USP, AWP e SSG 08. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_crystal_invisible.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_crystal_invisible.zip"
-   ],
-   "tamanho": 803894,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/skins_crystal_invisible.jpg"
-  },
-  {
-   "id": "hud_cs2_v39",
-   "nome": "HUD CS2 3.9 (Killcards)",
-   "categoria": "hud",
-   "descricao": "Versão nova do HUD CS2 com menu de compra estilo CS2 e killcards. Cor TR (padrão). Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v39.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v39.zip"
-   ],
-   "tamanho": 49454246,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/hud_cs2_v39.jpg"
-  },
-  {
-   "id": "sons_csgo_2013",
-   "nome": "Sons do CS:GO 2013",
-   "categoria": "sons",
-   "descricao": "Sons antigos das armas do CS:GO de 2013. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/sons_csgo_2013.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/sons_csgo_2013.zip"
-   ],
-   "tamanho": 56321560
-  },
-  {
-   "id": "efeito_cs2_tracers",
-   "nome": "Rastro de bala CS2",
-   "categoria": "efeitos",
-   "descricao": "Rastro dos tiros (tracers) igual ao do CS2. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
-   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/efeito_cs2_tracers.zip",
-   "urls": [
-    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/efeito_cs2_tracers.zip"
-   ],
-   "tamanho": 117696,
-   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/efeito_cs2_tracers.jpg"
-  },
-  {
-   "id": "arma_ak_asiimov",
-   "nome": "AK-47 | Asiimov",
-   "categoria": "armas",
-   "descricao": "AK-47 Asiimov do CS2 (modelo CS2 + textura original, Factory New).",
-   "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0POlPPNSIeOaB2qf19F6ueZhW2e2wEt-t2jcytf6dymSO1JxA5oiRecLsRa5kIfkYr-241aLgotHz3-rkGoXuUp8oX57",
-   "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_asiimov.zip",
-   "urls": [
-    "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_asiimov.zip"
-   ],
-   "tamanho": 19239857,
-   "arma": "AK-47"
-  }
- ],
- "links": {},
- "jogo": {
-  "versao": "1.0",
-  "url_base": "https://github.com/oCarloSSAMP/csmos-hub/releases/download/v1.0/",
-  "pacotes": [
-   {
-    "nome": "csmos/mos_extras_000.vpk",
-    "arquivo": "mos_extras_000.vpk",
-    "tamanho": 209731919,
-    "sha256": "b98997b6ce913de514d6a4e02025ba656824f2c598db145feadfab6b7639d98c",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "csmos/mos_pak_000.vpk",
-    "arquivo": "mos_pak_000.vpk",
-    "tamanho": 210246162,
-    "sha256": "621be041a1d3d6b7c446a5e61381578fc1702d99f2bd9c9bae950491ffffbdc1",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "csmos/mos_pak_001.vpk",
-    "arquivo": "mos_pak_001.vpk",
-    "tamanho": 214491546,
-    "sha256": "e2101390c7adf1f17f571ab35f81134ee10b3dbe6dfeadb6f530daaf31816b41",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "csmos/mos_pak_002.vpk",
-    "arquivo": "mos_pak_002.vpk",
-    "tamanho": 278250566,
-    "sha256": "9f171ef9d445725275cd76ce183cd8c33ebb14f393997732560232b079be99ae",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "csmos/mos_pak_003.vpk",
-    "arquivo": "mos_pak_003.vpk",
-    "tamanho": 209743534,
-    "sha256": "7fb6a6166ecb788f6a96daf9e115a60a846211b6fbcb9bc0786b44047640ad03",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "csmos/mos_pak_004.vpk",
-    "arquivo": "mos_pak_004.vpk",
-    "tamanho": 209748512,
-    "sha256": "00a2f5d2757b5141c41b14fccdd377c315f80b18f2f0eeca54555b510a4bb3cd",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "csmos/mos_pak_005.vpk",
-    "arquivo": "mos_pak_005.vpk",
-    "tamanho": 209793959,
-    "sha256": "36d2971300d06ac3c2137467b7739c159cbd7c3ace341983440a4ead4a025ab5",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/cstrike_pak_000.vpk",
-    "arquivo": "cstrike_pak_000.vpk",
-    "tamanho": 209722141,
-    "sha256": "091f9135fb0796d82058f85863d04c87d2d7b0ca3e352cfcd322c28e55dadb64",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/cstrike_pak_001.vpk",
-    "arquivo": "cstrike_pak_001.vpk",
-    "tamanho": 209891400,
-    "sha256": "3b7973a053b020560a98b0ba7947fc548b5fa9a79b9de0d6aa2b4f7d1572b34d",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/cstrike_pak_002.vpk",
-    "arquivo": "cstrike_pak_002.vpk",
-    "tamanho": 116886530,
-    "sha256": "cf7ec74834ab22538e25e73af1de5fe015b7f0583e61ef24a7ac52aafa63f757",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/de_ancient_csgo_cssold.bsp",
-    "arquivo": "de_ancient_csgo_cssold.bsp",
-    "tamanho": 148073254,
-    "sha256": "1f28eb96042532e08aceac91da8810832fa91319d51da88d0736f0c90ac76d77",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/de_anubis_css.bsp",
-    "arquivo": "de_anubis_css.bsp",
-    "tamanho": 81926028,
-    "sha256": "0283e86ef1476923803d6203560a700adea291fdfba6ed993b86791e9a5b5717",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/de_cbble_go.bsp",
-    "arquivo": "de_cbble_go.bsp",
-    "tamanho": 173584344,
-    "sha256": "d4b527bb802580ad19bb77d5aff011bce1a97a1a351c4d6620c0be1b747d6368",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/de_inferno_csgo_cssold.bsp",
-    "arquivo": "de_inferno_csgo_cssold.bsp",
-    "tamanho": 128166420,
-    "sha256": "559872c32c6d7b6808fb0f55a83575fc431fbe9cbc9eb61ddd8ecce830e947d7",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/de_inferno_csgo_cssold_fix.bsp",
-    "arquivo": "de_inferno_csgo_cssold_fix.bsp",
-    "tamanho": 123654312,
-    "sha256": "faa19077b07bd467ff76027683750ead0476aa49491094408e8bf01432c24634",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/de_nukenew_csgo.bsp",
-    "arquivo": "de_nukenew_csgo.bsp",
-    "tamanho": 158358172,
-    "sha256": "f0f3acf722a53298fed5747909ea8b247c5cb16627d661ba63e62128b22b622f",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/de_overpass_cs2.bsp",
-    "arquivo": "de_overpass_cs2.bsp",
-    "tamanho": 375131170,
-    "sha256": "d516a0bc32ec8aca14d20752fe697b690ca7e9f0fd7ef7585bc20b3d5839a727",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/de_vertigo_csgo_v34_fix.bsp",
-    "arquivo": "de_vertigo_csgo_v34_fix.bsp",
-    "tamanho": 88606496,
-    "sha256": "ce587dae67c40e2c947de622562d4f99364f032d7688f1f60966a8a90dc7c9b5",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/inferno2.bsp",
-    "arquivo": "inferno2.bsp",
-    "tamanho": 369522628,
-    "sha256": "30b54371a3f5775d9adfb6d13393b09e14f818df05e9e4ed2466185cdc67b6bc",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/mirage2.bsp",
-    "arquivo": "mirage2.bsp",
-    "tamanho": 111595473,
-    "sha256": "2ced1429b871e3799040b89a36caf39029d16e80ee336899014fc8d46a66566e",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "cstrike/maps/vertigo2.bsp",
-    "arquivo": "vertigo2.bsp",
-    "tamanho": 99788686,
-    "sha256": "460e25c4e7d33c65dcdac492c3160a8aa2b36792e5eff01edbb1448c6b2e0eb6",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "hl2/hl2_misc_000.vpk",
-    "arquivo": "hl2_misc_000.vpk",
-    "tamanho": 113051756,
-    "sha256": "d4d0633db715f12c1f8321465c5b7a365aa8385d76c9fd945f36b75b8d5fb38f",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "hl2/hl2_misc_001.vpk",
-    "arquivo": "hl2_misc_001.vpk",
-    "tamanho": 112721564,
-    "sha256": "e3812d4092b18c67b33f09c0423bf4ca5e1b834253c5a69456e9d3948a2a0104",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "hl2/hl2_misc_002.vpk",
-    "arquivo": "hl2_misc_002.vpk",
-    "tamanho": 112856674,
-    "sha256": "abb0d8f7263291b2da81f4ca151d52e42dc0262ec11263dbb1093666c077e4c2",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "hl2/hl2_misc_003.vpk",
-    "arquivo": "hl2_misc_003.vpk",
-    "tamanho": 127103582,
-    "sha256": "ad78cc8de64664653419908431823db1adb001dd5a6c1fc64d9e11b623d26f7c",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "hl2/hl2_textures_000.vpk",
-    "arquivo": "hl2_textures_000.vpk",
-    "tamanho": 209734184,
-    "sha256": "399070565d411d140b6af547ffb143ca2513e263b632102cd59daa0b8b317d4e",
-    "tipo": "arquivo"
-   },
-   {
-    "nome": "base_01.zip",
-    "arquivo": "base_01.zip",
-    "tamanho": 404460866,
-    "sha256": "0c51eafa40dd090e678a95edc6996e18b6cc39d06b3c402871471564d5c9ded7",
-    "tipo": "zip"
-   },
-   {
-    "nome": "base_02.zip",
-    "arquivo": "base_02.zip",
-    "tamanho": 151999430,
-    "sha256": "4d6f3bba0115b15df5ca78b6d82d8af8543093d64ae9b6b42030565e15df2f7e",
-    "tipo": "zip"
-   }
+  "categorias": [
+    {
+      "id": "armas",
+      "nome": "Skins por arma",
+      "descricao": "Escolha a skin de uma arma só",
+      "exclusiva": false
+    },
+    {
+      "id": "efeitos",
+      "nome": "Efeitos",
+      "descricao": "Rastro de bala, sangue e partículas",
+      "exclusiva": false,
+      "pasta_solta": "particles"
+    }
   ]
- },
- "categorias": [
-  {
-   "id": "armas",
-   "nome": "Skins por arma",
-   "descricao": "Escolha a skin de uma arma só",
-   "exclusiva": false
-  },
-  {
-   "id": "efeitos",
-   "nome": "Efeitos",
-   "descricao": "Rastro de bala, sangue e partículas",
-   "exclusiva": false,
-   "pasta_solta": "particles"
-  }
- ]
 }
