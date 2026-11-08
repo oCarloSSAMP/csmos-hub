@@ -3626,6 +3626,32 @@
       ],
       "tamanho": 1238552,
       "arma": "P2000"
+    },
+    {
+      "id": "arma_p250_so_sand",
+      "nome": "P250 | Sand Dune",
+      "categoria": "armas",
+      "descricao": "P250 | Sand Dune do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFU0OGvZqBSLPmUBnPelesn5-RrSXDlwRhx5TjSwtmocCifPwQpDpshReBfsxPrk4DhNu3jshue1dy8VcXxuA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_sand.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_sand.zip"
+      ],
+      "tamanho": 1106260,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_so_whiteout",
+      "nome": "P250 | Whiteout",
+      "categoria": "armas",
+      "descricao": "P250 | Whiteout do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFU0OWmYbBoL-WHMWuZxuZi_rJqTCq1wUUh6mSBntaqdHyTPFdzXJQjTeMLskTrk9zlN-7lsgyM34lbjXKp2HY6z6k",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_whiteout.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_whiteout.zip"
+      ],
+      "tamanho": 1106288,
+      "arma": "P250"
     }
   ],
   "links": {},
