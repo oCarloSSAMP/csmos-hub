@@ -3509,6 +3509,32 @@
       ],
       "tamanho": 1891997,
       "arma": "Negev"
+    },
+    {
+      "id": "arma_m249_so_jungle",
+      "nome": "M249 | Jungle",
+      "categoria": "armas",
+      "descricao": "M249 | Jungle do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0Pi7ZqNhJc-fB2CY1aB3tbI4S3ngl04ktj7XnNb7InvCOgAlC5Z4Q7ID4RHqlNDgZOPj4Qzdlcsbmsfre7St",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_jungle.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_jungle.zip"
+      ],
+      "tamanho": 1452963,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_so_keycolors",
+      "nome": "M249 | Impact Drill",
+      "categoria": "armas",
+      "descricao": "M249 | Impact Drill do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0PmrcadiLP-BHVicyOl-pK9rS3jlxBhztznQmNmrIn-VbFcmW5ZyReZe5hi9m4e1MO7j4w2Mg91A02yg2QZ4bFj3",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_keycolors.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_keycolors.zip"
+      ],
+      "tamanho": 1452960,
+      "arma": "M249"
     }
   ],
   "links": {},
