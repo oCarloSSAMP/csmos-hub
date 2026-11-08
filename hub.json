@@ -3080,6 +3080,45 @@
       ],
       "tamanho": 1406977,
       "arma": "G3SG1"
+    },
+    {
+      "id": "arma_scar20_an_emerald_bravo",
+      "nome": "SCAR-20 | Emerald",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Emerald do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7vyRbaloMvGfCliS0-9gv95lRi67gVMh5WuDyY2qeH7CbQ8jDMR0RuQDuhOwxtCzZL_ksVTe3otByyz3inkY8G81tKuEs31W",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_an_emerald_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_an_emerald_bravo.zip"
+      ],
+      "tamanho": 1345843,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_so_pmc",
+      "nome": "SCAR-20 | Contractor",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Contractor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_P2ReKluH_yaCW-Ej7914-I_HHznx0lz4jmDwtaoJXOebgMlApt0EeJbt0W7xIG0Muzl5wTAy9USD_fgAo4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_pmc.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_pmc.zip"
+      ],
+      "tamanho": 1345820,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_so_stormfront",
+      "nome": "SCAR-20 | Storm",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Storm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_P2Re7BiMv2VHGie1dF6ueZhW2fjxBgl5jyAntytc3ifO1AjXpslRLFft0PtxoXkMuKwslaPg49MmHj6kGoXuUn7n6Ef",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_stormfront.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_stormfront.zip"
+      ],
+      "tamanho": 1345826,
+      "arma": "SCAR-20"
     }
   ],
   "links": {},
