@@ -1,9 +1,9 @@
 {
  "app": {
-  "versao": 4,
-  "nome": "1.3",
-  "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.3.apk",
-  "notas": "Aba Conteúdo com mapas, skins e HUD prontos pra instalar, escolha de resolução e troca de nome.",
+  "versao": 5,
+  "nome": "1.4",
+  "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.4.apk",
+  "notas": "Conteúdos novos (mapas do mix, HUD e skins), escolha de resolução mais fácil e aviso de atualização mesmo com o app aberto.",
   "obrigatorio": true
  },
  "anuncio": "Bem-vindo ao CSMOS Hub!",
