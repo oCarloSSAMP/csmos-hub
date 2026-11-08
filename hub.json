@@ -1,9 +1,9 @@
 {
  "app": {
-  "versao": 5,
-  "nome": "1.4",
-  "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.4.apk",
-  "notas": "Conteúdos novos (mapas do mix, HUD e skins), escolha de resolução mais fácil e aviso de atualização mesmo com o app aberto.",
+  "versao": 6,
+  "nome": "1.5",
+  "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.5.apk",
+  "notas": "Corrige o download dos conteúdos (mapas, HUD e skins).",
   "obrigatorio": true
  },
  "anuncio": "Bem-vindo ao CSMOS Hub!",
@@ -20,45 +20,47 @@
    "nome": "HUD CS2 3.8 (Killcards)",
    "categoria": "hud",
    "descricao": "HUD estilo CS2 com killcards remasterizadas e ícones de vitória centralizados. Feito pra 1280x720, funciona em widescreen e esticada. Autor: 10's.",
-   "url": "https://www.mediafire.com/file/ndoq3ensjejye5o/HUD_CS2_NEW_KILLCARDS_V3.8.zip/file",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v38.zip",
    "urls": [
-    "https://www.mediafire.com/file/ndoq3ensjejye5o/HUD_CS2_NEW_KILLCARDS_V3.8.zip/file"
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v38.zip"
    ],
-   "tamanho": 52052232
+   "tamanho": 50328386
   },
   {
    "id": "skins_all_black_tired",
    "nome": "Pack All Black (Tired)",
    "categoria": "skins",
    "descricao": "Skins todas pretas: USP-S, M4A1-S, AWP, Deagle, Glock, AK-47 e faca Nomad. Autor: pareianuncakk (Pack do Tired).",
-   "url": "https://www.mediafire.com/file/zgln00v7pbhhxxq/all+black.zip/file",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_all_black_tired.zip",
    "urls": [
-    "https://www.mediafire.com/file/zgln00v7pbhhxxq/all+black.zip/file"
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_all_black_tired.zip"
    ],
-   "tamanho": 9199762
+   "tamanho": 7047801
   },
   {
    "id": "mapa_dust2_v2",
    "nome": "Dust2 (mapa do mix)",
    "categoria": "mapas",
    "descricao": "Dust2 estilo CS:GO usada no mix. Instale se não tiver o mapa.",
-   "url": "https://www.mediafire.com/file/f508bwi1lhch848/de_dust2_csgo_new_v2.bsp/file",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_dust2_v2.zip.parte00",
    "urls": [
-    "https://www.mediafire.com/file/f508bwi1lhch848/de_dust2_csgo_new_v2.bsp/file"
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_dust2_v2.zip.parte00",
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_dust2_v2.zip.parte01"
    ],
-   "tamanho": 308174828,
-   "mapa": "de_dust2_csgo_new_v2"
+   "tamanho": 154655960,
+   "mapa": "de_dust2_csgo_new_v2",
+   "juntar": true
   },
   {
    "id": "mapa_mirage_cs2",
    "nome": "Mirage CS2 (mapa do mix)",
    "categoria": "mapas",
    "descricao": "Mirage estilo CS2 usada no mix.",
-   "url": "https://www.mediafire.com/file/j6pgsrota72qyc2/de_mirage_cs2.bsp/file",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_mirage_cs2.zip",
    "urls": [
-    "https://www.mediafire.com/file/j6pgsrota72qyc2/de_mirage_cs2.bsp/file"
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_mirage_cs2.zip"
    ],
-   "tamanho": 111595473,
+   "tamanho": 55478006,
    "mapa": "de_mirage_cs2"
   },
   {
@@ -66,12 +68,11 @@
    "nome": "Anubis CS2 (mapa do mix)",
    "categoria": "mapas",
    "descricao": "Anubis estilo CS2 usada no mix, com navegação pra bots.",
-   "url": "https://www.mediafire.com/file/o6ggs3bm4fe3wtu/de_anubis_cs2mix.bsp/file",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_anubis_cs2mix.zip",
    "urls": [
-    "https://www.mediafire.com/file/o6ggs3bm4fe3wtu/de_anubis_cs2mix.bsp/file",
-    "https://www.mediafire.com/file/hpxrbrudzzacnje/de_anubis_cs2mix.nav/file"
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_anubis_cs2mix.zip"
    ],
-   "tamanho": 0,
+   "tamanho": 44818699,
    "mapa": "de_anubis_cs2mix"
   },
   {
@@ -79,12 +80,11 @@
    "nome": "Ancient CSS (mapa do mix)",
    "categoria": "mapas",
    "descricao": "Ancient pra CSS, necessária pro mix.",
-   "url": "https://www.mediafire.com/file/2usf2kdvh7hyxf1/de_ancient_css.bsp/file",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_ancient_css.zip",
    "urls": [
-    "https://www.mediafire.com/file/2usf2kdvh7hyxf1/de_ancient_css.bsp/file",
-    "https://www.mediafire.com/file/ztif5u38dqgkjr0/de_ancient_css.nav/file"
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_ancient_css.zip"
    ],
-   "tamanho": 29207352,
+   "tamanho": 11376012,
    "mapa": "de_ancient_css"
   }
  ],
