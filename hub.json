@@ -1,0 +1,214 @@
+{
+ "anuncio": "Bem-vindo ao CSMOS Hub!",
+ "servidores": [
+  {
+   "nome": "DEATHMATCH | oCarloS x Qlf_Robert",
+   "ip": "124.198.128.99",
+   "porta": 27015
+  }
+ ],
+ "conteudo": [],
+ "links": {},
+ "jogo": {
+  "versao": "1.0",
+  "url_base": "https://github.com/oCarloSSAMP/csmos-hub/releases/download/v1.0/",
+  "pacotes": [
+   {
+    "nome": "csmos/mos_extras_000.vpk",
+    "arquivo": "mos_extras_000.vpk",
+    "tamanho": 209731919,
+    "sha256": "b98997b6ce913de514d6a4e02025ba656824f2c598db145feadfab6b7639d98c",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "csmos/mos_pak_000.vpk",
+    "arquivo": "mos_pak_000.vpk",
+    "tamanho": 210246162,
+    "sha256": "621be041a1d3d6b7c446a5e61381578fc1702d99f2bd9c9bae950491ffffbdc1",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "csmos/mos_pak_001.vpk",
+    "arquivo": "mos_pak_001.vpk",
+    "tamanho": 214491546,
+    "sha256": "e2101390c7adf1f17f571ab35f81134ee10b3dbe6dfeadb6f530daaf31816b41",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "csmos/mos_pak_002.vpk",
+    "arquivo": "mos_pak_002.vpk",
+    "tamanho": 278250566,
+    "sha256": "9f171ef9d445725275cd76ce183cd8c33ebb14f393997732560232b079be99ae",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "csmos/mos_pak_003.vpk",
+    "arquivo": "mos_pak_003.vpk",
+    "tamanho": 209743534,
+    "sha256": "7fb6a6166ecb788f6a96daf9e115a60a846211b6fbcb9bc0786b44047640ad03",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "csmos/mos_pak_004.vpk",
+    "arquivo": "mos_pak_004.vpk",
+    "tamanho": 209748512,
+    "sha256": "00a2f5d2757b5141c41b14fccdd377c315f80b18f2f0eeca54555b510a4bb3cd",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "csmos/mos_pak_005.vpk",
+    "arquivo": "mos_pak_005.vpk",
+    "tamanho": 209793959,
+    "sha256": "36d2971300d06ac3c2137467b7739c159cbd7c3ace341983440a4ead4a025ab5",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/cstrike_pak_000.vpk",
+    "arquivo": "cstrike_pak_000.vpk",
+    "tamanho": 209722141,
+    "sha256": "091f9135fb0796d82058f85863d04c87d2d7b0ca3e352cfcd322c28e55dadb64",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/cstrike_pak_001.vpk",
+    "arquivo": "cstrike_pak_001.vpk",
+    "tamanho": 209891400,
+    "sha256": "3b7973a053b020560a98b0ba7947fc548b5fa9a79b9de0d6aa2b4f7d1572b34d",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/cstrike_pak_002.vpk",
+    "arquivo": "cstrike_pak_002.vpk",
+    "tamanho": 116886530,
+    "sha256": "cf7ec74834ab22538e25e73af1de5fe015b7f0583e61ef24a7ac52aafa63f757",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/de_ancient_csgo_cssold.bsp",
+    "arquivo": "de_ancient_csgo_cssold.bsp",
+    "tamanho": 148073254,
+    "sha256": "1f28eb96042532e08aceac91da8810832fa91319d51da88d0736f0c90ac76d77",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/de_anubis_css.bsp",
+    "arquivo": "de_anubis_css.bsp",
+    "tamanho": 81926028,
+    "sha256": "0283e86ef1476923803d6203560a700adea291fdfba6ed993b86791e9a5b5717",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/de_cbble_go.bsp",
+    "arquivo": "de_cbble_go.bsp",
+    "tamanho": 173584344,
+    "sha256": "d4b527bb802580ad19bb77d5aff011bce1a97a1a351c4d6620c0be1b747d6368",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/de_inferno_csgo_cssold.bsp",
+    "arquivo": "de_inferno_csgo_cssold.bsp",
+    "tamanho": 128166420,
+    "sha256": "559872c32c6d7b6808fb0f55a83575fc431fbe9cbc9eb61ddd8ecce830e947d7",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/de_inferno_csgo_cssold_fix.bsp",
+    "arquivo": "de_inferno_csgo_cssold_fix.bsp",
+    "tamanho": 123654312,
+    "sha256": "faa19077b07bd467ff76027683750ead0476aa49491094408e8bf01432c24634",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/de_nukenew_csgo.bsp",
+    "arquivo": "de_nukenew_csgo.bsp",
+    "tamanho": 158358172,
+    "sha256": "f0f3acf722a53298fed5747909ea8b247c5cb16627d661ba63e62128b22b622f",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/de_overpass_cs2.bsp",
+    "arquivo": "de_overpass_cs2.bsp",
+    "tamanho": 375131170,
+    "sha256": "d516a0bc32ec8aca14d20752fe697b690ca7e9f0fd7ef7585bc20b3d5839a727",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/de_vertigo_csgo_v34_fix.bsp",
+    "arquivo": "de_vertigo_csgo_v34_fix.bsp",
+    "tamanho": 88606496,
+    "sha256": "ce587dae67c40e2c947de622562d4f99364f032d7688f1f60966a8a90dc7c9b5",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/inferno2.bsp",
+    "arquivo": "inferno2.bsp",
+    "tamanho": 369522628,
+    "sha256": "30b54371a3f5775d9adfb6d13393b09e14f818df05e9e4ed2466185cdc67b6bc",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/mirage2.bsp",
+    "arquivo": "mirage2.bsp",
+    "tamanho": 111595473,
+    "sha256": "2ced1429b871e3799040b89a36caf39029d16e80ee336899014fc8d46a66566e",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "cstrike/maps/vertigo2.bsp",
+    "arquivo": "vertigo2.bsp",
+    "tamanho": 99788686,
+    "sha256": "460e25c4e7d33c65dcdac492c3160a8aa2b36792e5eff01edbb1448c6b2e0eb6",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "hl2/hl2_misc_000.vpk",
+    "arquivo": "hl2_misc_000.vpk",
+    "tamanho": 113051756,
+    "sha256": "d4d0633db715f12c1f8321465c5b7a365aa8385d76c9fd945f36b75b8d5fb38f",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "hl2/hl2_misc_001.vpk",
+    "arquivo": "hl2_misc_001.vpk",
+    "tamanho": 112721564,
+    "sha256": "e3812d4092b18c67b33f09c0423bf4ca5e1b834253c5a69456e9d3948a2a0104",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "hl2/hl2_misc_002.vpk",
+    "arquivo": "hl2_misc_002.vpk",
+    "tamanho": 112856674,
+    "sha256": "abb0d8f7263291b2da81f4ca151d52e42dc0262ec11263dbb1093666c077e4c2",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "hl2/hl2_misc_003.vpk",
+    "arquivo": "hl2_misc_003.vpk",
+    "tamanho": 127103582,
+    "sha256": "ad78cc8de64664653419908431823db1adb001dd5a6c1fc64d9e11b623d26f7c",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "hl2/hl2_textures_000.vpk",
+    "arquivo": "hl2_textures_000.vpk",
+    "tamanho": 209734184,
+    "sha256": "399070565d411d140b6af547ffb143ca2513e263b632102cd59daa0b8b317d4e",
+    "tipo": "arquivo"
+   },
+   {
+    "nome": "base_01.zip",
+    "arquivo": "base_01.zip",
+    "tamanho": 404460866,
+    "sha256": "0c51eafa40dd090e678a95edc6996e18b6cc39d06b3c402871471564d5c9ded7",
+    "tipo": "zip"
+   },
+   {
+    "nome": "base_02.zip",
+    "arquivo": "base_02.zip",
+    "tamanho": 151999430,
+    "sha256": "4d6f3bba0115b15df5ca78b6d82d8af8543093d64ae9b6b42030565e15df2f7e",
+    "tipo": "zip"
+   }
+  ]
+ }
+}
