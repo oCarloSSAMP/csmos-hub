@@ -6241,19 +6241,6 @@
       "arma": "AWP"
     },
     {
-      "id": "arma_ak_puffer_custom",
-      "nome": "AK-47 | The Oligarch",
-      "categoria": "armas",
-      "descricao": "AK-47 | The Oligarch do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WReLFrJvWBMWSF0vp5vd5lRi67gVNz4Tvdn4qoJC3Ba1V1WcdxTbFcsEbpxoHhNunnsVPYitlFm3392C4f8G81tEVBuxrI",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_puffer_custom.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_puffer_custom.zip"
-      ],
-      "tamanho": 1844329,
-      "arma": "AK-47"
-    },
-    {
       "id": "arma_awp_ice_coaled",
       "nome": "AWP | Ice Coaled",
       "categoria": "armas",
@@ -6277,6 +6264,19 @@
         "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_cobra.zip"
       ],
       "tamanho": 1333599,
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_puffer_custom",
+      "nome": "AK-47 | The Oligarch",
+      "categoria": "armas",
+      "descricao": "AK-47 | The Oligarch do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WReLFrJvWBMWSF0vp5vd5lRi67gVNz4Tvdn4qoJC3Ba1V1WcdxTbFcsEbpxoHhNunnsVPYitlFm3392C4f8G81tEVBuxrI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_puffer_custom.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_puffer_custom.zip"
+      ],
+      "tamanho": 3450668,
       "arma": "AK-47"
     }
   ],
