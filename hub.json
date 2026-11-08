@@ -1195,6 +1195,97 @@
       ],
       "tamanho": 5002484,
       "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_ak47_puffer_custom",
+      "nome": "AK-47 | The Oligarch",
+      "categoria": "armas",
+      "descricao": "AK-47 | The Oligarch do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WReLFrJvWBMWSF0vp5vd5lRi67gVNz4Tvdn4qoJC3Ba1V1WcdxTbFcsEbpxoHhNunnsVPYitlFm3392C4f8G81tEVBuxrI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_ak47_puffer_custom.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_ak47_puffer_custom.zip"
+      ],
+      "tamanho": 3450660,
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_gsch_ak_djiin",
+      "nome": "AK-47 | Aphrodite",
+      "categoria": "armas",
+      "descricao": "AK-47 | Aphrodite do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiVI7PqRaa9SJPqaB2mvzedxuPUnGCi3wktzt2rRn92pdXuXbA4iDcdxQOIMsBK4k9S2Zeiw4lTdjdhNyTK-0H1wmrL4zA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_gsch_ak_djiin.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_gsch_ak_djiin.zip"
+      ],
+      "tamanho": 4169190,
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_hye_ak47_nouveau",
+      "nome": "AK-47 | Nouveau Rouge",
+      "categoria": "armas",
+      "descricao": "AK-47 | Nouveau Rouge do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wipC6s2vY_A6H_6cG3GVwPtJvOhuRz39zBsm5j-HyNqpd32fPVd1AsB3RbEP4xntwdPuM-jl4QaK2NpCzX_23DQJsHjpyGbntg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_hye_ak47_nouveau.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_hye_ak47_nouveau.zip"
+      ],
+      "tamanho": 3021392,
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_hye_zeds",
+      "nome": "AK-47 | Breakthrough",
+      "categoria": "armas",
+      "descricao": "AK-47 | Breakthrough do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wipC6s20baB-H_yaCW-Ej-olseI8Gyq1kBkh4GrVz4queXySPAd0XJEkQ7UMu0TrldaxYbzjsw3Ay9USrh0CgFA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_hye_zeds.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_hye_zeds.zip"
+      ],
+      "tamanho": 3872539,
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_soe_iridescent_purple",
+      "nome": "AK-47 | Midnight Laminate",
+      "categoria": "armas",
+      "descricao": "AK-47 | Midnight Laminate do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wjFU6s2neq1pJeOQC2mE_v5jovFlSha_nBovp3PRnt36d36UOlUmCcF2TOZfsRC_ldW1ML625AbZ2dhHyn_7jSgauCtp_a9cBpVVSdXG",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_soe_iridescent_purple.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_soe_iridescent_purple.zip"
+      ],
+      "tamanho": 3552088,
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_soe_metallic_green_2",
+      "nome": "AK-47 | Wintergreen",
+      "categoria": "armas",
+      "descricao": "AK-47 | Wintergreen do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wjFU6s2jbbBsLPyaDViX0-tzvt47cCW6khUz_W-Ay96seSrBaQcnDJRyTbMDuxTsw9bmNLy0sQPb34JNyn_-jS9N6n51o7FVK4Nkj6A",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_soe_metallic_green_2.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_soe_metallic_green_2.zip"
+      ],
+      "tamanho": 2924460,
+      "arma": "AK-47"
+    },
+    {
+      "id": "arma_ak_soe_varicamo",
+      "nome": "AK-47 | VariCamo Grey",
+      "categoria": "armas",
+      "descricao": "AK-47 | VariCamo Grey do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wjFU6s24abZkI_GeAVicyOl-pK8_TXvhxh5_626Bn477dn-fbQcnXMZzEeMPtxe_w9DhY-OztAXc2IsT02yg2Vc0ERtW",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_soe_varicamo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_soe_varicamo.zip"
+      ],
+      "tamanho": 3474605,
+      "arma": "AK-47"
     }
   ],
   "links": {},
