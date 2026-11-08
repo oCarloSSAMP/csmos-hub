@@ -1,4 +1,11 @@
 {
+ "app": {
+  "versao": 2,
+  "nome": "1.1",
+  "url": "https://github.com/oCarloSSAMP/csmos-hub/releases/download/hub-1.1/CSMOS-Hub-1.1.apk",
+  "notas": "Corrige a tela preta ao entrar direto no servidor e adiciona a troca de nome.",
+  "obrigatorio": true
+ },
  "anuncio": "Bem-vindo ao CSMOS Hub!",
  "servidores": [
   {
