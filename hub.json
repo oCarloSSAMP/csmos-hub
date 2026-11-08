@@ -1,9 +1,9 @@
 {
  "app": {
-  "versao": 6,
-  "nome": "1.5",
-  "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.5.apk",
-  "notas": "Corrige o download dos conteúdos (mapas, HUD e skins).",
+  "versao": 7,
+  "nome": "1.6",
+  "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.6.apk",
+  "notas": "Nova seção Skins por arma, com busca e filtro por arma.",
   "obrigatorio": true
  },
  "anuncio": "Bem-vindo ao CSMOS Hub!",
@@ -15,6 +15,164 @@
   }
  ],
  "conteudo": [
+  {
+   "id": "arma_ak_oligarch",
+   "nome": "AK-47 The Oligarch (Gold)",
+   "categoria": "armas",
+   "descricao": "AK-47 The Oligarch dourada com adesivos Cologne e animações. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_oligarch.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_oligarch.zip"
+   ],
+   "tamanho": 10796403,
+   "arma": "AK-47"
+  },
+  {
+   "id": "arma_ak_blood_sport",
+   "nome": "AK-47 Blood Sport",
+   "categoria": "armas",
+   "descricao": "AK-47 Blood Sport com 4 adesivos 2014. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_blood_sport.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_blood_sport.zip"
+   ],
+   "tamanho": 5278069,
+   "arma": "AK-47"
+  },
+  {
+   "id": "arma_ak_treasure_hunter",
+   "nome": "AK-47 Treasure Hunter",
+   "categoria": "armas",
+   "descricao": "AK-47 dourada Treasure Hunter (port do Standoff 2). Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_treasure_hunter.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_treasure_hunter.zip"
+   ],
+   "tamanho": 2237976,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/arma_ak_treasure_hunter.jpg",
+   "arma": "AK-47"
+  },
+  {
+   "id": "arma_ak_cs2",
+   "nome": "AK-47 modelo CS2",
+   "categoria": "armas",
+   "descricao": "Troca a AK-47 pelo modelo novo do CS2, com som. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_cs2.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_ak_cs2.zip"
+   ],
+   "tamanho": 26622207,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/arma_ak_cs2.jpg",
+   "arma": "AK-47"
+  },
+  {
+   "id": "arma_m4a1s_jewelry",
+   "nome": "M4A1-S Jewelry (VIP)",
+   "categoria": "armas",
+   "descricao": "M4A1-S dourada Jewelry, port feito pelo Shinon. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m4a1s_jewelry.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m4a1s_jewelry.zip"
+   ],
+   "tamanho": 11966433,
+   "arma": "M4A1-S"
+  },
+  {
+   "id": "arma_awp_noelle",
+   "nome": "AWP Noelle",
+   "categoria": "armas",
+   "descricao": "AWP Noelle estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_awp_noelle.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_awp_noelle.zip"
+   ],
+   "tamanho": 15579469,
+   "arma": "AWP"
+  },
+  {
+   "id": "arma_deagle_printstream",
+   "nome": "Desert Eagle Printstream",
+   "categoria": "armas",
+   "descricao": "Desert Eagle Printstream (FN). Do kit do silva13.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_deagle_printstream.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_deagle_printstream.zip"
+   ],
+   "tamanho": 3375369,
+   "arma": "Desert Eagle"
+  },
+  {
+   "id": "arma_karambit_case_hardened",
+   "nome": "Karambit Case Hardened",
+   "categoria": "armas",
+   "descricao": "Karambit Case Hardened (FN). Do kit do silva13.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_karambit_case_hardened.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_karambit_case_hardened.zip"
+   ],
+   "tamanho": 3365930,
+   "arma": "Faca"
+  },
+  {
+   "id": "arma_m9_kumo",
+   "nome": "M9 Bayonet Kumo",
+   "categoria": "armas",
+   "descricao": "M9 Bayonet Kumo. Do kit do silva13.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m9_kumo.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m9_kumo.zip"
+   ],
+   "tamanho": 1275095,
+   "arma": "Faca"
+  },
+  {
+   "id": "arma_luva_driver_wave_chaser",
+   "nome": "Luva Driver Wave Chaser",
+   "categoria": "armas",
+   "descricao": "Luva Driver Gloves Wave Chaser estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_driver_wave_chaser.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_driver_wave_chaser.zip"
+   ],
+   "tamanho": 7016082,
+   "arma": "Luvas"
+  },
+  {
+   "id": "arma_luva_sport_frosty",
+   "nome": "Luva Sport Frosty",
+   "categoria": "armas",
+   "descricao": "Luva Sport Gloves Frosty estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_frosty.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_frosty.zip"
+   ],
+   "tamanho": 8628399,
+   "arma": "Luvas"
+  },
+  {
+   "id": "arma_luva_sport_nocts",
+   "nome": "Luva Sport Nocts",
+   "categoria": "armas",
+   "descricao": "Luva Sport Gloves Nocts estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_nocts.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_nocts.zip"
+   ],
+   "tamanho": 7686102,
+   "arma": "Luvas"
+  },
+  {
+   "id": "arma_luva_sport_hedge_maze",
+   "nome": "Luva Sport Hedge Maze",
+   "categoria": "armas",
+   "descricao": "Luva Sport Gloves Hedge Maze estilo CS2. Do tópico 'wasted skins soltas e custom' (Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_hedge_maze.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_luva_sport_hedge_maze.zip"
+   ],
+   "tamanho": 5731117,
+   "arma": "Luvas"
+  },
   {
    "id": "hud_cs2_v38",
    "nome": "HUD CS2 3.8 (Killcards)",
@@ -275,6 +433,53 @@
    "tamanho": 339,
    "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/config_massinha.jpg",
    "exec": "mass"
+  },
+  {
+   "id": "skins_crystal_invisible",
+   "nome": "Crystal Invisible",
+   "categoria": "skins",
+   "descricao": "Armas transparentes azuladas: M4A1-S, AK-47, Desert Eagle, Glock, USP, AWP e SSG 08. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_crystal_invisible.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_crystal_invisible.zip"
+   ],
+   "tamanho": 803894,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/skins_crystal_invisible.jpg"
+  },
+  {
+   "id": "hud_cs2_v39",
+   "nome": "HUD CS2 3.9 (Killcards)",
+   "categoria": "hud",
+   "descricao": "Versão nova do HUD CS2 com menu de compra estilo CS2 e killcards. Cor TR (padrão). Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v39.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_cs2_v39.zip"
+   ],
+   "tamanho": 49454246,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/hud_cs2_v39.jpg"
+  },
+  {
+   "id": "sons_csgo_2013",
+   "nome": "Sons do CS:GO 2013",
+   "categoria": "sons",
+   "descricao": "Sons antigos das armas do CS:GO de 2013. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/sons_csgo_2013.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/sons_csgo_2013.zip"
+   ],
+   "tamanho": 56321560
+  },
+  {
+   "id": "efeito_cs2_tracers",
+   "nome": "Rastro de bala CS2",
+   "categoria": "efeitos",
+   "descricao": "Rastro dos tiros (tracers) igual ao do CS2. Do fórum Especial-Skinpacks (Discord Qlf_Robert), postado por Qlf_Robert.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/efeito_cs2_tracers.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/efeito_cs2_tracers.zip"
+   ],
+   "tamanho": 117696,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/efeito_cs2_tracers.jpg"
   }
  ],
  "links": {},
@@ -479,5 +684,20 @@
     "tipo": "zip"
    }
   ]
- }
+ },
+ "categorias": [
+  {
+   "id": "armas",
+   "nome": "Skins por arma",
+   "descricao": "Escolha a skin de uma arma só",
+   "exclusiva": false
+  },
+  {
+   "id": "efeitos",
+   "nome": "Efeitos",
+   "descricao": "Rastro de bala, sangue e partículas",
+   "exclusiva": false,
+   "pasta_solta": "particles"
+  }
+ ]
 }
