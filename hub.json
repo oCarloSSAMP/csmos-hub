@@ -3769,6 +3769,71 @@
       ],
       "tamanho": 1639059,
       "arma": "Tec-9"
+    },
+    {
+      "id": "arma_cz75_an_emerald",
+      "nome": "CZ75-Auto | Emerald",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Emerald do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4c2rZaF_IfyXMWuZxuZi_rNsFyzqzUhy4zzWmdqvdnPFbQYoCpolQeMOuxHum4HnMbjl4FCM2I1bjXKpBQcUgmo",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_emerald.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_emerald.zip"
+      ],
+      "tamanho": 1542347,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_an_silver",
+      "nome": "CZ75-Auto | Silver",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Silver do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4c29Yah7JeKsAm6Xyfo457c5Gn7nwEV-6jvRy96rcHPEPwcpDcZ4RrQItxHsk9bnMOrg5QKPi5UFk3v7O4lRrA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_silver.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_silver.zip"
+      ],
+      "tamanho": 1542371,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_so_indigo_and_grey",
+      "nome": "CZ75-Auto | Indigo",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Indigo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlp5zmGzo2rcXnDbFJxDZoiRrII40Puw9a2YeOwsgbdjNlCnCSoiilK6TErvbj4Q9U5dw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_indigo_and_grey.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_indigo_and_grey.zip"
+      ],
+      "tamanho": 1542308,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_so_orange_accents2",
+      "nome": "CZ75-Auto | Nitro",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Nitro do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2heqVjJ_WsD2STxOBio7NWQyC0nQlptWvXw9_7I3zCaVB1C5YkTeAIsRC8m9a1MePg5VGLiI9CnH772C9AuDErvbi4qlLcDQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orange_accents2.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orange_accents2.zip"
+      ],
+      "tamanho": 1542336,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_so_orca",
+      "nome": "CZ75-Auto | Tuxedo",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Tuxedo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2heqdsH_yaCW-Ej7lz6Oc9GXC3zEwh4D_VzY36eHvDaQYkXJV3FLMJtEG_kNHiZLmxtAPAy9USE1srPao",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orca.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orca.zip"
+      ],
+      "tamanho": 1542304,
+      "arma": "CZ75-Auto"
     }
   ],
   "links": {},
