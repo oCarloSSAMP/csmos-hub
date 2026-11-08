@@ -3158,6 +3158,45 @@
       ],
       "tamanho": 2059079,
       "arma": "MP9"
+    },
+    {
+      "id": "arma_mp7_an_navy",
+      "nome": "MP7 | Anodized Navy",
+      "categoria": "armas",
+      "descricao": "MP7 | Anodized Navy do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_Cxk4fO4cZthKfebGinIw-0v5-cxS33kwEh2tz-HyYugJC7FZwVyXJZ2FO4CtBa4xtPkN-nn-UWA3HYryggq",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_an_navy.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_an_navy.zip"
+      ],
+      "tamanho": 1150228,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_so_olive_bravo",
+      "nome": "MP7 | Groundwater",
+      "categoria": "armas",
+      "descricao": "MP7 | Groundwater do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7i1k4P6nfqFSIuKSGGivzedxuPUnSX7nxEl_527Vzoyvcy2QbQUpC8NxF7NbtkbqwNLlZu-w5QHdiN0UyjK-0H0qFVLm2g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_olive_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_olive_bravo.zip"
+      ],
+      "tamanho": 1150216,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_so_whiteout",
+      "nome": "MP7 | Whiteout",
+      "categoria": "armas",
+      "descricao": "MP7 | Whiteout do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7i1k-PqnfKFiNeSsAm6Xyfo4teU9Hirmx0gh4GXdy9atInqfOAcgCscmRrNetxewl9HjP7_jsgfei5UFk3u-0OOK7w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_whiteout.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_whiteout.zip"
+      ],
+      "tamanho": 1150257,
+      "arma": "MP7"
     }
   ],
   "links": {},
