@@ -3600,6 +3600,32 @@
       ],
       "tamanho": 2460684,
       "arma": "USP-S"
+    },
+    {
+      "id": "arma_p2000_an_silver",
+      "nome": "P2000 | Silver",
+      "categoria": "armas",
+      "descricao": "P2000 | Silver do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POgV7dkLOaWHFicyOl-pK8_Tn_nx00i6jjXnt-vJyqSaQdzDsYlFrED40W-x9bgYb6z41PY3Y9A02yg2X8l3LyC",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_an_silver.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_an_silver.zip"
+      ],
+      "tamanho": 1238586,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_so_grassland",
+      "nome": "P2000 | Grassland",
+      "categoria": "armas",
+      "descricao": "P2000 | Grassland do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OGhV6N_IeOAAmaexdF6ueZhW2fkzEght2zVnIz_cXrCPQEmA5IhE7FZ4BG-x4GyY-rr5wWNj4kXyi_2kGoXucFfluJI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_so_grassland.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_so_grassland.zip"
+      ],
+      "tamanho": 1238552,
+      "arma": "P2000"
     }
   ],
   "links": {},
