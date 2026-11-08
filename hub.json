@@ -2924,6 +2924,71 @@
       ],
       "tamanho": 1854268,
       "arma": "SG 553"
+    },
+    {
+      "id": "arma_aug_an_navy_bravo",
+      "nome": "AUG | Anodized Navy",
+      "categoria": "armas",
+      "descricao": "AUG | Anodized Navy do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_Cxk4fO4cZtvMvGFAVicyOl-pK8wSnngwk8msDnRz9yseXzDZ1R0XJAhEbYN4RW9xNTiM-vmslOPjd5M02yg2bwhPrnn",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_an_navy_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_an_navy_bravo.zip"
+      ],
+      "tamanho": 1941942,
+      "arma": "AUG"
+    },
+    {
+      "id": "arma_aug_an_red",
+      "nome": "AUG | Hot Rod",
+      "categoria": "armas",
+      "descricao": "AUG | Hot Rod do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_Cxk_feqV6hkJ_iHQDCVkuxz5bY_H3znlhtz5jzTztigeXLBbwRyD8ckTOZbt0G8wNOyZuL8p1uJa1KD__k",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_an_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_an_red.zip"
+      ],
+      "tamanho": 1941912,
+      "arma": "AUG"
+    },
+    {
+      "id": "arma_aug_so_pmc",
+      "nome": "AUG | Contractor",
+      "categoria": "armas",
+      "descricao": "AUG | Contractor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7i1k__-tV6hkJ_iHQGWWxOx04LlsGn7lwElytW3cnNihdnqTaFMhWJZxQeYLsUXpxoeyZOv8p1uJ4uPpmuk",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_so_pmc.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_so_pmc.zip"
+      ],
+      "tamanho": 1941914,
+      "arma": "AUG"
+    },
+    {
+      "id": "arma_aug_so_space_marine",
+      "nome": "AUG | Colony",
+      "categoria": "armas",
+      "descricao": "AUG | Colony do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7i1k_OKva6FSLfGBB2mV_uJ_t-l9ASjnk0p06jmHmIyveCmWPFAiCZUlF-BcsEW4wYW2ZO3q4QLf3Y9NmC3gznQeEvKGZSQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_so_space_marine.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_so_space_marine.zip"
+      ],
+      "tamanho": 1941997,
+      "arma": "AUG"
+    },
+    {
+      "id": "arma_aug_so_stormfront",
+      "nome": "AUG | Storm",
+      "categoria": "armas",
+      "descricao": "AUG | Storm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7i1k_OaheqlrMv-dGlicyOl-pK84GCzkxEkisDnUz42qc32WaVckW5AhQeVYs0W9wIfuP7i34laK2d9G02yg2S19fQbA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_so_stormfront.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_so_stormfront.zip"
+      ],
+      "tamanho": 1941882,
+      "arma": "AUG"
     }
   ],
   "links": {},
