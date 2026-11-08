@@ -49,7 +49,8 @@
    ],
    "tamanho": 154655960,
    "mapa": "de_dust2_csgo_new_v2",
-   "juntar": true
+   "juntar": true,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_dust2_v2.jpg"
   },
   {
    "id": "mapa_mirage_cs2",
@@ -61,7 +62,8 @@
     "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_mirage_cs2.zip"
    ],
    "tamanho": 55478006,
-   "mapa": "de_mirage_cs2"
+   "mapa": "de_mirage_cs2",
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_mirage_cs2.jpg"
   },
   {
    "id": "mapa_anubis_cs2mix",
@@ -73,7 +75,8 @@
     "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_anubis_cs2mix.zip"
    ],
    "tamanho": 44818699,
-   "mapa": "de_anubis_cs2mix"
+   "mapa": "de_anubis_cs2mix",
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_anubis_cs2mix.jpg"
   },
   {
    "id": "mapa_ancient_css",
@@ -85,7 +88,193 @@
     "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_ancient_css.zip"
    ],
    "tamanho": 11376012,
-   "mapa": "de_ancient_css"
+   "mapa": "de_ancient_css",
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_ancient_css.jpg"
+  },
+  {
+   "id": "mapa_aimbotz",
+   "nome": "Aimbotz (treino de mira)",
+   "categoria": "mapas",
+   "descricao": "Mapa de treino pra melhorar a mira, com configs prontas. Postado por Qlf_Robert.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aimbotz.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aimbotz.zip"
+   ],
+   "tamanho": 3114434,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_aimbotz.jpg",
+   "mapa": "aimbotz"
+  },
+  {
+   "id": "mapa_aim_map",
+   "nome": "Aim Map (1v1)",
+   "categoria": "mapas",
+   "descricao": "Mapa de trocação usado pra treino 1v1. Postado por sefmy.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aim_map.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_aim_map.zip"
+   ],
+   "tamanho": 482988,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_aim_map.jpg",
+   "mapa": "aim_map"
+  },
+  {
+   "id": "mapa_nuke_cs2mix",
+   "nome": "Nuke CS2 (mapa do mix)",
+   "categoria": "mapas",
+   "descricao": "Nuke estilo CS2 usada no mix.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_nuke_cs2mix.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/mapa_nuke_cs2mix.zip"
+   ],
+   "tamanho": 101654741,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/mapa_nuke_cs2mix.jpg",
+   "mapa": "de_nuke_cs2mix"
+  },
+  {
+   "id": "skins_mitsuke_full_black",
+   "nome": "Mitsuke Full Black",
+   "categoria": "skins",
+   "descricao": "Butterfly, Bayonet, M9, Karambit e Huntsman Black Laminate, AK Slate, M4A1-S Knight, AWP Black Nile, Glock Red Tire, USP Ticket to Hell, M4A4 Mainframe e luva. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_full_black.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_full_black.zip"
+   ],
+   "tamanho": 42620449,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/skins_mitsuke.jpg"
+  },
+  {
+   "id": "skins_mitsuke_amarelo",
+   "nome": "Mitsuke Amarelo (Lore)",
+   "categoria": "skins",
+   "descricao": "M9, Karambit e Butterfly Lore, AWP Dragon Lore, M4A1-S Knight, M4A4 Coalition e luva Omega. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_amarelo.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_amarelo.zip"
+   ],
+   "tamanho": 37563326
+  },
+  {
+   "id": "skins_mitsuke_preto",
+   "nome": "Mitsuke Preto",
+   "categoria": "skins",
+   "descricao": "Butterfly, Bayonet, M9 e Karambit Black Laminate, M4A1-S Black Death, AWP Atheris, Glock Red Tire, USP Ticket to Hell e luva. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_preto.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_preto.zip"
+   ],
+   "tamanho": 29477439
+  },
+  {
+   "id": "skins_mitsuke_branco",
+   "nome": "Mitsuke Branco",
+   "categoria": "skins",
+   "descricao": "Galil Tuxedo, Butterfly Urban Masked, USP Printstream, Glock Franklin, SSG Blood in the Water, MP7 Whiteout e MP9 Starlight. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_branco.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_branco.zip"
+   ],
+   "tamanho": 49728483
+  },
+  {
+   "id": "skins_mitsuke_verde",
+   "nome": "Mitsuke Verde",
+   "categoria": "skins",
+   "descricao": "USP Monster Mashup, Deagle Emerald Jörmungandr e Glock Gamma Doppler Emerald. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_verde.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_verde.zip"
+   ],
+   "tamanho": 30413834
+  },
+  {
+   "id": "skins_mitsuke_rosa",
+   "nome": "Mitsuke Rosa",
+   "categoria": "skins",
+   "descricao": "Butterfly Hello Kitty, Bayonet Neon Rider, Karambit Fade, USP e Glock personalizadas. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_rosa.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_rosa.zip"
+   ],
+   "tamanho": 38633534
+  },
+  {
+   "id": "skins_mitsuke_vermelho",
+   "nome": "Mitsuke Vermelho",
+   "categoria": "skins",
+   "descricao": "Luva Crimson Web, Deagle Crimson Web, M4A1-S Hot Rod, Glock Water Elemental, AWP e AK Redline, Talon e M9 Doppler Ruby, USP Check Engine. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_vermelho.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_vermelho.zip"
+   ],
+   "tamanho": 36778205
+  },
+  {
+   "id": "skins_mitsuke_azul",
+   "nome": "Mitsuke Azul",
+   "categoria": "skins",
+   "descricao": "Glock Twilight Galaxy, M4A1-S Blue Phosphor, M4A4 Emperor, Butterfly Doppler Phase 4, AK Vulcan, USP Blueprint e luva SuperConductor. Autor: Mitsuke (fórum Skinpacks do Discord Qlf_Robert).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_azul.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_mitsuke_azul.zip"
+   ],
+   "tamanho": 43628638
+  },
+  {
+   "id": "skins_kit_silva13",
+   "nome": "Kit Azul/Branco (silva13)",
+   "categoria": "skins",
+   "descricao": "M9 Bayonet Kumo, Deagle Printstream e Karambit Case Hardened. Autor: silva13 (clean silva).",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_kit_silva13.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/skins_kit_silva13.zip"
+   ],
+   "tamanho": 8016350
+  },
+  {
+   "id": "papel_loading_csgo",
+   "nome": "Loading CS:GO",
+   "categoria": "papel_parede",
+   "descricao": "Tela de carregamento estilo CS:GO com o painel amarelo. Autor: hauntedrecords.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_loading_csgo.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_loading_csgo.zip"
+   ],
+   "tamanho": 2357668
+  },
+  {
+   "id": "papel_background_valve",
+   "nome": "Fundo Valve",
+   "categoria": "papel_parede",
+   "descricao": "Fundo do menu com a tela clássica da Valve. Autor: hauntedrecords.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_background_valve.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_background_valve.zip"
+   ],
+   "tamanho": 54417
+  },
+  {
+   "id": "hud_maxeto_touch",
+   "nome": "Touch Maxeto",
+   "categoria": "hud",
+   "descricao": "Botões de touch e ícones de armas, logos e HUD do Maxeto. Substitui o HUD que estiver em uso.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_maxeto_touch.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/hud_maxeto_touch.zip"
+   ],
+   "tamanho": 1790094
+  },
+  {
+   "id": "config_massinha",
+   "nome": "Gráficos Massinha",
+   "categoria": "configs",
+   "descricao": "Deixa o jogo com visual liso (massinha) e mais FPS. Usa sv_cheats, então só funciona offline ou em servidor que libera. Autor: Obeso Safado.",
+   "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/config_massinha.zip",
+   "urls": [
+    "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/config_massinha.zip"
+   ],
+   "tamanho": 339,
+   "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/config_massinha.jpg",
+   "exec": "mass"
   }
  ],
  "links": {},
