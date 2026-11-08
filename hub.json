@@ -3730,6 +3730,45 @@
       ],
       "tamanho": 2397804,
       "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_tec9_an_titanium30v",
+      "nome": "Tec-9 | Blue Titanium",
+      "categoria": "armas",
+      "descricao": "Tec-9 | Blue Titanium do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wiNV0OanfKVjKeWeXTeG_uJ_t-l9AXnikBh-6mvTztz4eHvCOgIiCpFzQOAJ5xPulNK2Nr7q7gHcg9lEm3ngznQe7B1sAb0",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_tec9_an_titanium30v.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_tec9_an_titanium30v.zip"
+      ],
+      "tamanho": 1639076,
+      "arma": "Tec-9"
+    },
+    {
+      "id": "arma_tec9_so_olive",
+      "nome": "Tec-9 | Groundwater",
+      "categoria": "armas",
+      "descricao": "Tec-9 | Groundwater do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wjFU0P2iYbJoH_yaCW-Ej7om4eQ6H3zrxEwk4T-HmN78dirCb1MmA8Z3Re8D5hS5x9KzYrvkslPAy9USDDHRuWI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_tec9_so_olive.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_tec9_so_olive.zip"
+      ],
+      "tamanho": 1639081,
+      "arma": "Tec-9"
+    },
+    {
+      "id": "arma_tec9_so_tornado_bravo",
+      "nome": "Tec-9 | Tornado",
+      "categoria": "armas",
+      "descricao": "Tec-9 | Tornado do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wjFU0OaheqpsJP-sDHWR1-FJvOhuRz39w0Qh4WiHmd-uc36eZlcmX5p0E-IKuxLqkt3kYe_jsgDYg4NCziX82jQJsHiZ2a0fyg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_tec9_so_tornado_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_tec9_so_tornado_bravo.zip"
+      ],
+      "tamanho": 1639059,
+      "arma": "Tec-9"
     }
   ],
   "links": {},
