@@ -521,71 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_mac10_an_silver",
-      "nome": "MAC-10 | Silver",
-      "categoria": "armas",
-      "descricao": "MAC-10 | Silver do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4c29Yah7JeKsAm6Xyfo44-UwS32xwkUjsGzSwtqoJCjCOABxD8AkFu5bsha7wdGyM-rn4wzWjpUFk3tFRcHXeg",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_an_silver.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_an_silver.zip"
-      ],
-      "tamanho": 1521978,
-      "arma": "MAC-10"
-    },
-    {
-      "id": "arma_mac10_so_indigo_and_grey",
-      "nome": "MAC-10 | Indigo",
-      "categoria": "armas",
-      "descricao": "MAC-10 | Indigo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlptT_VztavJXyfa1QgW5J0FuMCtBLtw4ayMe_g5VPZg49MzCX423sf6TErvbjb2X3Wdg",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_indigo_and_grey.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_indigo_and_grey.zip"
-      ],
-      "tamanho": 1521899,
-      "arma": "MAC-10"
-    },
-    {
-      "id": "arma_mac10_so_purple",
-      "nome": "MAC-10 | Ultraviolet",
-      "categoria": "armas",
-      "descricao": "MAC-10 | Ultraviolet do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M2-fbZ9LPWsAm6Xyfo457RoS3vlzRx2sWWAzNz4dXvGbQ9zCsZ1FOMI40G4ktDvY-LgtQ3YipUFk3sgu3LoQg",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_purple.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_purple.zip"
-      ],
-      "tamanho": 1521878,
-      "arma": "MAC-10"
-    },
-    {
-      "id": "arma_mac10_so_red",
-      "nome": "MAC-10 | Candy Apple",
-      "categoria": "armas",
-      "descricao": "MAC-10 | Candy Apple do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M28baBSLPmUBnPemLZw4rk6Gi3gxkp_5W3Qmdv_cnrDPwZ1Asd2FOcM5BO4k4KxMe7h7xue1dzcbAPD_Q",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_red.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_red.zip"
-      ],
-      "tamanho": 1521913,
-      "arma": "MAC-10"
-    },
-    {
-      "id": "arma_mac10_so_tornado",
-      "nome": "MAC-10 | Tornado",
-      "categoria": "armas",
-      "descricao": "MAC-10 | Tornado do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M26Z7ZjIfScMWuZxuZi_rg7H322kxgj62vQn9aheC7BblUgCZolReUNsBXukdLgP77r5A3fid1bjXKp3olIKis",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_tornado.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_tornado.zip"
-      ],
-      "tamanho": 1521898,
-      "arma": "MAC-10"
-    },
-    {
       "id": "arma_ump45_so_caramel",
       "nome": "UMP-45 | Caramel",
       "categoria": "armas",
@@ -8215,6 +8150,643 @@
       ],
       "tamanho": 4867831,
       "arma": "MP5-SD"
+    },
+    {
+      "id": "arma_mac10_gold_brick",
+      "nome": "MAC-10 | Gold Brick",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Gold Brick do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2pZ6hpH_KBB2Sb_uJ_t-l9AX2wwhl35jzRw4yodymWO1R0X5V0FrRc4Bi-m4DuY-2xsgzY39oRmSTgznQe6Q1Q_KE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_gold_brick.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_gold_brick.zip"
+      ],
+      "tamanho": 4320509,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_knots_brown",
+      "nome": "MAC-10 | Copper Borre",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Copper Borre do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2lZqt5M8-RHGiHz9F6ueZhW2eywBwhsWmAz9-peSjFalQmCJFyTeEC4UO5kNTjNOy0sgXa3oxNzC36kGoXufH8E8DI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_knots_brown.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_knots_brown.zip"
+      ],
+      "tamanho": 2876565,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_aloha",
+      "nome": "MAC-10 | Aloha",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Aloha do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2jaac8cM-SAmiYwNF6ueZhW2flxhsmtW3RnNiscnOWPA9xC5MiTeUKtRXqk9HgMOvh4wPd3tkQmXn6kGoXucQMChaB",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_aloha.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_aloha.zip"
+      ],
+      "tamanho": 3047728,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_electricity",
+      "nome": "MAC-10 | Lapis Gator",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Lapis Gator do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2jaac8cM-WAmKT1fx_s-h9Vha_nBovp3ODztegd3LEawcnX5ByFLQPtxSxldyxPrjg5QCPj94Ty3j8j3tLu30__a9cBu41m2up",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_electricity.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_electricity.zip"
+      ],
+      "tamanho": 3872610,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_malachite",
+      "nome": "MAC-10 | Malachite",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Malachite do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2jaac8cM-eD2uRwuZ_pORWQyC0nQlpt27Uw4yrJy_FOlQpCJp2Te5Y5hPqw9HuYePksVaKjt0TmS_2hihJuDErvbgNFzWT1Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_malachite.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_malachite.zip"
+      ],
+      "tamanho": 2609370,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_oceani",
+      "nome": "MAC-10 | Oceanic",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Oceanic do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2jaac8cM-cDWKRz-dJvOhuRz39lh4h52qGm9z7cCjBZ1IpCJp5QbRZtxXql9LnPrnr5wLXiY5EzX_2jjQJsHjZHPDEEg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_oceani.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_oceani.zip"
+      ],
+      "tamanho": 1904961,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_nuclear_skulls3",
+      "nome": "MAC-10 | Nuclear Garden",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Nuclear Garden do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s2gfadhJfGBMXSb1OJ6o7JWQiiwxE0YvzSCkpu3Ii_COw4jDsMkEbYJsxe5xNezPu-3swCN3dhEz3_33XlA63lo6-8DWL1lpPMiXZ_jZw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_nuclear_skulls3.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_nuclear_skulls3.zip"
+      ],
+      "tamanho": 3954235,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_ren_red",
+      "nome": "MAC-10 | Red Filigree",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Red Filigree do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4s28bapSMvWXMWuZxuZi_rk6F3DixUt_5W3Vn96odS-fO1N0D8MkQu4NukG4kdbiN7yw5gyLjdpbjXKp1e3DB44",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_ren_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_ren_red.zip"
+      ],
+      "tamanho": 2535702,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_an_silver",
+      "nome": "MAC-10 | Silver",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Silver do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a4c29Yah7JeKsAm6Xyfo44-UwS32xwkUjsGzSwtqoJCjCOABxD8AkFu5bsha7wdGyM-rn4wzWjpUFk3tFRcHXeg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_an_silver.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_an_silver.zip"
+      ],
+      "tamanho": 1521975,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_etched_mac10_bravo",
+      "nome": "MAC-10 | Graven",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Graven do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2rfKdlJfSsA2aTkL5JsvNoWSaMmRQguynLztytdHieOA92W8N5Re4D4ELtk9O2Nbnq5FfWjIkRn333hn9O731j4_FCD_RXlm8jng",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_etched_mac10_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_etched_mac10_bravo.zip"
+      ],
+      "tamanho": 3939698,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_mac_10_alien_camo",
+      "nome": "MAC-10 | Carnivore",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Carnivore do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2jaadScaCsD2uZxOBJs-BkQBa_nBovp3PSmdqpcy2fPwEoWMciQLYKtBa9lYDmN-zlsVDXiNpAnnmqiHwcv3w5_a9cBiTJtAYY",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_mac_10_alien_camo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_mac_10_alien_camo.zip"
+      ],
+      "tamanho": 3477485,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_oiled",
+      "nome": "MAC-10 | Case Hardened",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Case Hardened do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1a_s2hYahoJM-fB2CY1aAituJtTnvjkUx3tziGmd6hJy-VZlAoWZtwFLRZ5EbpwNLvYb-zsgOKlcsbmn9_3b1O",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_oiled.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_oiled.zip"
+      ],
+      "tamanho": 4213284,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_korupt",
+      "nome": "MAC-10 | Tatter",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Tatter do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2lZ7Z4MOSsAm6Xyfo4tbY7H3q1xRt152TWyt6tc3ifaVcmDppxReVethawlYHmNO6ztQbciJUFk3uxmhdQIQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_korupt.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_korupt.zip"
+      ],
+      "tamanho": 2690504,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_luggage",
+      "nome": "MAC-10 | Commuter",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Commuter do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2ifaNqIfeWMWqRwr8mj-1gSCGn2xlwsT6Byt__cHOePwAkCZEjF7VYuhewmtDuZby0slON3o8WxC7_3H5XrnE86gO55vs",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_luggage.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_luggage.zip"
+      ],
+      "tamanho": 2922569,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_alekhya_duo",
+      "nome": "MAC-10 | Rangeen",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Rangeen do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-SAmKbyfd3j-V8QBa_nBovp3PWztqtJXqWPVdzX8d3EbUDtkS_w9bmYui04gbYiolGnH_833xM6C5o_a9cBlensHEx",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_alekhya_duo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_alekhya_duo.zip"
+      ],
+      "tamanho": 2931235,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_decay",
+      "nome": "MAC-10 | Curse",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Curse do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnt_CEKv7yrP_I4dvXLWDLBk7Yis7ZqTHHrwktwtz7Sz4mtdHyUPAQpDpV5F-cLrFDmxRuwA7jf",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_decay.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_decay.zip"
+      ],
+      "tamanho": 2657860,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_isoonna",
+      "nome": "MAC-10 | Allure",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Allure do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-aHWifz-B3j-1gSCGn209w626GnNuucC2SaFMiC8B3FuUJ5kW7wdPnZe7g7gyP2Y4Ry3_5hnlXrnE8RS4Y9Xw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_isoonna.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_isoonna.zip"
+      ],
+      "tamanho": 2853226,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_monkeyflage",
+      "nome": "MAC-10 | Monkeyflage",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Monkeyflage do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-eAWmbxPdwvOBuSha_nBovp3OBzdisJHPDaQ5xXpF2Ru4M5BTtlYHnYr7h5lbZg4gQzC_22ikfvSZt_a9cBiKJuAuZ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_monkeyflage.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_monkeyflage.zip"
+      ],
+      "tamanho": 3449334,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_nacre",
+      "nome": "MAC-10 | Disco Tech",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Disco Tech do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-dD2SCxNF6ueZhW2frkR5z4m_SyY37cnKRblIpW5smQOcO4EW7lYa1ZOjgtFCLg4wXnn72kGoXuTa4h8QB",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_nacre.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_nacre.zip"
+      ],
+      "tamanho": 2685062,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_neonrider",
+      "nome": "MAC-10 | Neon Rider",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Neon Rider do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-dC2ie0-dytfNWQyC0nQlp5DzTntmgdC7COABxX5NxQrUOtUS5w4LgMu6zsVCK2IJCmyisjitM6DErvbicsEA0SQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_neonrider.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_neonrider.zip"
+      ],
+      "tamanho": 2519259,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_pixie",
+      "nome": "MAC-10 | Ensnared",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Ensnared do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-DB3-ZxNF6ueZhW2fikB935ziGztj7JHyQbgIkWZsmFrJY4xTpwdOzP-Oz7laNj4lFyy2tkGoXudbL5uIf",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_pixie.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_pixie.zip"
+      ],
+      "tamanho": 2893641,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_portable",
+      "nome": "MAC-10 | Button Masher",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Button Masher do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-DAXWEwOx6td5lRi67gVN04GjXnIr7JyiSbQJ2W8Z4QuEItBS_kdyxZurnsVfcjYgTzH6r2ClN8G81tG_8yXMP",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_portable.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_portable.zip"
+      ],
+      "tamanho": 2952853,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_propaganda",
+      "nome": "MAC-10 | Propaganda",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Propaganda do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-DHGiAwOl3vuVocCW6khUz_T_WzN6hcHOQaQIgCZIlFrEPtUS7wdW0Ne6wtFTYj9pAzyr-3SxP6n11o7FVcf1yckU",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_propaganda.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_propaganda.zip"
+      ],
+      "tamanho": 3253061,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_redhot",
+      "nome": "MAC-10 | Heat",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Heat do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-BC2OYzvpJvOhuRz39xR5w4GzUyo6pdnuUawMpWJokTLUL50K6l9XiNO7i4lGKiYsRxCv6jTQJsHim4lDW8g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_redhot.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_redhot.zip"
+      ],
+      "tamanho": 2903463,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_sakkaku",
+      "nome": "MAC-10 | Sakkaku",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Sakkaku do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-AD2ybwOVjj-xsSyCmmFMk5mnRzdeqdSnCPVN2DpV3QeELtELrlIbiPrzqsVOMjdlBnySvjH5O8G81tOTP5a5f",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_sakkaku.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_sakkaku.zip"
+      ],
+      "tamanho": 3032269,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_scarab",
+      "nome": "MAC-10 | Echoing Sands",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Echoing Sands do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-ADWaCwOxJvOhuRz39xRlx5GmEyIn9cSjCOg52C8B0TLEOtxa_xNziMu3ktFOP2o1HznqqijQJsHgtnfG5bw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_scarab.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_scarab.zip"
+      ],
+      "tamanho": 3615256,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_toybox",
+      "nome": "MAC-10 | Toybox",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Toybox do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2jaac8cM-HAX6SzvZJvOhuRz39zRkismnVy9uveXqfZgYpW8R0TLRbshHtx9HvN77g5Qzbi4wTyniojTQJsHhO4vjwuQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_toybox.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_toybox.zip"
+      ],
+      "tamanho": 3103030,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_overpass_squeak",
+      "nome": "MAC-10 | Pipsqueak",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Pipsqueak do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1Y-s2hfqF_MPGAHViD0PtzsepWQiiwxE0YvzSCkpu3eXiQOlMkDpAhEeELuhi8x9DmM-uw4VCL2YlAzSn223tL7idp67wDUL1lpPNy-DeiVw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_overpass_squeak.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_overpass_squeak.zip"
+      ],
+      "tamanho": 3016517,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_checker",
+      "nome": "MAC-10 | Calf Skin",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Calf Skin do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-QBmKTyutkj-1gSCGn2x92sWXWntytdHPDOlIlWZJwR-5csBS8k4K1Nuzn4QLa398UyCiq2CxXrnE8x1-1j1w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_checker.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_checker.zip"
+      ],
+      "tamanho": 3344914,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_dust_crate",
+      "nome": "MAC-10 | Classic Crate",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Classic Crate do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-XG3SE_u1ksfVscCW6khUz_WvVntmrI3KXOgcpXpQmRbYK5xe6ktLiYuLksVONi4tMyC_72CpN7nx1o7FVpG3zbwE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_dust_crate.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_dust_crate.zip"
+      ],
+      "tamanho": 2689278,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_exo_pipes",
+      "nome": "MAC-10 | Pipe Down",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Pipe Down do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-WFmiv0edmtfJWQyC0nQlpt2rRwtqhdHjFa1N1A5ZxEO4MukW4lNayNrnhsVDc3YxGzir9iXkc7DErvbgEiQoeZQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_exo_pipes.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_exo_pipes.zip"
+      ],
+      "tamanho": 2738871,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_fish_bait",
+      "nome": "MAC-10 | Whitefish",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Whitefish do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-VB3SY_ux3ufVWQyC0nQlp52jdwt-vdnyeP1QoDZQlTeQNtRO-w4e1ZeKzswCM2INHynn3hixPujErvbg9KuBZSA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_fish_bait.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_fish_bait.zip"
+      ],
+      "tamanho": 3103046,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_snake",
+      "nome": "MAC-10 | Hot Snakes",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Hot Snakes do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-AAGabxNF6ueZhW2fhlEwk4DmDzYr9dnvGbgFzDJojFrYMsBS7m9PhMLjh5APZ2IlCnC2qkGoXufthzYDr",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_snake.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_snake.zip"
+      ],
+      "tamanho": 2742707,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_stalker",
+      "nome": "MAC-10 | Stalker",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Stalker do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1c_M2jaac8cM-AGmacyutkj-1gSCGn20V0t27Tw974Jy-WOg9yW8N3QOQDsxG4x9O0ZOPqtgHZ399HzST8ji9XrnE8CxAHwFY",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_stalker.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_stalker.zip"
+      ],
+      "tamanho": 1986538,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_hy_ddpat_urb",
+      "nome": "MAC-10 | Urban DDPAT",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Urban DDPAT do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9s2qbLRsNM-GHGWvzedxuPUnGXnlwhh-5m7XmYmrJHiUaFJzD8QmTeIC5EG-moKyYerg7g3Z34pMnDK-0H2xTdMbHg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_hy_ddpat_urb.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_hy_ddpat_urb.zip"
+      ],
+      "tamanho": 2052395,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_hy_vertigospray_blue",
+      "nome": "MAC-10 | Strats",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Strats do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9s24bbZ5KfecHXeCwPdJsu18Sha_nBovp3PTmIuoJ3yVa1clXMB4TbEOsBHtwdHiZO-x7gWN2d8XyS_4i3xM53k4_a9cBrlyT3NZ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_hy_vertigospray_blue.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_hy_vertigospray_blue.zip"
+      ],
+      "tamanho": 3714035,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_hye_car_wrap4",
+      "nome": "MAC-10 | Snow Splash",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Snow Splash do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9veRa6V_H-eBD3fE_uJ_t-l9ASrklhkk4Wrdm9msIy3DblVyA5cmQLMDtxS_ltPmYe_msgbeiY5EziTgznQeYbrm-7Y",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_hye_car_wrap4.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_hye_car_wrap4.zip"
+      ],
+      "tamanho": 3394071,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_hye_green_camo",
+      "nome": "MAC-10 | Acid Hex",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Acid Hex do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9veRb7ZoJf6sDWadztF6ueZhW2fhw09_6mjSw9r4cy6RPVV1DZZwE7UI4xDsl9CyNuvi4gHf2o1NnH7-kGoXuXqvgvHX",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_hye_green_camo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_hye_green_camo.zip"
+      ],
+      "tamanho": 3850674,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_hye_green_forest",
+      "nome": "MAC-10 | Poplar Thicket",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Poplar Thicket do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9veRb7ZoJf6sCGiCxP1ij-1gSCGn2x8mtm2Bntf7JHKSaAN2C5siTeIK5hO6wYGzMuritQ3ej4MTxHmqjHhXrnE8uA1Mzbk",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_hye_green_forest.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_hye_green_forest.zip"
+      ],
+      "tamanho": 3309505,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_arabesque_gold",
+      "nome": "MAC-10 | Arabesque Mosaic",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Arabesque Mosaic do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtsMvGRC3SB1OtJt-5lSxa_nBovp3PTy4useSrFPVIoD5smFuAItES8wNTmYePitlDW34pNyH__jCpJvXtj_a9cBjf6ywwE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_arabesque_gold.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_arabesque_gold.zip"
+      ],
+      "tamanho": 1812805,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_train_crash",
+      "nome": "MAC-10 | Derailment",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Derailment do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt5MvGaAFiT0-9luN5lRi67gVN14j6Gy9_7cSqQZw4hW5BzEeICthW6kYe1ZO_ntQ3e2olGnn-vhygY8G81tHTA36iF",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_train_crash.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_train_crash.zip"
+      ],
+      "tamanho": 3159539,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_video_cam",
+      "nome": "MAC-10 | Video Cam",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Video Cam do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJt7KfSWAViTwONJvOhuRz39k0x35znVn4mpJ3jDPA8pA8Z5Q-MDsxS_wYfmNbmz5gPWg91CzH6s2jQJsHjmUvUpYw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_video_cam.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_video_cam.zip"
+      ],
+      "tamanho": 2612160,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_so_indigo_and_grey",
+      "nome": "MAC-10 | Indigo",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Indigo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlptT_VztavJXyfa1QgW5J0FuMCtBLtw4ayMe_g5VPZg49MzCX423sf6TErvbjb2X3Wdg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_indigo_and_grey.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_indigo_and_grey.zip"
+      ],
+      "tamanho": 1521901,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_so_purple",
+      "nome": "MAC-10 | Ultraviolet",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Ultraviolet do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M2-fbZ9LPWsAm6Xyfo457RoS3vlzRx2sWWAzNz4dXvGbQ9zCsZ1FOMI40G4ktDvY-LgtQ3YipUFk3sgu3LoQg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_purple.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_purple.zip"
+      ],
+      "tamanho": 1521880,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_so_red",
+      "nome": "MAC-10 | Candy Apple",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Candy Apple do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M28baBSLPmUBnPemLZw4rk6Gi3gxkp_5W3Qmdv_cnrDPwZ1Asd2FOcM5BO4k4KxMe7h7xue1dzcbAPD_Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_red.zip"
+      ],
+      "tamanho": 1521915,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_so_tornado",
+      "nome": "MAC-10 | Tornado",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Tornado do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I4M26Z7ZjIfScMWuZxuZi_rg7H322kxgj62vQn9aheC7BblUgCZolReUNsBXukdLgP77r5A3fid1bjXKp3olIKis",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_tornado.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_so_tornado.zip"
+      ],
+      "tamanho": 1521899,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_sp_mirage_flowers_tan",
+      "nome": "MAC-10 | Sienna Damask",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Sienna Damask do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I_82jYbZsJ_WsCGuf1utko959TieMmRQguynLzNv4J32XaVdzX8dyTOcJsxS_x4CxYeKz5QCKjo0RzCv7iC9I5nlv4_FCD_Ti47lJig",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_sp_mirage_flowers_tan.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_sp_mirage_flowers_tan.zip"
+      ],
+      "tamanho": 3965130,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_sp_palm",
+      "nome": "MAC-10 | Palm",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Palm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I_82-aahgH_yaCW-Ej78l4uJoHH-2lBh-4mTQnIupdHrEO1QgW5MhTbIPtUHul9C1P7ni5gLAy9USZUzbrTo",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_sp_palm.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_sp_palm.zip"
+      ],
+      "tamanho": 3558264,
+      "arma": "MAC-10"
+    },
+    {
+      "id": "arma_mac10_sp_twigs_beach",
+      "nome": "MAC-10 | Surfwood",
+      "categoria": "armas",
+      "descricao": "MAC-10 | Surfwood do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1I_826f61qM8-RC2aTydF6ueZhW2eww0omsGuGmd2oIH_BPVNxCcMjE7EC4Bnul9KzMenj4wPajY1FmXj-kGoXuac9-lER",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_sp_twigs_beach.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mac10_sp_twigs_beach.zip"
+      ],
+      "tamanho": 3963037,
+      "arma": "MAC-10"
     }
   ],
   "links": {},
