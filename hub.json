@@ -1015,58 +1015,6 @@
       "arma": "M4A1-S"
     },
     {
-      "id": "arma_m4a1s_black_lotus",
-      "nome": "M4A1-S | Black Lotus",
-      "categoria": "armas",
-      "descricao": "M4A1-S | Black Lotus do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_ux6seJicCW8gQg0jDGMnYftb3-eOgEpDcFyQuMMtRG8kIbhMuK051ba2IMQyH6r3yof5ilv4bwLWfU7uvqA7qRNHGA",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a1s_black_lotus.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a1s_black_lotus.zip"
-      ],
-      "tamanho": 3517501,
-      "arma": "M4A1-S"
-    },
-    {
-      "id": "arma_m4a1s_electrum",
-      "nome": "M4A1-S | Electrum",
-      "categoria": "armas",
-      "descricao": "M4A1-S | Electrum do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_ut6teJ9XTy-qhEutDWR1Iz4cnjCag51DZQlEOIMtEa7k9TiNbmw51OP3tlBxCr8iCsY6C5t6uwcEf1y--utkZE",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a1s_electrum.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a1s_electrum.zip"
-      ],
-      "tamanho": 3501274,
-      "arma": "M4A1-S"
-    },
-    {
-      "id": "arma_m4a1s_quick_liquidation",
-      "nome": "M4A1-S | Liquidation",
-      "categoria": "armas",
-      "descricao": "M4A1-S | Liquidation do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_v9jueJicCW6hAgutzyRk4D3HifOOV5kFJtwQLQCshW4kYazNOngsQGMj4tAyXj8iy1N7CxqsulQVqt0-aaFhwrfcepqI4yC_kU",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a1s_quick_liquidation.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a1s_quick_liquidation.zip"
-      ],
-      "tamanho": 3419873,
-      "arma": "M4A1-S"
-    },
-    {
-      "id": "arma_m4a1s_vaporwave",
-      "nome": "M4A1-S | Vaporwave",
-      "categoria": "armas",
-      "descricao": "M4A1-S | Vaporwave do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_vh3oO57WCilkCIrujqNjsH_In7DZgYnWcAiR-MJshO6koDlN7vhsQyLi41HySX6iXlAvCZrsb0HT-N7rW-9qIHE",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a1s_vaporwave.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a1s_vaporwave.zip"
-      ],
-      "tamanho": 3926280,
-      "arma": "M4A1-S"
-    },
-    {
       "id": "arma_m4a1s_so_orange_accents",
       "nome": "M4A1-S | Nitro",
       "categoria": "armas",
@@ -2562,45 +2510,6 @@
       "arma": "SSG 08"
     },
     {
-      "id": "arma_ssg08_brutalist",
-      "nome": "SSG 08 | Memorial",
-      "categoria": "armas",
-      "descricao": "SSG 08 | Memorial do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I_PX-MJtvMuWHD2uZ0vpJvOhuRz39x0UlsWmEnt37IHyfaFAkWZR5RuALtRKxlYKxMLnn4leL3t5FmSv9ijQJsHj6GwByAQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_brutalist.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_brutalist.zip"
-      ],
-      "tamanho": 3149026,
-      "arma": "SSG 08"
-    },
-    {
-      "id": "arma_ssg08_dezastre",
-      "nome": "SSG 08 | Dezastre",
-      "categoria": "armas",
-      "descricao": "SSG 08 | Dezastre do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I_PX-MJtpJeqSHXOCxNF6ueZhW2exwEp2tmmEw9epdCjCalQhX5ImQOZbtRixxNTgN-u24AHb2okTmX2vkGoXuacR7BX3",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_dezastre.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_dezastre.zip"
-      ],
-      "tamanho": 2323139,
-      "arma": "SSG 08"
-    },
-    {
-      "id": "arma_ssg08_transit_white",
-      "nome": "SSG 08 | Rapid Transit",
-      "categoria": "armas",
-      "descricao": "SSG 08 | Rapid Transit do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I_PX-MJt5MvGdHW6E_vl-ufVscCW6khUz_WTSw479d3vDalIkCJNzFuIN4RHqw9K2P7nktQHf340Wyn-vh3wY7Sd1o7FV_lj0Yvg",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_transit_white.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ssg08_transit_white.zip"
-      ],
-      "tamanho": 2948078,
-      "arma": "SSG 08"
-    },
-    {
       "id": "arma_sg553_army_shine",
       "nome": "SG 553 | Army Sheen",
       "categoria": "armas",
@@ -3212,32 +3121,6 @@
       "arma": "AUG"
     },
     {
-      "id": "arma_aug_puffer",
-      "nome": "AUG | Luxe Trim",
-      "categoria": "armas",
-      "descricao": "AUG | Luxe Trim do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_Ddc0OK7bqJoMs-fB2CY1aAntOUwSivrwksmtTyBnI2udijFZ1cmDZt0QeUCsRG7xoWzNu3r5gPelcsbmlZvKhNj",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_puffer.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_puffer.zip"
-      ],
-      "tamanho": 3077097,
-      "arma": "AUG"
-    },
-    {
-      "id": "arma_aug_trigger_discipline_velco",
-      "nome": "AUG | Trigger Discipline",
-      "categoria": "armas",
-      "descricao": "AUG | Trigger Discipline do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf_Ddc0Oa8YaNqJeKsCm6DwudmvOhnShalkBEkvAKJk4jxNWXEbwMhDpMkELUP4BSxxt2zYeuw71ff3d9AxHn5hyxL7nlrsr4HU6pz5OSJ2GiAbBJR",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_trigger_discipline_velco.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_aug_trigger_discipline_velco.zip"
-      ],
-      "tamanho": 3891425,
-      "arma": "AUG"
-    },
-    {
       "id": "arma_aug_anime",
       "nome": "AUG | Akihabara Accept",
       "categoria": "armas",
@@ -3836,19 +3719,6 @@
       "arma": "FAMAS"
     },
     {
-      "id": "arma_famas_badtrip",
-      "nome": "FAMAS | Bad Trip",
-      "categoria": "armas",
-      "descricao": "FAMAS | Bad Trip do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1d7v-ve5tvIfSHHG6A_uJ_t-l9AX6xzExytWndzdj6eCrGb1MkWZB2TOBc4xK8mtHkZezrsQOPjoITyi_gznQezHhrR0c",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_famas_badtrip.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_famas_badtrip.zip"
-      ],
-      "tamanho": 3972049,
-      "arma": "FAMAS"
-    },
-    {
       "id": "arma_famas_corp_defense",
       "nome": "FAMAS | Corp Defense",
       "categoria": "armas",
@@ -4213,32 +4083,6 @@
       "arma": "AK-47"
     },
     {
-      "id": "arma_ak_crane_flight",
-      "nome": "AK-47 | Crane Flight",
-      "categoria": "armas",
-      "descricao": "AK-47 | Crane Flight do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRa7ZsLvWsCGuZxuZij-1gSCGn20wksT7Xzo6ueX6VOgUmWZQiTO5btxDrldbmNru05QLfiN5EmHmsj3hXrnE8mi375M8",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_crane_flight.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_crane_flight.zip"
-      ],
-      "tamanho": 4133854,
-      "arma": "AK-47"
-    },
-    {
-      "id": "arma_ak_explosive",
-      "nome": "AK-47 | Searing Rage",
-      "categoria": "armas",
-      "descricao": "AK-47 | Searing Rage do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uJ_t-l9AXu2lk1xsD-EnI3_JHmeaAV1CZB1RbEJtxfuxNHuMuq251PY3o4UxXjgznQeg4Qz-rg",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_explosive.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_explosive.zip"
-      ],
-      "tamanho": 4036266,
-      "arma": "AK-47"
-    },
-    {
       "id": "arma_ak_jinn_consequence",
       "nome": "AK-47 | Consequence of the Jinn",
       "categoria": "armas",
@@ -4249,32 +4093,6 @@
         "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_jinn_consequence.zip"
       ],
       "tamanho": 4555143,
-      "arma": "AK-47"
-    },
-    {
-      "id": "arma_ak_t_bus",
-      "nome": "AK-47 | The Outsiders",
-      "categoria": "armas",
-      "descricao": "AK-47 | The Outsiders do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRfJtvNeOsAm6Xyfo4tbg7G3-wxxwl5mzRyYqodSrBagMjCZJxELMPthi8lNLgYuzltgHc3ZUFk3sO-7HKrg",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_t_bus.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_t_bus.zip"
-      ],
-      "tamanho": 4328341,
-      "arma": "AK-47"
-    },
-    {
-      "id": "arma_ak_porcelain",
-      "nome": "AK-47 | Inheritance",
-      "categoria": "armas",
-      "descricao": "AK-47 | Inheritance do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQ0OKheqdoLPGaAFicyOl-pK8xGH_nwUt1sGrSz9ivcHKQOAcjXMYkRu5Yuxe4lYCyZOq25VSM2oMT02yg2UxBSEgA",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_porcelain.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_porcelain.zip"
-      ],
-      "tamanho": 4242189,
       "arma": "AK-47"
     },
     {
@@ -5461,71 +5279,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_m4a4_fusion",
-      "nome": "M4A4 | Turbine",
-      "categoria": "armas",
-      "descricao": "M4A4 | Turbine do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRbrF-Kf-dMWuZxuZi_rRtGiriwUgh5m6Bn9z4IHLEOA4gDpZxQOULsUW9k4eyMOLitQzd3opbjXKpOa4i6Kc",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a4_fusion.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a4_fusion.zip"
-      ],
-      "tamanho": 3402549,
-      "arma": "M4A4"
-    },
-    {
-      "id": "arma_m4a4_green_camo",
-      "nome": "M4A4 | Choppa",
-      "categoria": "armas",
-      "descricao": "M4A4 | Choppa do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRb7ZoJf6sDWadztF6ueZhW2fjl05-6mzVmdmgcHOTZgIhXpJ1RO5c4Bjql9DjMunhsgOL34gUnnr-kGoXuTonsfJ3",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a4_green_camo.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a4_green_camo.zip"
-      ],
-      "tamanho": 2879057,
-      "arma": "M4A4"
-    },
-    {
-      "id": "arma_m4a4_skrrrt_green",
-      "nome": "M4A4 | Full Throttle",
-      "categoria": "armas",
-      "descricao": "M4A4 | Full Throttle do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRe69_MuKHMWCCxOt4j-1gSCGn20kk4mSHn97_eXqTOgMkXpdzR-MNsxO7w9e2Yrnk5VbciIhDznj8iy9XrnE8J4rQ87g",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a4_skrrrt_green.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a4_skrrrt_green.zip"
-      ],
-      "tamanho": 3856834,
-      "arma": "M4A4"
-    },
-    {
-      "id": "arma_m4a4_snakebite",
-      "nome": "M4A4 | Etch Lord",
-      "categoria": "armas",
-      "descricao": "M4A4 | Etch Lord do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRe6psK_WRB3OV_uJ_t-l9AXjnw0Qh5GqGn9b_dH3Cbg4nCcAhRLIM4BW7mtXmM7jjtAXai40WmHngznQeK6EUrpc",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a4_snakebite.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a4_snakebite.zip"
-      ],
-      "tamanho": 3211675,
-      "arma": "M4A4"
-    },
-    {
-      "id": "arma_m4a4_zubastick_bw",
-      "nome": "M4A4 | Zubastick",
-      "categoria": "armas",
-      "descricao": "M4A4 | Zubastick do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRcrFvIeOHB2Sb_uxhj-1gSCGn208j5WqDw9ascn6VOlQoCJV0RbVb5xO5l4fgY-Pk5waMitpHzS79jiJXrnE8cY5TeGQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a4_zubastick_bw.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m4a4_zubastick_bw.zip"
-      ],
-      "tamanho": 3572134,
-      "arma": "M4A4"
-    },
-    {
       "id": "arma_m4a4_so_tornado",
       "nome": "M4A4 | Tornado",
       "categoria": "armas",
@@ -5708,32 +5461,6 @@
       "arma": "AWP"
     },
     {
-      "id": "arma_awp_printstream",
-      "nome": "AWP | Printstream",
-      "categoria": "armas",
-      "descricao": "AWP | Printstream do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OK8Yap5M-SBC2ad_uJ_t-l9AX_qlk4k5GyAzo6ocC-QZgZxX8AjEbZY5xnrxtPjM7vnsgGIj9oTmXngznQeg3pfcPs",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_printstream.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_printstream.zip"
-      ],
-      "tamanho": 3011153,
-      "arma": "AWP"
-    },
-    {
-      "id": "arma_awp_queens_gambit",
-      "nome": "AWP | Queen's Gambit",
-      "categoria": "armas",
-      "descricao": "AWP | Queen's Gambit do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_queens_gambit.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_queens_gambit.zip"
-      ],
-      "tamanho": 3676535,
-      "arma": "AWP"
-    },
-    {
       "id": "arma_awp_sovereign_flame",
       "nome": "AWP | Sovereign Flame",
       "categoria": "armas",
@@ -5744,19 +5471,6 @@
         "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_sovereign_flame.zip"
       ],
       "tamanho": 3800458,
-      "arma": "AWP"
-    },
-    {
-      "id": "arma_awp_tempered",
-      "nome": "AWP | Chrome Cannon",
-      "categoria": "armas",
-      "descricao": "AWP | Chrome Cannon do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OarZbRoMvWXMWuZxuZi_uM6SXngxR5-smTXw4ugIi6RbVcpXsN1ELUDtxPrktOyNL7h4g2P2tpbjXKpKIbjbD4",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_tempered.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_tempered.zip"
-      ],
-      "tamanho": 2976347,
       "arma": "AWP"
     },
     {
@@ -6252,32 +5966,6 @@
       ],
       "tamanho": 1333599,
       "arma": "AK-47"
-    },
-    {
-      "id": "arma_ak_puffer_custom",
-      "nome": "AK-47 | The Oligarch",
-      "categoria": "armas",
-      "descricao": "AK-47 | The Oligarch do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WReLFrJvWBMWSF0vp5vd5lRi67gVNz4Tvdn4qoJC3Ba1V1WcdxTbFcsEbpxoHhNunnsVPYitlFm3392C4f8G81tEVBuxrI",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_puffer_custom.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_ak_puffer_custom.zip"
-      ],
-      "tamanho": 3450668,
-      "arma": "AK-47"
-    },
-    {
-      "id": "arma_awp_ice_coaled",
-      "nome": "AWP | Ice Coaled",
-      "categoria": "armas",
-      "descricao": "AWP | Ice Coaled do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0PutbZtuL_GfC2OvzedxuPUnS3u3wR8lsTzTn4qqcXuXOlQmCpUiQOdYtUG_ltXgP-u04wWL3Y9NnjK-0H2dw8uldQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_ice_coaled.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_awp_ice_coaled.zip"
-      ],
-      "tamanho": 3959802,
-      "arma": "AWP"
     }
   ],
   "links": {},
