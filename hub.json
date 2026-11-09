@@ -521,32 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_p2000_an_silver",
-      "nome": "P2000 | Silver",
-      "categoria": "armas",
-      "descricao": "P2000 | Silver do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POgV7dkLOaWHFicyOl-pK8_Tn_nx00i6jjXnt-vJyqSaQdzDsYlFrED40W-x9bgYb6z41PY3Y9A02yg2X8l3LyC",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_an_silver.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_an_silver.zip"
-      ],
-      "tamanho": 1238586,
-      "arma": "P2000"
-    },
-    {
-      "id": "arma_p2000_so_grassland",
-      "nome": "P2000 | Grassland",
-      "categoria": "armas",
-      "descricao": "P2000 | Grassland do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OGhV6N_IeOAAmaexdF6ueZhW2fkzEght2zVnIz_cXrCPQEmA5IhE7FZ4BG-x4GyY-rr5wWNj4kXyi_2kGoXucFfluJI",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_so_grassland.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_so_grassland.zip"
-      ],
-      "tamanho": 1238552,
-      "arma": "P2000"
-    },
-    {
       "id": "arma_p250_so_sand",
       "nome": "P250 | Sand Dune",
       "categoria": "armas",
@@ -13714,6 +13688,396 @@
       ],
       "tamanho": 3404887,
       "arma": "USP-S"
+    },
+    {
+      "id": "arma_p2000_black_panther",
+      "nome": "P2000 | Panther Camo",
+      "categoria": "armas",
+      "descricao": "P2000 | Panther Camo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POjV6ZhIfOYMXeRz_p-tfNWQyC0nQlp522Hm9ivdHjEOg4jC5t3TeAJ5xCwlYHlMuzmsQGIj99BzST9h39K6zErvbhYhH-Bzg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_black_panther.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_black_panther.zip"
+      ],
+      "tamanho": 2759395,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_chainmail",
+      "nome": "P2000 | Chainmail",
+      "categoria": "armas",
+      "descricao": "P2000 | Chainmail do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POjV6dlIfmdA2aZzdF6ueZhW2fqxU4k6znTn434JHnEPA9yWcR2TLIJ4UK4w9e2Nbjr4QbX2owXnyr7kGoXuSuECNR4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_chainmail.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_chainmail.zip"
+      ],
+      "tamanho": 2261137,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_numbers_red_blue",
+      "nome": "P2000 | Dispatch",
+      "categoria": "armas",
+      "descricao": "P2000 | Dispatch do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POjV6p4LfKWHHSv0-tyj-NlWiyMmRQguynLm4mscyqXOAJ1DpAjQuML5BDpxN22NuPgsVeN3YpCn3mr3ypB7S455_FCD_SVmRFKPQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_numbers_red_blue.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_numbers_red_blue.zip"
+      ],
+      "tamanho": 2690214,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_ossify_blue_p2000_bravo",
+      "nome": "P2000 | Ocean Foam",
+      "categoria": "armas",
+      "descricao": "P2000 | Ocean Foam do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POjV6t-M_mVF1iSzftzj_E7H3njqh81siuKpYPwJiPTcA91W5N0EOMNskGwkt3gP-vh41GNiNpDn3r83ShL6itj4bsKA6Im-_XJz1aWVAZrXOc",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_ossify_blue_p2000_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_ossify_blue_p2000_bravo.zip"
+      ],
+      "tamanho": 1900220,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_imperial_red",
+      "nome": "P2000 | Imperial",
+      "categoria": "armas",
+      "descricao": "P2000 | Imperial do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POjV7Q_cKDDMW6d0etkueBlcDu2kSIrujqNjsGrJH6XPQ9xAsZ5FLIDtBG5mtfhY7nl4gGNiosTzH792ntOvC1stbsDT-N7ra_mVv2F",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_imperial_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_imperial_red.zip"
+      ],
+      "tamanho": 1488298,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_scorpion",
+      "nome": "P2000 | Scorpion",
+      "categoria": "armas",
+      "descricao": "P2000 | Scorpion do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POjV7duL-KDB2ie_v4k4LE5cCW6khUz_T-GmNyuc3uTbgZ1CcNzR-8DtkS6wYLvMLzj7wHaid5DnHmthiJK5n51o7FVTAH3Dhg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_scorpion.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_scorpion.zip"
+      ],
+      "tamanho": 2176330,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_an_silver",
+      "nome": "P2000 | Silver",
+      "categoria": "armas",
+      "descricao": "P2000 | Silver do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0POgV7dkLOaWHFicyOl-pK8_Tn_nx00i6jjXnt-vJyqSaQdzDsYlFrED40W-x9bgYb6z41PY3Y9A02yg2X8l3LyC",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_an_silver.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_an_silver.zip"
+      ],
+      "tamanho": 1238586,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_acid_clover",
+      "nome": "P2000 | Acid Etched",
+      "categoria": "armas",
+      "descricao": "P2000 | Acid Etched do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PO_V7Q_cKDDMWaTyOpJs-1mWSyhqhEutDWR1NmhJH6VZ1BzCZtzTeQKuxe_x4fuYenj4Q3bgtkXyHn-iC5MvC864OccEf1ypheGRTI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_acid_clover.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_acid_clover.zip"
+      ],
+      "tamanho": 3526317,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_boom",
+      "nome": "P2000 | Handgun",
+      "categoria": "armas",
+      "descricao": "P2000 | Handgun do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PO_V7Q_cKDDMWWfzuNJvOhuRz39xE53sWncnN2vcnKeaQAlA5cjRuUL4RTqxN3nP-ix4QCLjIIQyHn2iTQJsHgxqMM--w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_boom.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_boom.zip"
+      ],
+      "tamanho": 2246125,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_lost_world",
+      "nome": "P2000 | Gnarled",
+      "categoria": "armas",
+      "descricao": "P2000 | Gnarled do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PO_V7Q_cKDDMWuf0vpJp-57Qy2MmRQguynLyt38dXjDaA5zC5YlQ-Nc5BG5k93mP-jhsVeKiY8XmSr5iy5J7C1s6_FCD_TbNBDIDw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_lost_world.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_lost_world.zip"
+      ],
+      "tamanho": 2397102,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_favela",
+      "nome": "P2000 | Corticera",
+      "categoria": "armas",
+      "descricao": "P2000 | Corticera do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V6JsNvWfD1iAk74m4N5lRi67gVNzt2TTyo6gdH6XPwEiCcZ2RucC5BG9kdTvZe-24QSIidhHyimoiC0b8G81tLsWWhFO",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_favela.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_favela.zip"
+      ],
+      "tamanho": 1446337,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_luggage",
+      "nome": "P2000 | Coach Class",
+      "categoria": "armas",
+      "descricao": "P2000 | Coach Class do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V6h4J_eSCWKv0bwm4LFWQyC0nQlptTmEyNf9d3mQPQ91D5sjQrYJsxO_xNGxMLzi5QOMio4TxX79iy1JvzErvbjJFhomkA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_luggage.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_luggage.zip"
+      ],
+      "tamanho": 2521527,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_decline",
+      "nome": "P2000 | Wicked Sick",
+      "categoria": "armas",
+      "descricao": "P2000 | Wicked Sick do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMWOVwuJ_vuRWQyC0nQlp4jnTyNqodHyXOlQkDZtzF-UN4BjukYeyZuLn5Qbaj4NEzy3_3ywd5zErvbh-3lU8Iw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_decline.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_decline.zip"
+      ],
+      "tamanho": 2594621,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_fire_elemental",
+      "nome": "P2000 | Fire Elemental",
+      "categoria": "armas",
+      "descricao": "P2000 | Fire Elemental do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMWGZ0-tJte1sQiy9gRwrjDGMnYftb3-RZldxWJVyF-QLsUG5mofnML_qtg3cjd4TyCr4jXsf63lr4-5TVvA7uvqA-y0nTh8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_fire_elemental.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_fire_elemental.zip"
+      ],
+      "tamanho": 2419544,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_hunter",
+      "nome": "P2000 | Woodsman",
+      "categoria": "armas",
+      "descricao": "P2000 | Woodsman do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMW-Fz_pzot5lRi67gVMi5GuBzo6sJXiSOAJxCMR2RuECthTskNG1Yrm3sgCM345CyCj32yJP8G81tLtUlzXH",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_hunter.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_hunter.zip"
+      ],
+      "tamanho": 2456952,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_ivory",
+      "nome": "P2000 | Ivory",
+      "categoria": "armas",
+      "descricao": "P2000 | Ivory do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMW6Gzvxvj-1gSCGn20gism3dz96pc3KVOgYoCpR4TOFZsxbsxNzlYejl7lPWiIJBmX6t235XrnE8r5B4jsA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_ivory.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_ivory.zip"
+      ],
+      "tamanho": 2320560,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_obsidian",
+      "nome": "P2000 | Obsidian",
+      "categoria": "armas",
+      "descricao": "P2000 | Obsidian do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMWiS0udyueBncCW6khUz_W7QzNf4eHKUPA9xDMAkFrMJ40brldGxM-rk4lfago1MzXmrjCwYvC91o7FVDbVY3kE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_obsidian.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_obsidian.zip"
+      ],
+      "tamanho": 2240302,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_pulse",
+      "nome": "P2000 | Pulse",
+      "categoria": "armas",
+      "descricao": "P2000 | Pulse do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMXeFzf1zj-1gSCGn201wsTnRm9egcS7DaABxDZckQe5Ys0S6xtKxZO-wsQDbi9lMxSv-jS5XrnE8fJdFk9o",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_pulse.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_pulse.zip"
+      ],
+      "tamanho": 1733565,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_urban_hazard",
+      "nome": "P2000 | Urban Hazard",
+      "categoria": "armas",
+      "descricao": "P2000 | Urban Hazard do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMXKCw-94j-loVSihkSIrujqNjsGsJXnFPw4gCcZ1TOIPt0LukoG2ZuqxtAXaj4sTzy6q3SpN7C9u6-YCT-N7rcTI-daA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_urban_hazard.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_urban_hazard.zip"
+      ],
+      "tamanho": 2429226,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_p2k_flying_dream",
+      "nome": "P2000 | Lifted Spirits",
+      "categoria": "armas",
+      "descricao": "P2000 | Lifted Spirits do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_K8-VAn6Zz-lJtPNsTiSMmRQguynLydatcHrEOgIhXJZxReINtRO7ltexZuiwtQPd34lFxXqqjisYun444fFCD_R1ajI6RQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_p2k_flying_dream.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_p2k_flying_dream.zip"
+      ],
+      "tamanho": 2680670,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_p2000_sport",
+      "nome": "P2000 | Turf",
+      "categoria": "armas",
+      "descricao": "P2000 | Turf do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PW9V7Q_cKDDQ3SAzvxij-1gSCGn20h14mSByd6vJXmUagQoXpMkQecN40Xsm4DhM-3k4lTY340UxCn53HhXrnE88VIlnLo",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_p2000_sport.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_p2000_sport.zip"
+      ],
+      "tamanho": 1903773,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_imperial_dragon",
+      "nome": "P2000 | Imperial Dragon",
+      "categoria": "armas",
+      "descricao": "P2000 | Imperial Dragon do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PW9V7Q_cKDDMW6d0etkueBlcC2hlBoovQKJk4jxNWXEbAQmDsQmRbNYsxGwxoC1YrvrsQXXg40QxCX533tJ7Xs-4eYKWKAl5OSJ2JuLIVNl",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_imperial_dragon.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_imperial_dragon.zip"
+      ],
+      "tamanho": 2776377,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_ht_facet",
+      "nome": "P2000 | Coral Halftone",
+      "categoria": "armas",
+      "descricao": "P2000 | Coral Halftone do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0Pq6V6JsI_WHMXfCkb4mj-1gSCGn2xsj5mrWm4v_c37EaAV1CMR2Ru8P4RO7m4fjY7_rsgDZjYMQzHiriyNXrnE8hd3eC64",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_ht_facet.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_ht_facet.zip"
+      ],
+      "tamanho": 2681311,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_hy_granite",
+      "nome": "P2000 | Granite Marbleized",
+      "categoria": "armas",
+      "descricao": "P2000 | Granite Marbleized do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0Pq3V6N_If6aGmKvzedxuPUnHyvhkUh2tmuBztupdi2fPwclDMN1F-JctUTuwYDgYu3rslPdj9lHnjK-0H1HqokLtA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_hy_granite.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_hy_granite.zip"
+      ],
+      "tamanho": 3786021,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_hy_p2000_oceani",
+      "nome": "P2000 | Oceanic",
+      "categoria": "armas",
+      "descricao": "P2000 | Oceanic do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0Pq3V7Q_cKDDMWiTxO94ud5lRi67gVNysmuGzt_9JSiQaQJ0C8MkTLJbskHrk4fnZe3isgfZg4tMnySoiX8Y8G81tHDFigbI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_hy_p2000_oceani.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_hy_p2000_oceani.zip"
+      ],
+      "tamanho": 1621768,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_hy_poly_camo",
+      "nome": "P2000 | Red FragCam",
+      "categoria": "armas",
+      "descricao": "P2000 | Red FragCam do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0Pq3V7RiLOmsDWadztF6ueZhW2flkRsm52nQyNquJ3nBaw4lXMFzQLNf50bpl9GxMePm7wyM3YoWmC_2kGoXucluK1Fs",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_hy_poly_camo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_hy_poly_camo.zip"
+      ],
+      "tamanho": 1625193,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_so_grassland",
+      "nome": "P2000 | Grassland",
+      "categoria": "armas",
+      "descricao": "P2000 | Grassland do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OGhV6N_IeOAAmaexdF6ueZhW2fkzEght2zVnIz_cXrCPQEmA5IhE7FZ4BG-x4GyY-rr5wWNj4kXyi_2kGoXucFfluJI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_so_grassland.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_so_grassland.zip"
+      ],
+      "tamanho": 1238552,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_sp_labyrinth2",
+      "nome": "P2000 | Pathfinder",
+      "categoria": "armas",
+      "descricao": "P2000 | Pathfinder do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OG-V6hsIumBB2mEybxJvOhuRz39lh4ksD7cz96gcX2UaAByA5olQeYLtxbsmtKyY-qxsw3Yg4MWnCz-jTQJsHiIL0xUTQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_sp_labyrinth2.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_sp_labyrinth2.zip"
+      ],
+      "tamanho": 3136191,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_sp_leaves_grassland",
+      "nome": "P2000 | Grassland Leaves",
+      "categoria": "armas",
+      "descricao": "P2000 | Grassland Leaves do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OG-V6hoIeaWHViX0-9lo-1oQS2MmRQguynLzI77dSqVbwF0D8MkTOYJ5xfpl9zhM-62tleI3o0TxHmviisdvCxttvFCD_RWG0AtOw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_sp_leaves_grassland.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_sp_leaves_grassland.zip"
+      ],
+      "tamanho": 3397768,
+      "arma": "P2000"
+    },
+    {
+      "id": "arma_p2000_spe_scarf_print",
+      "nome": "P2000 | Royal Baroque",
+      "categoria": "armas",
+      "descricao": "P2000 | Royal Baroque do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0OG-bZt-I_GBCFiA0-d4pN5lRi67gVMk4GzVzNz9I32RawMoD5shR-ZeuhGxwIeyNuPntgWIjt5Ani33jC0Y8G81tMIEN1xi",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_spe_scarf_print.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p2000_spe_scarf_print.zip"
+      ],
+      "tamanho": 1857076,
+      "arma": "P2000"
     }
   ],
   "links": {},
