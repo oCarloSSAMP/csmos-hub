@@ -521,19 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_deagle_so_night",
-      "nome": "Desert Eagle | Night",
-      "categoria": "armas",
-      "descricao": "Desert Eagle | Night do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_P2RZq1qKOSsAm6Xyfo4seVrHHjmzRhz42XUm4mgIC6TaQYkXpMjTLIIsRawl9HhYbzktFPfgpUFk3u310nzMg",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_so_night.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_so_night.zip"
-      ],
-      "tamanho": 716749,
-      "arma": "Desert Eagle"
-    },
-    {
       "id": "arma_elite_an_emerald",
       "nome": "Dual Berettas | Emerald",
       "categoria": "armas",
@@ -16223,6 +16210,513 @@
       ],
       "tamanho": 4685586,
       "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_deagle_bronze_sparkle",
+      "nome": "Desert Eagle | Bronze Deco",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Bronze Deco do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RarZiLuqWMXSAwPx9vORWQyC0nQlp4zzdydqtJXuTOgZzW5F4QbNZ4UK7l9e1N-Pq5AeNj9hHmH783S9J6zErvbgcMfnnyA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_bronze_sparkle.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_bronze_sparkle.zip"
+      ],
+      "tamanho": 778334,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_crystallized_dark",
+      "nome": "Desert Eagle | Meteorite",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Meteorite do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Ra7Z0M-SSAmuZ2-tyj-VoXSKMmRQguynLyN-qIH3Daw4mCZR3EeBbsUO-l4a2Prvm7gzWg4MXnymq2H8Yui9usfFCD_RyA7Mmlw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_crystallized_dark.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_crystallized_dark.zip"
+      ],
+      "tamanho": 1232716,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_ddpatdense_peacock",
+      "nome": "Desert Eagle | Cobalt Disruption",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Cobalt Disruption do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RbKB9IeSXC2mDxNFmteBqQCq4qhEutDWR1I36c3OVbFQjDcRwR7EO4EW-x4HvMumzswfWjd8XnCn2iShM53s5t-0cEf1ycu8KccY",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_ddpatdense_peacock.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_ddpatdense_peacock.zip"
+      ],
+      "tamanho": 1069518,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_heist_plans_purple",
+      "nome": "Desert Eagle | Night Heist",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Night Heist do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RYKFkM-SsHmuRz_1JoPR7XyW2qhEutDWR1I6uJH-RPQInXJB0F-Vb50bqxt3kN-Kw4VCMjYxCyXmvj3hO6X05t-8cEf1yxd2V6Eg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_heist_plans_purple.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_heist_plans_purple.zip"
+      ],
+      "tamanho": 1392482,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_jorm_green",
+      "nome": "Desert Eagle | Emerald Jörmungandr",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Emerald Jörmungandr do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RYqt_Lc-UHGKVz9F6ueZhW2fqzB51sGiGzNqrJXqWbAYmCpJ0RuYDshm_xNPmZuy07wDY3YwXni6okGoXuekvMmaE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_jorm_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_jorm_green.zip"
+      ],
+      "tamanho": 1247535,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_numbers_bronze",
+      "nome": "Desert Eagle | The Bronze",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | The Bronze do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RZrFgIvWBHViS0-F4quRWQyC0nQlp4muHzt78cXqXbQInCZFzTbEO4xS4lYKzMOnqtQTf3osQm36v3SJMujErvbh3QIzNUw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_numbers_bronze.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_numbers_bronze.zip"
+      ],
+      "tamanho": 1196895,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_scales_bravo",
+      "nome": "Desert Eagle | Golden Koi",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Golden Koi do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6dsLPWAMWWCwPh5j-1gSCGn20om6jyGw9qgJHmQaAcgC8MmR7IMthm5m4W2M7zj7wOIj4pGn32o23hXrnE8VHBG1O4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_scales_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_scales_bravo.zip"
+      ],
+      "tamanho": 900442,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_seastorm_blood",
+      "nome": "Desert Eagle | Sunset Storm 壱",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Sunset Storm 壱 do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqvw-J5v-VWQyC0nQlp52nQn434cC7EblUmCpQmFONYtxCwxIW0Zrvk4ASIiI8UxHn82ika7zErvbhCT1u8fA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_seastorm_blood.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_seastorm_blood.zip"
+      ],
+      "tamanho": 1319166,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_seastorm",
+      "nome": "Desert Eagle | Midnight Storm",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Midnight Storm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqvzedxuPUnGXC3kR904myGyd79eXmUZwYlDsNyQe4JtkWxx9LgYuPrsVaNg99HzDK-0H3GwZY3mA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_seastorm.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_seastorm.zip"
+      ],
+      "tamanho": 1290468,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_seastorm_shojo",
+      "nome": "Desert Eagle | Sunset Storm 弐",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Sunset Storm 弐 do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqv0uZ5uu5WQyC0nQlp4DiDyov6JH7FZgAmX5N5F-RZ5hntw9HlNuPkswLa2d1NzCv63S0cvTErvbieIVxaew",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_seastorm_shojo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_seastorm_shojo.zip"
+      ],
+      "tamanho": 1318929,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_case_hardened_2",
+      "nome": "Desert Eagle | Heat Treated",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Heat Treated do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKFsJ_yWMWSR0utJuOB7Syy9kBkY4QKJk4jxNWXGbQZ0CZpyTeBf4xO4m9y1Nuy05wHYg4lNySWr3C1Luyhu4LkKA6As5OSJ2JAJXn6j",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_case_hardened_2.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_case_hardened_2.zip"
+      ],
+      "tamanho": 1540375,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_corinthian",
+      "nome": "Desert Eagle | Corinthian",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Corinthian do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKFsJ_yWMWSf0-d4pOlgTieMmRQguynLzNz4Iy2ebgUmDZB4QeEDskO5ktWzMrjm7wPd2IlGmCr_3XxBuClr4PFCD_To4zX47g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_corinthian.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_corinthian.zip"
+      ],
+      "tamanho": 890366,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_naga",
+      "nome": "Desert Eagle | Naga",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Naga do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKFsJ_yWMWmRxu9JvOhuRz39zEx06jjWm4n8Ii6WPFQhA5YjE7MJskPrwdTuZb7htlHbg9oTzCn2hjQJsHhQd9ynBw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_naga.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_naga.zip"
+      ],
+      "tamanho": 1321773,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_desert_eagle_constable",
+      "nome": "Desert Eagle | Directive",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Directive do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKF-JeKHMWKRxuJzj-JmQTqnlB8rtgKJk4jxNWXGPQ9yA8Z0R7FbtBi7w9S2M7_msgCIid1CmH6viH5I7ilr4-oEUKst5OSJ2LTZlHwR",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_desert_eagle_constable.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_desert_eagle_constable.zip"
+      ],
+      "tamanho": 1241557,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_deserteagle_kumichodragon",
+      "nome": "Desert Eagle | Kumicho Dragon",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Kumicho Dragon do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKF-JeKHC2aXzetJu_RkRiq7mhk1sjqKlLD1KCzPKhh0CcBwQLVe5BHrloKyZOnr5w3XiYhDnC39iCpK7X1psrlUWaFw8qXekUifZlV_fDVZ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_deserteagle_kumichodragon.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_deserteagle_kumichodragon.zip"
+      ],
+      "tamanho": 1210862,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_engraved",
+      "nome": "Desert Eagle | Heirloom",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Heirloom do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbapqMvGFC2Ovxet3t-1scCW6khUz_W3czNegeXueO1N2WZIkE-RY4EGxlNSxZLnn5gfai4oTniSoiStA6y91o7FVItTkIhw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_engraved.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_engraved.zip"
+      ],
+      "tamanho": 1270435,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_handcannon",
+      "nome": "Desert Eagle | Hand Cannon",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Hand Cannon do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORYKVjJPOSAGmfz9F6ueZhW2eww0t-6mrUn977cinDZ1IgD8YiTeUIthjpk9zkYem04wTXj4oRnCv7kGoXuTIzWSlA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_handcannon.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_handcannon.zip"
+      ],
+      "tamanho": 1455505,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_pilot",
+      "nome": "Desert Eagle | Pilot",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Pilot do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uOReK1hL-SsCmKRxuJzj-1gSCGn2x8jtWncyIupJH2TPwYlCJZyF-Rct0XplNfiYuy2tAeIiItEz36ointXrnE8Ks-4_Fs",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_pilot.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_pilot.zip"
+      ],
+      "tamanho": 1265661,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_deag_printstream",
+      "nome": "Desert Eagle | Printstream",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Printstream do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ8-DHG6e1f1iouRoQha_nBovp3OGmdeqInyVP1V0XsYlRbEI50a5wNyzZr605AyI3t5MmCSohylAuC89_a9cBoMY9UkV",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_deag_printstream.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_deag_printstream.zip"
+      ],
+      "tamanho": 861576,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_deag_trigger_discipline",
+      "nome": "Desert Eagle | Trigger Discipline",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Trigger Discipline do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ8-HHG6Xxutkj-VgXCq6hREuvTi6lob-KT-Ja1UlWMAkTOMCt0G9kIHlP77l5FbW344XxX_4iSJJv31r4bxRUKUn_rqX0V-d-rquYA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_deag_trigger_discipline.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_deag_trigger_discipline.zip"
+      ],
+      "tamanho": 1198001,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_aureus",
+      "nome": "Desert Eagle | Conspiracy",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Conspiracy do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ_yWMWaF0-tjo95lRi67gVMk4WTSm9moI3-QPVBxDJByQOJe40O6k4fnM-zgsQXci4gUyH3_3CMa8G81tJHuULJI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_aureus.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_aureus.zip"
+      ],
+      "tamanho": 1193950,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_kitch",
+      "nome": "Desert Eagle | Ocean Drive",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Ocean Drive do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ_yWMWyZ1e1-j-1gSCGn2x5-sG7Wzdyvc3OSbgcnXpR5FO9bukTtm9WzMePhswaN2N5CmCj_jyhXrnE8ibjhEyc",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_kitch.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_kitch.zip"
+      ],
+      "tamanho": 1040668,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_replica",
+      "nome": "Desert Eagle | Blue Ply",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Blue Ply do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ_yWMXWV0eJ_s-BWQyC0nQlpsjzdwtqgIHqfZgAgDZBwROBbtRDsm4HiM7zislfYitpBniz6iy5K7DErvbjLUTqBnA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_replica.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_replica.zip"
+      ],
+      "tamanho": 1306214,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_desert_eagle_corroden",
+      "nome": "Desert Eagle | Oxide Blaze",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Oxide Blaze do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKF-JeKHMWKRxuJzj-JmXTu8kRgpjDGMnYftb32UPwJxDJokRuUIsRi_lNPhM7izsgXZi49GySiq2nxNuCdttbtUB_A7uvqAjSk2l_c",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_desert_eagle_corroden.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_desert_eagle_corroden.zip"
+      ],
+      "tamanho": 1252509,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_glitter",
+      "nome": "Desert Eagle | Starcade",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Starcade do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRb6hkNOSWHFiUxO9xvORWQyC0nQlpsD_SnN79JX2WbQ8pXMNwRO5ZsRK8lt21Nb7r4wPXgtgWmCz7hylJ6jErvbgNUrm8Kg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_glitter.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_glitter.zip"
+      ],
+      "tamanho": 1340143,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_overpass_aqua",
+      "nome": "Desert Eagle | Tilted",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Tilted do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRZ7JoMuCSHXSvwP9jsd5tSii0mRgYvzSCkpu3cH-UOgV2D8RyQrMKsRW-mtWyPunr4VeNjIhMmX6ojigY7y9v5ehUA71lpPMO4MWI5A",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_overpass_aqua.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_overpass_aqua.zip"
+      ],
+      "tamanho": 1379857,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_eastern_enigma_blue",
+      "nome": "Desert Eagle | Eastern Enigma",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Eastern Enigma do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6_evb6hoH_WSHXOV0-BJte9gSCSyqh8rpji6lob-KT-JawckWMNwRLIJu0SxltfkPuvgtVfXioNFySv92ipL6S8_sukFWaIl_bqX0V8Czprh4w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_eastern_enigma_blue.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_eastern_enigma_blue.zip"
+      ],
+      "tamanho": 1305228,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_aggressor",
+      "nome": "Desert Eagle | Code Red",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Code Red do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWaXxvxzo_JmXRa_nBovp3PRmNj4c3mTb1RxC5cjF-EItRnrlNzkYrnk5gaI3Y0UmyX52H9K7ixs_a9cBsGEcOCn",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_aggressor.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_aggressor.zip"
+      ],
+      "tamanho": 1224352,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_exo",
+      "nome": "Desert Eagle | Light Rail",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Light Rail do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWKIztF6ueZhW2fhlhlw6m-GnNyvIiiXOwQoDMR2QbZe5hi5k9KxN-vhtFbciN1FnyqskGoXuU4JtHUo",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_exo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_exo.zip"
+      ],
+      "tamanho": 1097238,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_fennec",
+      "nome": "Desert Eagle | Fennec Fox",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Fennec Fox do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWGVz-Bzs95lRi67gVN14GvRyt77cnKfagRyXsMiTeUNtRO5kYWyYr7i4lfZgoIUzX722CpO8G81tMpbNfMB",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_fennec.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_fennec.zip"
+      ],
+      "tamanho": 1255558,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_mecha",
+      "nome": "Desert Eagle | Mecha Industries",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Mecha Industries do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWqVwuZ3j-1gSCGn20h042vSyY2tdyjCZwIlXJBxQeNe4EWxxoHkMOq0sQGIid5Fnyr42HtXrnE8p4gbgvE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_mecha.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_mecha.zip"
+      ],
+      "tamanho": 1090564,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_ht_earth_fans",
+      "nome": "Desert Eagle | Mint Fan",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Mint Fan do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-aRbaV_NPisCGae0tF6ueZhW2ewlEoktW2AnI2qJHqSPFBxXJp0QrEIsRbpwYC0Purr4w3W3t1CmXiokGoXuVx1ISUO",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_ht_earth_fans.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_ht_earth_fans.zip"
+      ],
+      "tamanho": 1341492,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_hy_ddpat_urb",
+      "nome": "Desert Eagle | Urban DDPAT",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Urban DDPAT do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRbKB9IeSsG3WS_uJ_t-l9AXm2kxkk42rWn9egc36UOwYiX5N1EOVYsRLtldC0M77g5QXfiN1Fzn_gznQemk8fKYk",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_hy_ddpat_urb.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_hy_ddpat_urb.zip"
+      ],
+      "tamanho": 913890,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_hy_mottled_sand",
+      "nome": "Desert Eagle | Mudder",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Mudder do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRZat5NPyWCliDwOByj-1gSCGn20gj4WrVyNiuJ3OfPVAjCpEmE7MKuxbqmtDmPuu0slDW3Y5GyS-tintXrnE8PKHjtHI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_hy_mottled_sand.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_hy_mottled_sand.zip"
+      ],
+      "tamanho": 1480685,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_hy_varicamo_urban",
+      "nome": "Desert Eagle | Urban Rubble",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Urban Rubble do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRfqV_KfOSA2iv1Px0se9WQyC0nQlp52nWmduhIn-QaQIpX5RyF-ZY5BS4l9TjZOPmsleN34wWnir73yJI7zErvbj27zddPg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_hy_varicamo_urban.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_hy_varicamo_urban.zip"
+      ],
+      "tamanho": 1415782,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_hy_webs_darker",
+      "nome": "Desert Eagle | Crimson Web",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Crimson Web do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRf6FvM8-XD3WbxPxJvOhuRz39wEUh5W3Rytyscy7FPAYgWJJzRe4MtUW8loKyZOm3sQzb34lEzyX32zQJsHig-EWd2A",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_hy_webs_darker.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_hy_webs_darker.zip"
+      ],
+      "tamanho": 1011722,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_hye_car_wrap",
+      "nome": "Desert Eagle | The Daily Deagle",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | The Daily Deagle do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-urV6dsMs-EHGaA_uJ_t-l9AXm3kxh162qHy9-pd3PEagMmDJMkRuEK4BG4x9zhZe-07gPdiotMyivgznQej0ovEM4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_hye_car_wrap.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_hye_car_wrap.zip"
+      ],
+      "tamanho": 1171608,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_so_night",
+      "nome": "Desert Eagle | Night",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Night do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_P2RZq1qKOSsAm6Xyfo4seVrHHjmzRhz42XUm4mgIC6TaQYkXpMjTLIIsRawl9HhYbzktFPfgpUFk3u310nzMg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_so_night.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_so_night.zip"
+      ],
+      "tamanho": 716751,
+      "arma": "Desert Eagle"
+    },
+    {
+      "id": "arma_deagle_sp_spacerace_blue",
+      "nome": "Desert Eagle | Sputnik",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Sputnik do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_OKRe7RsI_WBD2SV_ux6peRWQyC0nQlp5W6Hydz_In7CPQMjWcYmQrZZ5xLumtCxZrnhsQ2I3dkTmCz5jyoaujErvbhRuDcF4A",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_sp_spacerace_blue.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_deagle_sp_spacerace_blue.zip"
+      ],
+      "tamanho": 1065036,
+      "arma": "Desert Eagle"
     }
   ],
   "links": {},
