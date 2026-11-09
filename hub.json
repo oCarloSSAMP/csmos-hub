@@ -521,32 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_m249_so_jungle",
-      "nome": "M249 | Jungle",
-      "categoria": "armas",
-      "descricao": "M249 | Jungle do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0Pi7ZqNhJc-fB2CY1aB3tbI4S3ngl04ktj7XnNb7InvCOgAlC5Z4Q7ID4RHqlNDgZOPj4Qzdlcsbmsfre7St",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_jungle.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_jungle.zip"
-      ],
-      "tamanho": 1452963,
-      "arma": "M249"
-    },
-    {
-      "id": "arma_m249_so_keycolors",
-      "nome": "M249 | Impact Drill",
-      "categoria": "armas",
-      "descricao": "M249 | Impact Drill do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0PmrcadiLP-BHVicyOl-pK9rS3jlxBhztznQmNmrIn-VbFcmW5ZyReZe5hi9m4e1MO7j4w2Mg91A02yg2QZ4bFj3",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_keycolors.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_keycolors.zip"
-      ],
-      "tamanho": 1452960,
-      "arma": "M249"
-    },
-    {
       "id": "arma_glock_so_night",
       "nome": "Glock-18 | Night",
       "categoria": "armas",
@@ -12362,6 +12336,318 @@
       ],
       "tamanho": 3900354,
       "arma": "Negev"
+    },
+    {
+      "id": "arma_m249_aztec",
+      "nome": "M249 | Aztec",
+      "categoria": "armas",
+      "descricao": "M249 | Aztec do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiNK0P_8PP1SIeqHC2SvzedxuPUnTirnwEslsT6Gzd2sJHLCOlUpWJohE-MMsxW6l9GxPuy24AyL398QnjK-0H18Ww4Zdw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_aztec.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_aztec.zip"
+      ],
+      "tamanho": 3237422,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_obsidian",
+      "nome": "M249 | Magma",
+      "categoria": "armas",
+      "descricao": "M249 | Magma do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiNK0P2se61pKfGdMWuZxuZi_rNrTC-wl0gh5WXXmIqpIyiSbVIoXJckEO9eukTrx4XkMbjh51bYjIJbjXKp9iAER2c",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_obsidian.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_obsidian.zip"
+      ],
+      "tamanho": 3998486,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_deep_relief",
+      "nome": "M249 | Deep Relief",
+      "categoria": "armas",
+      "descricao": "M249 | Deep Relief do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SJPWWHliCxOJ_tedWQyC0nQlp5DzUzIyqcnyQOAckWJckQu8KuhnpkdPgNu-0tgTYio5Eny2shnsd7TErvbi9QVp9bQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_deep_relief.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_deep_relief.zip"
+      ],
+      "tamanho": 2694379,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_downvote",
+      "nome": "M249 | Downtown",
+      "categoria": "armas",
+      "descricao": "M249 | Downtown do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SJP-EAHGf1etJvOhuRz39wUh-5GuGz4mrJHuSbg4jWJp1FLINsRCxwdDuZezm7leK3d5GmSr_jTQJsHj3YwoNRA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_downvote.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_downvote.zip"
+      ],
+      "tamanho": 2860592,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_scarab",
+      "nome": "M249 | Submerged",
+      "categoria": "armas",
+      "descricao": "M249 | Submerged do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SM_OSHGaS_uJ_t-l9AXmyxkt0t2yDyYurci6TPQcgCcckTOMLsxCwk9PiM7i041Tago1FnH7gznQeMmXICmk",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_scarab.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_scarab.zip"
+      ],
+      "tamanho": 3602307,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_sektor",
+      "nome": "M249 | System Lock",
+      "categoria": "armas",
+      "descricao": "M249 | System Lock do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SM_WYGmiC_uJ_t-l9AXzhzEt25Wjcn4n4dHKebgMlCMB2RO5b40S-x9TnN-KztFDf3ohDzirgznQedTUXMuU",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sektor.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sektor.zip"
+      ],
+      "tamanho": 2744897,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_spectre",
+      "nome": "M249 | Spectre",
+      "categoria": "armas",
+      "descricao": "M249 | Spectre do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiFO0P_8PP1SM-CWDXOCxNF6ueZhW2fqwklx4j_Wyd_6J3yeOlcoXMclQuQI4xbrw4fmNrziswLX2IhHziqrkGoXuVEVHa_j",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_spectre.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_spectre.zip"
+      ],
+      "tamanho": 2015190,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_combine",
+      "nome": "M249 | O.S.I.P.R.",
+      "categoria": "armas",
+      "descricao": "M249 | O.S.I.P.R. do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiVI0P_8PP1SI_-eDG6exNF6ueZhW2fhwB53smmAzIr_cy2fa1N0D5J0E-Je4BG_lt22N-63sQLYid0UxCytkGoXuS8jTKqZ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_combine.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_combine.zip"
+      ],
+      "tamanho": 2705374,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_nebula_crusader",
+      "nome": "M249 | Nebula Crusader",
+      "categoria": "armas",
+      "descricao": "M249 | Nebula Crusader do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiVI0P_8PP1SLvWRG2uR_u1kpfJoSyyhqhEutDWR1Ir_JSiXOgciDJN4RucCsRW8w4KyZu_q5FeLjN4RnCmt33lP7nxv5-wcEf1yLX15hXE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_nebula_crusader.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_nebula_crusader.zip"
+      ],
+      "tamanho": 2574481,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_warbird_veteran",
+      "nome": "M249 | Warbird",
+      "categoria": "armas",
+      "descricao": "M249 | Warbird do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wiVI0P_8PP1SN_GBDG6CxdFgtfVsXSi9qhEutDWR1NqpdymUbgcgDcRwEeUO5xa7kIGzMOjgsQzejNoRni6ohyJL6ytv4-4cEf1yirMa72w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_warbird_veteran.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_warbird_veteran.zip"
+      ],
+      "tamanho": 3468538,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_ht_peaks_rainbow",
+      "nome": "M249 | Spectrogram",
+      "categoria": "armas",
+      "descricao": "M249 | Spectrogram do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipP0OKraa9-H-KSB2mSzvlJvOhuRz39kxsj5WXUz4urInmWblIgCZVxTbJfthXsmoDuM-m05QPeiIJAyiuvjjQJsHhX7l6_wQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_ht_peaks_rainbow.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_ht_peaks_rainbow.zip"
+      ],
+      "tamanho": 2357561,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_hy_blizzard",
+      "nome": "M249 | Blizzard Marbleized",
+      "categoria": "armas",
+      "descricao": "M249 | Blizzard Marbleized do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC0PCiYb53IeKXMWuZxuZi_rIwF3DmzBx14WTTwtisIH6fOAYmWJImReMC5xm-koGxM-yw4wKIj9lbjXKpzG9Fj_8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_hy_blizzard.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_hy_blizzard.zip"
+      ],
+      "tamanho": 3976996,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_hy_ddpat_jungle_bravo",
+      "nome": "M249 | Jungle DDPAT",
+      "categoria": "armas",
+      "descricao": "M249 | Jungle DDPAT do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC0PaqeKV5H_qGAGCcxNF0ouB_QBa_nBovp3PXmNqqICqWbwB2ApMiQeFYsEXqmoDiZem37lTfit4WmS3623lB6itr_a9cBmG97jrI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_hy_ddpat_jungle_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_hy_ddpat_jungle_bravo.zip"
+      ],
+      "tamanho": 1984717,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_hy_zodiac3",
+      "nome": "M249 | Shipping Forecast",
+      "categoria": "armas",
+      "descricao": "M249 | Shipping Forecast do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC0OihbK1sI6OsAm6Xyfo4s7c4Gnvmx0l0tWjSzoyoeC7BPwUgDsAiQ-cMsROwloG2Y-rr4wfe3pUFk3scMmqwFg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_hy_zodiac3.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_hy_zodiac3.zip"
+      ],
+      "tamanho": 3362208,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_hye_m249_car_wrap_3",
+      "nome": "M249 | Sleet",
+      "categoria": "armas",
+      "descricao": "M249 | Sleet do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC6s2jOvA0H_OSHFiH0-9mj7JWQyC0nQlp6zzQwtiudHvCO1MlDJByQuIC4UO7lta0Zuy0swPZiNhDxSv33C0f6zErvbjSvv-GUg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_hye_m249_car_wrap_3.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_hye_m249_car_wrap_3.zip"
+      ],
+      "tamanho": 3058667,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_hyo_jungle_desat",
+      "nome": "M249 | Sage Camo",
+      "categoria": "armas",
+      "descricao": "M249 | Sage Camo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wipC4M2kfapqLPWsCmKDwPpJvOhuRz39lkUisWTSmIz7I3uValQjXMEmE-AO4Ea9k9HvZLy27g2P3otEnnj8iDQJsHjxYKi7jg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_hyo_jungle_desat.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_hyo_jungle_desat.zip"
+      ],
+      "tamanho": 1726379,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_so_jungle",
+      "nome": "M249 | Jungle",
+      "categoria": "armas",
+      "descricao": "M249 | Jungle do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0Pi7ZqNhJc-fB2CY1aB3tbI4S3ngl04ktj7XnNb7InvCOgAlC5Z4Q7ID4RHqlNDgZOPj4Qzdlcsbmsfre7St",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_jungle.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_jungle.zip"
+      ],
+      "tamanho": 1452965,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_so_keycolors",
+      "nome": "M249 | Impact Drill",
+      "categoria": "armas",
+      "descricao": "M249 | Impact Drill do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFU0PmrcadiLP-BHVicyOl-pK9rS3jlxBhztznQmNmrIn-VbFcmW5ZyReZe5hi9m4e1MO7j4w2Mg91A02yg2QZ4bFj3",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_keycolors.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_so_keycolors.zip"
+      ],
+      "tamanho": 1452960,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_sp_m249_frog_original",
+      "nome": "M249 | Emerald Poison Dart",
+      "categoria": "armas",
+      "descricao": "M249 | Emerald Poison Dart do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0P_8PP1SJuKcCVif0-dxue9oQxa_nBovp3PRzNb8JX2VO1IpDsclRrEPtxXtxNSxYuuw4QHai9gWyCT2j3gYuHlt_a9cBlcR8wa2",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_m249_frog_original.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_m249_frog_original.zip"
+      ],
+      "tamanho": 2761260,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_sp_mesh_python",
+      "nome": "M249 | Gator Mesh",
+      "categoria": "armas",
+      "descricao": "M249 | Gator Mesh do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0P-re6xSMOmHBmie_uJ_t-l9ASrkwxxwtWrUyY79I3yUaA5xWcd2RO4C4BO6l4HkZbnj7lSM2YtDzC3gznQeaJe5pgI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_mesh_python.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_mesh_python.zip"
+      ],
+      "tamanho": 3887511,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_sp_moro_carving_burnt",
+      "nome": "M249 | Humidor",
+      "categoria": "armas",
+      "descricao": "M249 | Humidor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0P-heqtSI_GBGG6extF0pfNnWxa_nBovp3OGnomhc3-ROFInDJclReQOtkS_xNO0MLuwtVCL3Y9DxSqr3y9Lunxq_a9cBnmfuyfW",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_moro_carving_burnt.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_moro_carving_burnt.zip"
+      ],
+      "tamanho": 3433448,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_sp_palm_night",
+      "nome": "M249 | Midnight Palm",
+      "categoria": "armas",
+      "descricao": "M249 | Midnight Palm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0OKvZKlSLvmUBnOvzedxuPUnS3Cxlx8ksW7Um9mtc3KTOwAlCJF4FO4PskO9wd3jZLjn4wSN2I1HzDK-0H3u05_o_Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_palm_night.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_palm_night.zip"
+      ],
+      "tamanho": 3502486,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_sp_spray",
+      "nome": "M249 | Contrast Spray",
+      "categoria": "armas",
+      "descricao": "M249 | Contrast Spray do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0OG-eqV0H_yaCW-Ej-shsbBtS3q2wkUitWzUz9b_c3vEZ1UhD5R4F-QL40a8m4HuZbnitlfAy9USVV6qaxA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_spray.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_spray.zip"
+      ],
+      "tamanho": 3352251,
+      "arma": "M249"
+    },
+    {
+      "id": "arma_m249_sp_zebracam",
+      "nome": "M249 | Predator",
+      "categoria": "armas",
+      "descricao": "M249 | Predator do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8zMK5wjFL0OirarZsI_GeMWuZxuZi_rM9H3nkk01-6mSAzon_d3vBZw4lXsB0TOQD4RftwdXmY7-3tlffioNbjXKpMr9foB4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_zebracam.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_m249_sp_zebracam.zip"
+      ],
+      "tamanho": 4266046,
+      "arma": "M249"
     }
   ],
   "links": {},
