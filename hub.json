@@ -1509,357 +1509,6 @@
       "arma": "SSG 08"
     },
     {
-      "id": "arma_sg553_army_shine",
-      "nome": "SG 553 | Army Sheen",
-      "categoria": "armas",
-      "descricao": "SG 553 | Army Sheen do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a4s2veql0H-ObB2mV_uJ_t-l9AS3qxBgh4jnTyNr4eHKRbwEoWZd0F-RZtkG-lN3gMeix41Tdi98RyXrgznQeaSRFZ6A",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_army_shine.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_army_shine.zip"
-      ],
-      "tamanho": 3281206,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_an_navy",
-      "nome": "SG 553 | Anodized Navy",
-      "categoria": "armas",
-      "descricao": "SG 553 | Anodized Navy do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a4c2gabJ0H_yaCW-Ej7ons-AwG37hzUQj5z_Tw9esIHnCZ1UiW5ojQuYJtBO6kNzgNrjitQXAy9USYrEgg8s",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_an_navy.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_an_navy.zip"
-      ],
-      "tamanho": 1854294,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_damascus",
-      "nome": "SG 553 | Damascus Steel",
-      "categoria": "armas",
-      "descricao": "SG 553 | Damascus Steel do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a_s2qaalsM_OGHViDxrsj495lRi67gVMj4miGzteseXjBbAJxXsEjEOQK50axk9C1ZuPi4wbX39gRnC33iipJ8G81tD-xNff9",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_damascus.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_damascus.zip"
-      ],
-      "tamanho": 4006997,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_luggage",
-      "nome": "SG 553 | Traveler",
-      "categoria": "armas",
-      "descricao": "SG 553 | Traveler do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s2ifaNqIfeWMXSXlLslj-1gSCGn20905myGzIn6cyqePQUpA8FxRLVetRK_lYbkMrmx7wbWjIkXzi2t2HtXrnE8Nea-0H8",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_luggage.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_luggage.zip"
-      ],
-      "tamanho": 3159736,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_aerial",
-      "nome": "SG 553 | Aerial",
-      "categoria": "armas",
-      "descricao": "SG 553 | Aerial do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-SC3WZwOJJvOhuRz39wkQj4TzXw9igJXrEbAJ1C5VyQeVZ5hHslIXjMOyz41begt9Myiiq3zQJsHi7xfgn5g",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_aerial.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_aerial.zip"
-      ],
-      "tamanho": 3115562,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_atlas",
-      "nome": "SG 553 | Atlas",
-      "categoria": "armas",
-      "descricao": "SG 553 | Atlas do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-SGmuR0tF6ueZhW2fgkxt_tTndn46rJX6QOAEoC5QhEe5f5hHqltfgMeO0tQHY2IsTyyyokGoXuYh0VG-5",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_atlas.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_atlas.zip"
-      ],
-      "tamanho": 2287711,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_caution",
-      "nome": "SG 553 | Hazard Pay",
-      "categoria": "armas",
-      "descricao": "SG 553 | Hazard Pay do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QD3KEyOF4j-1gSCGn20Qj52vXw9z6c32RbAV2XpF1Q-UN4Ra7x4bkPuy0tFTciYpCxC37jC1XrnE8Zorh1bo",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_caution.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_caution.zip"
-      ],
-      "tamanho": 3313065,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_cyber_dragon",
-      "nome": "SG 553 | Dragon Tech",
-      "categoria": "armas",
-      "descricao": "SG 553 | Dragon Tech do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QF2WV09FyouBuQCeMmRQguynLw9ygIHnGbgYlDpciEeBYsEPux9ThMuOz4ACLjY1FmX-viitMvCZp5_FCD_QeAJd5TA",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyber_dragon.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyber_dragon.zip"
-      ],
-      "tamanho": 3139486,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_cyberforce",
-      "nome": "SG 553 | Cyberforce",
-      "categoria": "armas",
-      "descricao": "SG 553 | Cyberforce do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QF2WV0-h5ouJscCW6khUz_Wjdntr6Iy6WbgEjA5MlRedctxG5kNKyNbi3sgTfi9oUnyj9234b5n51o7FVairOMAY",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyberforce.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyberforce.zip"
-      ],
-      "tamanho": 3239114,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_cyrex",
-      "nome": "SG 553 | Cyrex",
-      "categoria": "armas",
-      "descricao": "SG 553 | Cyrex do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QF3WV2dF6ueZhW2frlhl14W7Xzt6geXqQP1N0CMRyQuFY5kHsx9HmZejq7wPei91AzCT_kGoXueC0Dzdv",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyrex.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyrex.zip"
-      ],
-      "tamanho": 3020761,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_darkwing",
-      "nome": "SG 553 | Darkwing",
-      "categoria": "armas",
-      "descricao": "SG 553 | Darkwing do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-XD3Wb1ud4t95lRi67gVN24D7WmN2sdSqSalAmDpR2F-IDtxTpkYKyZrmzsQffgtgXzSmqjSNA8G81tFvCRYkS",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_darkwing.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_darkwing.zip"
-      ],
-      "tamanho": 2783428,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_pulse",
-      "nome": "SG 553 | Pulse",
-      "categoria": "armas",
-      "descricao": "SG 553 | Pulse do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-DG2uDxNF6ueZhW2eykUh24jjczYqscH7GblIpCJBxF-AD4BHtxIKzM-nq5ACK3t1GyySskGoXuRyAaawM",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_pulse.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_pulse.zip"
-      ],
-      "tamanho": 2283573,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_rally",
-      "nome": "SG 553 | Integrale",
-      "categoria": "armas",
-      "descricao": "SG 553 | Integrale do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-BD2uc2NF6ueZhW2e2wkV14m2DzditcnmQOA4gWcYlQOcDs0a7moLvZLiw5geP3dgRnnj2kGoXuQPBQAH6",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_rally.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_rally.zip"
-      ],
-      "tamanho": 1875224,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_reactor",
-      "nome": "SG 553 | Colony IV",
-      "categoria": "armas",
-      "descricao": "SG 553 | Colony IV do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-BC2aT1eFkj-1gSCGn20Qit2yAn9n8IHKealB2DZIjTO8JsBW7ktDlYu_m5ADWit4Rznn63XtXrnE82sW2soE",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_reactor.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_reactor.zip"
-      ],
-      "tamanho": 3295016,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_triarch",
-      "nome": "SG 553 | Triarch",
-      "categoria": "armas",
-      "descricao": "SG 553 | Triarch do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4ds-HHG6R0-1-j-1gSCGn20Qk6m3UmY77IHOeOlNxCJQmQbYMuhC6mtaxP-K0sQLYi94RzC_8iH5XrnE8WPSRipg",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_triarch.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_triarch.zip"
-      ],
-      "tamanho": 3378885,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_happy_red",
-      "nome": "SG 553 | Berry Gel Coat",
-      "categoria": "armas",
-      "descricao": "SG 553 | Berry Gel Coat do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M2mabR9Oc-BC2Ov0ukj5bdWQyC0nQlp42vXn4mrIy2VagRzXJJxFOYJsxG4koLgP-zktVbf3oJMmSX43SIf6jErvbj113ptXQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_happy_red.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_happy_red.zip"
-      ],
-      "tamanho": 3500199,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_deathmetal",
-      "nome": "SG 553 | Heavy Metal",
-      "categoria": "armas",
-      "descricao": "SG 553 | Heavy Metal do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M29b_E4c8-XC2aEyeNzpOBlcCW6khUz_W6Gw9aqcH3EOAUlCcR5Qu4J50O5ltbhMrnltgbdg4tDmSus3ClOuCp1o7FV59kcj5o",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_deathmetal.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_deathmetal.zip"
-      ],
-      "tamanho": 2023904,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_over_heated",
-      "nome": "SG 553 | Danger Close",
-      "categoria": "armas",
-      "descricao": "SG 553 | Danger Close do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M29b_E4c8-cGGKC_uZzsfVsSxa_nBovp3PSn4z_eH7Fb1V2DpckQeUJsRe8wNflMui0tVTX34MUyH2sjX8b7Xxu_a9cBmrf7Gwc",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_over_heated.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_over_heated.zip"
-      ],
-      "tamanho": 3958908,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_phantom",
-      "nome": "SG 553 | Phantom",
-      "categoria": "armas",
-      "descricao": "SG 553 | Phantom do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M29b_E4c8-DBmae1eF7j-1gSCGn204k5WXSz4ysJSnDPQ5xDsZ0Ru4PtUKxw9XhMO-0tAON3YpMyS-v23lXrnE80YpLcJc",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_phantom.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_phantom.zip"
-      ],
-      "tamanho": 2048232,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_rusty",
-      "nome": "SG 553 | Ol' Rusty",
-      "categoria": "armas",
-      "descricao": "SG 553 | Ol' Rusty do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M29b_E4c8-BG3SE2NF6ueZhW2e3xxt35GzSw9_8J3yePFIpCMEiRrJZukO7x4exZLiw4AGLiNgRy32rkGoXuZqsEgp2",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_rusty.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_rusty.zip"
-      ],
-      "tamanho": 1885252,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_tiger_moth",
-      "nome": "SG 553 | Tiger Moth",
-      "categoria": "armas",
-      "descricao": "SG 553 | Tiger Moth do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M29b_E4c8-HB2CV09F7v_VhcCW6khUz_TnWn9n7cyqRPQ52DpN3QLEPshjrw9zlY-jjs1bWioMQxSj8hyxJu3l1o7FVwqXqqnE",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_tiger_moth.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_tiger_moth.zip"
-      ],
-      "tamanho": 3493627,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_ht_orange_basket",
-      "nome": "SG 553 | Basket Halftone",
-      "categoria": "armas",
-      "descricao": "SG 553 | Basket Halftone do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1T-82heqVjJ_WsDGaDyutij-1gSCGn2xxy6mndyNj6cnLCPAIlC5YkF-4Ku0W_ltDhPr6z5lfb2IJBniT7iy9XrnE8euhCJNg",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_ht_orange_basket.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_ht_orange_basket.zip"
-      ],
-      "tamanho": 2614324,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_hye_animal_print_lc",
-      "nome": "SG 553 | Safari Print",
-      "categoria": "armas",
-      "descricao": "SG 553 | Safari Print do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1T9veRaapkLfGfMXeCyOBij-1qcCW6khUz_T_Rn9qoIn-Sb1MkX5B3RecL4EXsltXmP-u0tgbbj4tEyHn7334a6Ch1o7FVNpTVjWQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_hye_animal_print_lc.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_hye_animal_print_lc.zip"
-      ],
-      "tamanho": 3776262,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_so_purple",
-      "nome": "SG 553 | Ultraviolet",
-      "categoria": "armas",
-      "descricao": "SG 553 | Ultraviolet do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M2-fbZ9LPWsAm6Xyfo44bQ-Tn7gwRt-t2uAw96tIn7FOAF1CsckQLUJ4xXskdO2NLzrtAyIi5UFk3tU_MwgmA",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_purple.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_purple.zip"
-      ],
-      "tamanho": 1854247,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_so_red",
-      "nome": "SG 553 | Candy Apple",
-      "categoria": "armas",
-      "descricao": "SG 553 | Candy Apple do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M28baBSM_fGWzSvzedxuPUnF3vgx0kmtznSyoyreSqea1UoD5Z0RrZetBm-lt3nPu_r5waP2d9FnDK-0H3tyRypkA",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_red.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_red.zip"
-      ],
-      "tamanho": 1854282,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_so_tornado",
-      "nome": "SG 553 | Tornado",
-      "categoria": "armas",
-      "descricao": "SG 553 | Tornado do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M26Z7ZjIfScMWuZxuZi_uU7Syuxlx505muBzN2sI3uUOA51C5AhR7UIsEKww9W0MO634APd2NhbjXKp4EWrMzw",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_tornado.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_tornado.zip"
-      ],
-      "tamanho": 1854228,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_so_yellow",
-      "nome": "SG 553 | Bulldozer",
-      "categoria": "armas",
-      "descricao": "SG 553 | Bulldozer do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M23bahhL-esAm6Xyfo44rZsF3jmwU53tmyDzYv6cHnCalQhXMckEe9Y5kXplIC0NrzrtAfcipUFk3th3T45rw",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_yellow.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_yellow.zip"
-      ],
-      "tamanho": 1854268,
-      "arma": "SG 553"
-    },
-    {
       "id": "arma_sg553_soo_blues",
       "nome": "SG 553 | Night Camo",
       "categoria": "armas",
@@ -1870,97 +1519,6 @@
         "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_soo_blues.zip"
       ],
       "tamanho": 2523717,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_sp_asgard_wall",
-      "nome": "SG 553 | Barricade",
-      "categoria": "armas",
-      "descricao": "SG 553 | Barricade do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82ve6NsMvSsGWaczdF6ueZhW2e1xxwlsTyHn9r_ICmQPAd2CJZyQ7IC5hiwltzuY-u34wyLjYtFni6vkGoXubfBxhfQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_asgard_wall.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_asgard_wall.zip"
-      ],
-      "tamanho": 3694282,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_sp_desert_skulls",
-      "nome": "SG 553 | Bleached",
-      "categoria": "armas",
-      "descricao": "SG 553 | Bleached do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82qbbdoMuSsHWyFzeJlj-1gSCGn20Uk5WTSytmqJH6XbwMoA8RyRuBY4Ea6kNC2Y-Oz7gbc3o9HxS2r2n5XrnE8gS50bog",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_desert_skulls.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_desert_skulls.zip"
-      ],
-      "tamanho": 4452189,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_sp_mesh_python",
-      "nome": "SG 553 | Gator Mesh",
-      "categoria": "armas",
-      "descricao": "SG 553 | Gator Mesh do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82jbbdlH-CKGm-fz9F6ueZhW2e2zER_5j-ByIz_d3nCOgMiC5Z0Ru8DsBSxkN3mYrzjtFHd2I9DxH77kGoXubNdaEwA",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_mesh_python.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_mesh_python.zip"
-      ],
-      "tamanho": 4237213,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_sp_nukestripe_maroon",
-      "nome": "SG 553 | Fallout Warning",
-      "categoria": "armas",
-      "descricao": "SG 553 | Fallout Warning do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82gfa9oM-SBB3eV_uN3ou5mQRagkkhy4AKJk4jxNWWSZlAhA5QjFLJYukLpwdLjZe60sgzYjtpCxC2oi3tB6C5ot-pQWaJ35OSJ2GFfvLbQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_nukestripe_maroon.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_nukestripe_maroon.zip"
-      ],
-      "tamanho": 3221922,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_sp_sg533_aloha",
-      "nome": "SG 553 | Aloha",
-      "categoria": "armas",
-      "descricao": "SG 553 | Aloha do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_829b_E-c8-SAmiYwNF6ueZhW2fjxE5x5W_SnNz8eXmQaVN2WJUmF7RZuhS8wYbiZeO04VPa3YlCmHr7kGoXuWs6bs2V",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_sg533_aloha.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_sg533_aloha.zip"
-      ],
-      "tamanho": 3597726,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_sp_spray_waves_bravo",
-      "nome": "SG 553 | Wave Spray",
-      "categoria": "armas",
-      "descricao": "SG 553 | Wave Spray do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_829eLZsOc-ED3GV0tF0ouB_QBa_nBovp3PcwoqtdC3BOwQkCZB3QOIIsxm_kNyyZuzg7w3f2YNEnn6qjS0Y6Clq_a9cBmkkHSs4",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_spray_waves_bravo.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_spray_waves_bravo.zip"
-      ],
-      "tamanho": 3714771,
-      "arma": "SG 553"
-    },
-    {
-      "id": "arma_sg553_sp_tape_dots_waves",
-      "nome": "SG 553 | Waves Perforated",
-      "categoria": "armas",
-      "descricao": "SG 553 | Waves Perforated do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_826abRoH_ScGnSv1u9gtfJWQyC0nQlp4TyDnNr4c3yVPQcpX8FxQORZ5he5lYG1Mr-07wOMjt1Hyyv-3H5O5jErvbhvnntidg",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_tape_dots_waves.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_tape_dots_waves.zip"
-      ],
-      "tamanho": 3526903,
       "arma": "SG 553"
     },
     {
@@ -5966,6 +5524,448 @@
       ],
       "tamanho": 3928814,
       "arma": "SSG 08"
+    },
+    {
+      "id": "arma_sg553_army_shine",
+      "nome": "SG 553 | Army Sheen",
+      "categoria": "armas",
+      "descricao": "SG 553 | Army Sheen do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a4s2veql0H-ObB2mV_uJ_t-l9AS3qxBgh4jnTyNr4eHKRbwEoWZd0F-RZtkG-lN3gMeix41Tdi98RyXrgznQeaSRFZ6A",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_army_shine.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_army_shine.zip"
+      ],
+      "tamanho": 3281205,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_an_navy",
+      "nome": "SG 553 | Anodized Navy",
+      "categoria": "armas",
+      "descricao": "SG 553 | Anodized Navy do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a4c2gabJ0H_yaCW-Ej7ons-AwG37hzUQj5z_Tw9esIHnCZ1UiW5ojQuYJtBO6kNzgNrjitQXAy9USYrEgg8s",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_an_navy.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_an_navy.zip"
+      ],
+      "tamanho": 1854297,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_damascus",
+      "nome": "SG 553 | Damascus Steel",
+      "categoria": "armas",
+      "descricao": "SG 553 | Damascus Steel do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1a_s2qaalsM_OGHViDxrsj495lRi67gVMj4miGzteseXjBbAJxXsEjEOQK50axk9C1ZuPi4wbX39gRnC33iipJ8G81tD-xNff9",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_damascus.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_damascus.zip"
+      ],
+      "tamanho": 4006991,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_luggage",
+      "nome": "SG 553 | Traveler",
+      "categoria": "armas",
+      "descricao": "SG 553 | Traveler do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s2ifaNqIfeWMXSXlLslj-1gSCGn20905myGzIn6cyqePQUpA8FxRLVetRK_lYbkMrmx7wbWjIkXzi2t2HtXrnE8Nea-0H8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_luggage.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_luggage.zip"
+      ],
+      "tamanho": 3159736,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_aerial",
+      "nome": "SG 553 | Aerial",
+      "categoria": "armas",
+      "descricao": "SG 553 | Aerial do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-SC3WZwOJJvOhuRz39wkQj4TzXw9igJXrEbAJ1C5VyQeVZ5hHslIXjMOyz41begt9Myiiq3zQJsHi7xfgn5g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_aerial.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_aerial.zip"
+      ],
+      "tamanho": 3115560,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_atlas",
+      "nome": "SG 553 | Atlas",
+      "categoria": "armas",
+      "descricao": "SG 553 | Atlas do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-SGmuR0tF6ueZhW2fgkxt_tTndn46rJX6QOAEoC5QhEe5f5hHqltfgMeO0tQHY2IsTyyyokGoXuYh0VG-5",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_atlas.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_atlas.zip"
+      ],
+      "tamanho": 2287711,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_caution",
+      "nome": "SG 553 | Hazard Pay",
+      "categoria": "armas",
+      "descricao": "SG 553 | Hazard Pay do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QD3KEyOF4j-1gSCGn20Qj52vXw9z6c32RbAV2XpF1Q-UN4Ra7x4bkPuy0tFTciYpCxC37jC1XrnE8Zorh1bo",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_caution.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_caution.zip"
+      ],
+      "tamanho": 2926064,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_cyber_dragon",
+      "nome": "SG 553 | Dragon Tech",
+      "categoria": "armas",
+      "descricao": "SG 553 | Dragon Tech do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QF2WV09FyouBuQCeMmRQguynLw9ygIHnGbgYlDpciEeBYsEPux9ThMuOz4ACLjY1FmX-viitMvCZp5_FCD_QeAJd5TA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyber_dragon.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyber_dragon.zip"
+      ],
+      "tamanho": 3513757,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_cyberforce",
+      "nome": "SG 553 | Cyberforce",
+      "categoria": "armas",
+      "descricao": "SG 553 | Cyberforce do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QF2WV0-h5ouJscCW6khUz_Wjdntr6Iy6WbgEjA5MlRedctxG5kNKyNbi3sgTfi9oUnyj9234b5n51o7FVairOMAY",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyberforce.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyberforce.zip"
+      ],
+      "tamanho": 3636378,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_cyrex",
+      "nome": "SG 553 | Cyrex",
+      "categoria": "armas",
+      "descricao": "SG 553 | Cyrex do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-QF3WV2dF6ueZhW2frlhl14W7Xzt6geXqQP1N0CMRyQuFY5kHsx9HmZejq7wPei91AzCT_kGoXueC0Dzdv",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyrex.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_cyrex.zip"
+      ],
+      "tamanho": 3020761,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_darkwing",
+      "nome": "SG 553 | Darkwing",
+      "categoria": "armas",
+      "descricao": "SG 553 | Darkwing do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-XD3Wb1ud4t95lRi67gVN24D7WmN2sdSqSalAmDpR2F-IDtxTpkYKyZrmzsQffgtgXzSmqjSNA8G81tFvCRYkS",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_darkwing.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_darkwing.zip"
+      ],
+      "tamanho": 2783432,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_pulse",
+      "nome": "SG 553 | Pulse",
+      "categoria": "armas",
+      "descricao": "SG 553 | Pulse do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-DG2uDxNF6ueZhW2eykUh24jjczYqscH7GblIpCJBxF-AD4BHtxIKzM-nq5ACK3t1GyySskGoXuRyAaawM",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_pulse.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_pulse.zip"
+      ],
+      "tamanho": 2283572,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_rally",
+      "nome": "SG 553 | Integrale",
+      "categoria": "armas",
+      "descricao": "SG 553 | Integrale do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-BD2uc2NF6ueZhW2e2wkV14m2DzditcnmQOA4gWcYlQOcDs0a7moLvZLiw5geP3dgRnnj2kGoXuQPBQAH6",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_rally.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_rally.zip"
+      ],
+      "tamanho": 2377792,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_reactor",
+      "nome": "SG 553 | Colony IV",
+      "categoria": "armas",
+      "descricao": "SG 553 | Colony IV do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4c8-BC2aT1eFkj-1gSCGn20Qit2yAn9n8IHKealB2DZIjTO8JsBW7ktDlYu_m5ADWit4Rznn63XtXrnE82sW2soE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_reactor.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_reactor.zip"
+      ],
+      "tamanho": 3295015,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_triarch",
+      "nome": "SG 553 | Triarch",
+      "categoria": "armas",
+      "descricao": "SG 553 | Triarch do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1Y-s29b_E4ds-HHG6R0-1-j-1gSCGn20Qk6m3UmY77IHOeOlNxCJQmQbYMuhC6mtaxP-K0sQLYi94RzC_8iH5XrnE8WPSRipg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_triarch.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_triarch.zip"
+      ],
+      "tamanho": 3378880,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_happy_red",
+      "nome": "SG 553 | Berry Gel Coat",
+      "categoria": "armas",
+      "descricao": "SG 553 | Berry Gel Coat do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M2mabR9Oc-BC2Ov0ukj5bdWQyC0nQlp42vXn4mrIy2VagRzXJJxFOYJsxG4koLgP-zktVbf3oJMmSX43SIf6jErvbj113ptXQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_happy_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_happy_red.zip"
+      ],
+      "tamanho": 3500203,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_deathmetal",
+      "nome": "SG 553 | Heavy Metal",
+      "categoria": "armas",
+      "descricao": "SG 553 | Heavy Metal do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M29b_E4c8-XC2aEyeNzpOBlcCW6khUz_W6Gw9aqcH3EOAUlCcR5Qu4J50O5ltbhMrnltgbdg4tDmSus3ClOuCp1o7FV59kcj5o",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_deathmetal.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_deathmetal.zip"
+      ],
+      "tamanho": 3096166,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_over_heated",
+      "nome": "SG 553 | Danger Close",
+      "categoria": "armas",
+      "descricao": "SG 553 | Danger Close do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M29b_E4c8-cGGKC_uZzsfVsSxa_nBovp3PSn4z_eH7Fb1V2DpckQeUJsRe8wNflMui0tVTX34MUyH2sjX8b7Xxu_a9cBmrf7Gwc",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_over_heated.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_over_heated.zip"
+      ],
+      "tamanho": 3958910,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_phantom",
+      "nome": "SG 553 | Phantom",
+      "categoria": "armas",
+      "descricao": "SG 553 | Phantom do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M29b_E4c8-DBmae1eF7j-1gSCGn204k5WXSz4ysJSnDPQ5xDsZ0Ru4PtUKxw9XhMO-0tAON3YpMyS-v23lXrnE80YpLcJc",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_phantom.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_phantom.zip"
+      ],
+      "tamanho": 3347942,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_rusty",
+      "nome": "SG 553 | Ol' Rusty",
+      "categoria": "armas",
+      "descricao": "SG 553 | Ol' Rusty do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M29b_E4c8-BG3SE2NF6ueZhW2e3xxt35GzSw9_8J3yePFIpCMEiRrJZukO7x4exZLiw4AGLiNgRy32rkGoXuZqsEgp2",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_rusty.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_rusty.zip"
+      ],
+      "tamanho": 3602538,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_tiger_moth",
+      "nome": "SG 553 | Tiger Moth",
+      "categoria": "armas",
+      "descricao": "SG 553 | Tiger Moth do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1c_M29b_E4c8-HB2CV09F7v_VhcCW6khUz_TnWn9n7cyqRPQ52DpN3QLEPshjrw9zlY-jjs1bWioMQxSj8hyxJu3l1o7FVwqXqqnE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_tiger_moth.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_tiger_moth.zip"
+      ],
+      "tamanho": 3493624,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_ht_orange_basket",
+      "nome": "SG 553 | Basket Halftone",
+      "categoria": "armas",
+      "descricao": "SG 553 | Basket Halftone do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1T-82heqVjJ_WsDGaDyutij-1gSCGn2xxy6mndyNj6cnLCPAIlC5YkF-4Ku0W_ltDhPr6z5lfb2IJBniT7iy9XrnE8euhCJNg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_ht_orange_basket.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_ht_orange_basket.zip"
+      ],
+      "tamanho": 2614323,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_hye_animal_print_lc",
+      "nome": "SG 553 | Safari Print",
+      "categoria": "armas",
+      "descricao": "SG 553 | Safari Print do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1T9veRaapkLfGfMXeCyOBij-1qcCW6khUz_T_Rn9qoIn-Sb1MkX5B3RecL4EXsltXmP-u0tgbbj4tEyHn7334a6Ch1o7FVNpTVjWQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_hye_animal_print_lc.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_hye_animal_print_lc.zip"
+      ],
+      "tamanho": 3776260,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_so_purple",
+      "nome": "SG 553 | Ultraviolet",
+      "categoria": "armas",
+      "descricao": "SG 553 | Ultraviolet do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M2-fbZ9LPWsAm6Xyfo44bQ-Tn7gwRt-t2uAw96tIn7FOAF1CsckQLUJ4xXskdO2NLzrtAyIi5UFk3tU_MwgmA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_purple.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_purple.zip"
+      ],
+      "tamanho": 1854249,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_so_red",
+      "nome": "SG 553 | Candy Apple",
+      "categoria": "armas",
+      "descricao": "SG 553 | Candy Apple do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M28baBSM_fGWzSvzedxuPUnF3vgx0kmtznSyoyreSqea1UoD5Z0RrZetBm-lt3nPu_r5waP2d9FnDK-0H3tyRypkA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_red.zip"
+      ],
+      "tamanho": 1854281,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_so_tornado",
+      "nome": "SG 553 | Tornado",
+      "categoria": "armas",
+      "descricao": "SG 553 | Tornado do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M26Z7ZjIfScMWuZxuZi_uU7Syuxlx505muBzN2sI3uUOA51C5AhR7UIsEKww9W0MO634APd2NhbjXKp4EWrMzw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_tornado.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_tornado.zip"
+      ],
+      "tamanho": 1854225,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_so_yellow",
+      "nome": "SG 553 | Bulldozer",
+      "categoria": "armas",
+      "descricao": "SG 553 | Bulldozer do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I4M23bahhL-esAm6Xyfo44rZsF3jmwU53tmyDzYv6cHnCalQhXMckEe9Y5kXplIC0NrzrtAfcipUFk3th3T45rw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_yellow.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_so_yellow.zip"
+      ],
+      "tamanho": 1854268,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_sp_asgard_wall",
+      "nome": "SG 553 | Barricade",
+      "categoria": "armas",
+      "descricao": "SG 553 | Barricade do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82ve6NsMvSsGWaczdF6ueZhW2e1xxwlsTyHn9r_ICmQPAd2CJZyQ7IC5hiwltzuY-u34wyLjYtFni6vkGoXubfBxhfQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_asgard_wall.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_asgard_wall.zip"
+      ],
+      "tamanho": 3694279,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_sp_desert_skulls",
+      "nome": "SG 553 | Bleached",
+      "categoria": "armas",
+      "descricao": "SG 553 | Bleached do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82qbbdoMuSsHWyFzeJlj-1gSCGn20Uk5WTSytmqJH6XbwMoA8RyRuBY4Ea6kNC2Y-Oz7gbc3o9HxS2r2n5XrnE8gS50bog",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_desert_skulls.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_desert_skulls.zip"
+      ],
+      "tamanho": 4452190,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_sp_mesh_python",
+      "nome": "SG 553 | Gator Mesh",
+      "categoria": "armas",
+      "descricao": "SG 553 | Gator Mesh do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82jbbdlH-CKGm-fz9F6ueZhW2e2zER_5j-ByIz_d3nCOgMiC5Z0Ru8DsBSxkN3mYrzjtFHd2I9DxH77kGoXubNdaEwA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_mesh_python.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_mesh_python.zip"
+      ],
+      "tamanho": 4237215,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_sp_nukestripe_maroon",
+      "nome": "SG 553 | Fallout Warning",
+      "categoria": "armas",
+      "descricao": "SG 553 | Fallout Warning do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_82gfa9oM-SBB3eV_uN3ou5mQRagkkhy4AKJk4jxNWWSZlAhA5QjFLJYukLpwdLjZe60sgzYjtpCxC2oi3tB6C5ot-pQWaJ35OSJ2GFfvLbQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_nukestripe_maroon.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_nukestripe_maroon.zip"
+      ],
+      "tamanho": 3221918,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_sp_sg533_aloha",
+      "nome": "SG 553 | Aloha",
+      "categoria": "armas",
+      "descricao": "SG 553 | Aloha do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_829b_E-c8-SAmiYwNF6ueZhW2fjxE5x5W_SnNz8eXmQaVN2WJUmF7RZuhS8wYbiZeO04VPa3YlCmHr7kGoXuWs6bs2V",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_sg533_aloha.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_sg533_aloha.zip"
+      ],
+      "tamanho": 3597727,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_sp_spray_waves_bravo",
+      "nome": "SG 553 | Wave Spray",
+      "categoria": "armas",
+      "descricao": "SG 553 | Wave Spray do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_829eLZsOc-ED3GV0tF0ouB_QBa_nBovp3PcwoqtdC3BOwQkCZB3QOIIsxm_kNyyZuzg7w3f2YNEnn6qjS0Y6Clq_a9cBmkkHSs4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_spray_waves_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_spray_waves_bravo.zip"
+      ],
+      "tamanho": 3714777,
+      "arma": "SG 553"
+    },
+    {
+      "id": "arma_sg553_sp_tape_dots_waves",
+      "nome": "SG 553 | Waves Perforated",
+      "categoria": "armas",
+      "descricao": "SG 553 | Waves Perforated do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLimcO1qx1I_826abRoH_ScGnSv1u9gtfJWQyC0nQlp4TyDnNr4c3yVPQcpX8FxQORZ5he5lYG1Mr-07wOMjt1Hyyv-3H5O5jErvbhvnntidg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_tape_dots_waves.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_sg553_sp_tape_dots_waves.zip"
+      ],
+      "tamanho": 3526901,
+      "arma": "SG 553"
     }
   ],
   "links": {},
