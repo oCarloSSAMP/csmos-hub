@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 12,
-    "nome": "1.11",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.11.apk",
-    "notas": "Explorador de pastas com visual novo e aviso dos Ajustes mais curto.",
+    "versao": 13,
+    "nome": "1.12",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.12.apk",
+    "notas": "Ícone novo, lista de servidores completa, opção para jogo escuro em emulador e escolha da pasta para quem já tem o jogo.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
@@ -13322,5 +13322,8 @@
       "exclusiva": false,
       "pasta_solta": "particles"
     }
+  ],
+  "masters": [
+    "ms.workbench.network:27010"
   ]
 }
