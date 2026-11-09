@@ -521,45 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_scar20_an_emerald_bravo",
-      "nome": "SCAR-20 | Emerald",
-      "categoria": "armas",
-      "descricao": "SCAR-20 | Emerald do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7vyRbaloMvGfCliS0-9gv95lRi67gVMh5WuDyY2qeH7CbQ8jDMR0RuQDuhOwxtCzZL_ksVTe3otByyz3inkY8G81tKuEs31W",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_an_emerald_bravo.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_an_emerald_bravo.zip"
-      ],
-      "tamanho": 1345843,
-      "arma": "SCAR-20"
-    },
-    {
-      "id": "arma_scar20_so_pmc",
-      "nome": "SCAR-20 | Contractor",
-      "categoria": "armas",
-      "descricao": "SCAR-20 | Contractor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_P2ReKluH_yaCW-Ej7914-I_HHznx0lz4jmDwtaoJXOebgMlApt0EeJbt0W7xIG0Muzl5wTAy9USD_fgAo4",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_pmc.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_pmc.zip"
-      ],
-      "tamanho": 1345820,
-      "arma": "SCAR-20"
-    },
-    {
-      "id": "arma_scar20_so_stormfront",
-      "nome": "SCAR-20 | Storm",
-      "categoria": "armas",
-      "descricao": "SCAR-20 | Storm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_P2Re7BiMv2VHGie1dF6ueZhW2fjxBgl5jyAntytc3ifO1AjXpslRLFft0PtxoXkMuKwslaPg49MmHj6kGoXuUn7n6Ef",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_stormfront.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_stormfront.zip"
-      ],
-      "tamanho": 1345826,
-      "arma": "SCAR-20"
-    },
-    {
       "id": "arma_mp9_an_red",
       "nome": "MP9 | Hot Rod",
       "categoria": "armas",
@@ -6772,6 +6733,396 @@
       ],
       "tamanho": 4248210,
       "arma": "G3SG1"
+    },
+    {
+      "id": "arma_scar20_army_shine",
+      "nome": "SCAR-20 | Army Sheen",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Army Sheen do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7v-RabZgOc-ABm6exNF6ueZhW2fhzU9-sGrRn9j_d3_DPwVzWMAiQrUI4RGwltGxNOmwtA3Z3Y1Dyyn3kGoXuRBHX853",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_army_shine.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_army_shine.zip"
+      ],
+      "tamanho": 2831706,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_carbon_fiber",
+      "nome": "SCAR-20 | Carbon Fiber",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Carbon Fiber do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7v-Ra6V_Iv-dMWGZw-tkj-1gSCGn20xx4mXRyd79eHPBbgQiXJpyQrMLuhfqm4LkNu7htQWI2d9CzSX9jShXrnE8-xTDFeg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_carbon_fiber.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_carbon_fiber.zip"
+      ],
+      "tamanho": 3223650,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_an_emerald_bravo",
+      "nome": "SCAR-20 | Emerald",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Emerald do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7vyRbaloMvGfCliS0-9gv95lRi67gVMh5WuDyY2qeH7CbQ8jDMR0RuQDuhOwxtCzZL_ksVTe3otByyz3inkY8G81tKuEs31W",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_an_emerald_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_an_emerald_bravo.zip"
+      ],
+      "tamanho": 1345842,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_brass",
+      "nome": "SCAR-20 | Brass",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Brass do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7uORarZsM-OsAm6Xyfo457MwH3zlzEwh6mXWw9qpdniQO1MmCJZ5QeBe5xa5wdfvZO234lOI3pUFk3uBClMh1w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_brass.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_brass.zip"
+      ],
+      "tamanho": 3973920,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_leak",
+      "nome": "SCAR-20 | Grotto",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Grotto do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7uORe6dsMqLDMWuVwOVJvOhuRz39zRtx62uGm9z8JHnFaFR0AsAjRuQI40Sww9HvNunqtQTego5MmSX4izQJsHiOao_ijg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_leak.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_leak.zip"
+      ],
+      "tamanho": 3730536,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_blueprint_scar",
+      "nome": "SCAR-20 | Blueprint",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Blueprint do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7OeRaqh4JeCBB2mE_v11sfNWQyC0nQlp4jvQn92oJX-VaVIgW5QkQuYM5kLswNTnNL-w4QaK2YNFmXqqjSxJuzErvbi8Z0332w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_blueprint_scar.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_blueprint_scar.zip"
+      ],
+      "tamanho": 2625364,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_chevron",
+      "nome": "SCAR-20 | Wild Berry",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Wild Berry do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7OeRa6xoNuKcAFiDwu9k4rFWQyC0nQlpsmnTyNf8dy-fZlIoDZd1F7MI4xbuw4e0NLm0sgaP3tpNn37_h3gf6jErvbhxX_RFLw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_chevron.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_chevron.zip"
+      ],
+      "tamanho": 3289281,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_intervention",
+      "nome": "SCAR-20 | Cardiac",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Cardiac do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7OeRe6dsMqLDMW6e1etkpuRnWyC8myIrujqNjsH9cniTaFApD5R0F7EJsUG_k9bjM-3n4gLY3opBzCio3yxK5io55OdXT-N7rWZZlsYh",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_intervention.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_intervention.zip"
+      ],
+      "tamanho": 2602303,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_scar_assault",
+      "nome": "SCAR-20 | Assault",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Assault do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7OeRe6dsMs-SHXSR1OJij-1gSCGn2xxw5GzWnNutdnKXagRxCMZ5TbYKtBbrl9WxPu7g5A2Ljt1HmXj5iSNXrnE819YWtjs",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_scar_assault.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_scar_assault.zip"
+      ],
+      "tamanho": 2942345,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_scar_cyrex",
+      "nome": "SCAR-20 | Cyrex",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Cyrex do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk7OeRe6dsMs-QF3WV2dF6ueZhW2fgzUR_52nUzYugICnCPVImApYkRO8NtkLtw4a1Nbzn7lSN2oITnCr5kGoXuXXxbesR",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_scar_cyrex.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_scar_cyrex.zip"
+      ],
+      "tamanho": 2290998,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_bloodsport",
+      "nome": "SCAR-20 | Bloodsport",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Bloodsport do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk6OGRe6dsMqLDMWWczuFyo_FmXT2MmRQguynLnoqrcHPCaFdzDMF5F-8P4Bbum9fkYuvrsVffjI5AyS75inlL5ixjsvFCD_R20nqesQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_bloodsport.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_bloodsport.zip"
+      ],
+      "tamanho": 3197668,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_enforcer",
+      "nome": "SCAR-20 | Enforcer",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Enforcer do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk6OGRe6dsMqLDMWKex-Fks-R7cCW6khUz_TmEn4qudiqVPVB0X5t3QbEN4ELqxNHlY-O27gCLg9oXmyqsjCtN73x1o7FVEvhkFhM",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_enforcer.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_enforcer.zip"
+      ],
+      "tamanho": 2877879,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_peacemaker03",
+      "nome": "SCAR-20 | Green Marine",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Green Marine do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk6OGRe6dsMqLDMXeVwO1zveBiSjvjxiIrujqNjsH6IymVbQEmCZoiQ-MC5kbrwN3kPuy24lDa2YsQmy2t2iof7Hs56uxQT-N7rTkENKOY",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_peacemaker03.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_peacemaker03.zip"
+      ],
+      "tamanho": 2670897,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_powercore",
+      "nome": "SCAR-20 | Powercore",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Powercore do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk6OGRe6dsMqLDMXef1utks-57Sha_nBovp3OAzd2qIy_DPVMkXMEiE7UL5ES-l9yyP76wswWP3Y1Nyyn2i35L6S5s_a9cBj_cXeyl",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_powercore.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_powercore.zip"
+      ],
+      "tamanho": 2745530,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_scar_fragments_black",
+      "nome": "SCAR-20 | Fragments",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Fragments do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk6OGRe6dsMs-VHGaXzOt4pPJWTSWylhYYvzSCkpu3dnmXbAZyX5pzQLQO4Ri_lIbgMOzktg2P3t8Uni32iHwc7i856r1UAL1lpPP6-FL_6g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_scar_fragments_black.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_scar_fragments_black.zip"
+      ],
+      "tamanho": 2912667,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_hy_authority_purple",
+      "nome": "SCAR-20 | Magna Carta",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Magna Carta do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-uRabF5KP-BB3OJ_v5jovFlSha_nBovp3PVzdr8cHnBbAcnXsAmR-UOsRHsktTmYb_ns1CNg4JCzSX_iiNKvS0__a9cBnHoQ9ul",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_authority_purple.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_authority_purple.zip"
+      ],
+      "tamanho": 3719860,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_hy_canals_tile",
+      "nome": "SCAR-20 | Stone Mosaico",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Stone Mosaico do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-uRa6VjIfyAMXOZzetJvOhuRz39wk4m5TvWn474dyqWagcjCpZ2TeAPtxO8kYLnZezg5QbaitpGyyWrjTQJsHihs7k2tg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_canals_tile.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_canals_tile.zip"
+      ],
+      "tamanho": 2726606,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_hy_hunter_blaze_pink",
+      "nome": "SCAR-20 | Splash Jam",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Splash Jam do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-uRYLFjNPWBMWWcwPRzj_FgQSKMmRQguynLmYn6J3rCPVQiCMZ1EbQIsRHql4a2Y7iw4QbZg48QxXj-hixB7ntvt_FCD_SAL_dw1Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_hunter_blaze_pink.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_hunter_blaze_pink.zip"
+      ],
+      "tamanho": 2905679,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_hy_scar20_jungle_slipstream",
+      "nome": "SCAR-20 | Jungle Slipstream",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Jungle Slipstream do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-uRe6dsMqLDMW2Fz-l6td56QyCjhgk1tjyIpYPwJiPTcFIgX5tyFOEJtxm_wdDkZOrq5gHcjIIRzyX_hiJP7io55O9WUKUgr_fJz1aWgsoiFrs",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_scar20_jungle_slipstream.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_scar20_jungle_slipstream.zip"
+      ],
+      "tamanho": 2795847,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_hy_scar20_jungler",
+      "nome": "SCAR-20 | Outbreak",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Outbreak do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-uRe6dsMqLDMW2Fz-l6tfNWQyC0nQlp5znXy9-vcXiWaA5yCMZ0ROUL5hXuwNfmY-_lsgSP2d0UzH-v3CtB7jErvbiWj5__Rg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_scar20_jungler.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_scar20_jungler.zip"
+      ],
+      "tamanho": 3978707,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_hy_webs_darker",
+      "nome": "SCAR-20 | Crimson Web",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Crimson Web do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-uRf6FvM8-XD3WbxPxJvOhuRz39lEwhsGqBz9moJHmXawQhDsQhEOUNsBSwkdXiM-3k5AbZjo1MmSiojDQJsHiHhrZ4wA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_webs_darker.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hy_webs_darker.zip"
+      ],
+      "tamanho": 2247084,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_hye_chrome_ripple",
+      "nome": "SCAR-20 | Zinc",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Zinc do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-urV6dlMv-eC1iCyP5mvORWQyC0nQlpsD7Qydr6dSjEO1MnD5RzRuUIskPpl9zmN-7i5FbYj49NmXj4jXhP6TErvbhHIJnnmg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hye_chrome_ripple.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_hye_chrome_ripple.zip"
+      ],
+      "tamanho": 3754174,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_scar_arctic_camo_panels",
+      "nome": "SCAR-20 | Arctic Camo Panels",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Arctic Camo Panels do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGveptsMvOHB2Svwu97v955Tie2mQ4YvzSCkpu3IHOfawciX5R3TeNbtxe8loe1Yb_i5gHWgtlDyXiq23hK7Xxu474GWL1lpPPmdgoMFA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_scar_arctic_camo_panels.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_scar_arctic_camo_panels.zip"
+      ],
+      "tamanho": 2782140,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_scar_sirocco",
+      "nome": "SCAR-20 | Sirocco Script",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Sirocco Script do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_PGvept-KeKcDWSf_uJ_t-l9ASjizBsh4WnQnI37dy_DZwV0DJAlQu8CuhK8xoDgNOvgtFGMiI5AyyTgznQekxu_loc",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_scar_sirocco.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_scar_sirocco.zip"
+      ],
+      "tamanho": 3228907,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_so_pmc",
+      "nome": "SCAR-20 | Contractor",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Contractor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_P2ReKluH_yaCW-Ej7914-I_HHznx0lz4jmDwtaoJXOebgMlApt0EeJbt0W7xIG0Muzl5wTAy9USD_fgAo4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_pmc.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_pmc.zip"
+      ],
+      "tamanho": 1345822,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_so_stormfront",
+      "nome": "SCAR-20 | Storm",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Storm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_P2Re7BiMv2VHGie1dF6ueZhW2fjxBgl5jyAntytc3ifO1AjXpslRLFft0PtxoXkMuKwslaPg49MmHj6kGoXuUn7n6Ef",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_stormfront.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_so_stormfront.zip"
+      ],
+      "tamanho": 1345827,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_sp_mesh_sand",
+      "nome": "SCAR-20 | Sand Mesh",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Sand Mesh do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_OKRZaF-KM-AD2mU_uJ_t-l9AXHhwxwi5zyDmIqoeCmWaAUhXpUiRrFZsBHsxNXvM-jl5lTdgotDySzgznQefYC7ilk",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_sp_mesh_sand.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_sp_mesh_sand.zip"
+      ],
+      "tamanho": 2747607,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_sp_palm",
+      "nome": "SCAR-20 | Palm",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Palm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_OKReKVhLc-fB2CY1aAl6eM_GyuxlEh0tm6Eztj4dCiWbw92DppyTeYP4xDrkt3gZejn4ATZlcsbmiqh02Pr",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_sp_palm.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_sp_palm.zip"
+      ],
+      "tamanho": 3426514,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_sp_scar20_striker_dust",
+      "nome": "SCAR-20 | Torn",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Torn do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_OKRe6dsMqLDMXSE0-d9tfNWSzyggSIrujqNjsH6eHiSOwZ0XsdxFrEIthfpx9W0Yuux4QDe34pFni-s3SpK7Hs6570KT-N7re2tWema",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_sp_scar20_striker_dust.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_sp_scar20_striker_dust.zip"
+      ],
+      "tamanho": 3821944,
+      "arma": "SCAR-20"
+    },
+    {
+      "id": "arma_scar20_sp_scar_chickenfight",
+      "nome": "SCAR-20 | Poultrygeist",
+      "categoria": "armas",
+      "descricao": "SCAR-20 | Poultrygeist do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk_OKRe6dsMs-QBm6Tyut4tuhuRz2MmRQguynLno2pdnnGOw9xWcFwEbMCtkHsmoXuNe23tVGNiINCyyv6iylJuyZi5_FCD_Tlwp1EIg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_sp_scar_chickenfight.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_scar20_sp_scar_chickenfight.zip"
+      ],
+      "tamanho": 3273662,
+      "arma": "SCAR-20"
     }
   ],
   "links": {},
