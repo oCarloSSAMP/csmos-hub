@@ -521,32 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_p250_so_sand",
-      "nome": "P250 | Sand Dune",
-      "categoria": "armas",
-      "descricao": "P250 | Sand Dune do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFU0OGvZqBSLPmUBnPelesn5-RrSXDlwRhx5TjSwtmocCifPwQpDpshReBfsxPrk4DhNu3jshue1dy8VcXxuA",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_sand.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_sand.zip"
-      ],
-      "tamanho": 1106260,
-      "arma": "P250"
-    },
-    {
-      "id": "arma_p250_so_whiteout",
-      "nome": "P250 | Whiteout",
-      "categoria": "armas",
-      "descricao": "P250 | Whiteout do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFU0OWmYbBoL-WHMWuZxuZi_rJqTCq1wUUh6mSBntaqdHyTPFdzXJQjTeMLskTrk9zlN-7lsgyM34lbjXKp2HY6z6k",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_whiteout.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_whiteout.zip"
-      ],
-      "tamanho": 1106288,
-      "arma": "P250"
-    },
-    {
       "id": "arma_fiveseven_an_gunmetal_bravo",
       "nome": "Five-SeveN | Anodized Gunmetal",
       "categoria": "armas",
@@ -14078,6 +14052,656 @@
       ],
       "tamanho": 1857076,
       "arma": "P2000"
+    },
+    {
+      "id": "arma_p250_ddpatdense_silver",
+      "nome": "P250 | Steel Disruption",
+      "categoria": "armas",
+      "descricao": "P250 | Steel Disruption do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNW0PaqeKV5JPWdHWKv0ud6puR7cCW6khUz_WmGzIqrc3mVOlN2CJF5Re4CskWwxoW0PuKzsVaL3o9Mn3762H5I53l1o7FVezFvgCM",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_ddpatdense_silver.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_ddpatdense_silver.zip"
+      ],
+      "tamanho": 2192053,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_beaded_paint",
+      "nome": "P250 | Undertow",
+      "categoria": "armas",
+      "descricao": "P250 | Undertow do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNW0OL8PfRSIvWSCmKU_v53ue99cCW6khUz_W3dzIuueSqWblJ0WMNwFuYK4xawk9S0Y-7n4Afag4JDzSz73XtK5nt1o7FVPKoITvg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_beaded_paint.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_beaded_paint.zip"
+      ],
+      "tamanho": 2023638,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_sputnik",
+      "nome": "P250 | Ripple",
+      "categoria": "armas",
+      "descricao": "P250 | Ripple do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNW0OL8PfRSM-CGGmmZytF6ueZhW2fnlht-5juGyY2vIC2SalQjX8Z1RbVesUG4m9XlN-_ntQPa3YNBn332kGoXubXJFvZo",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sputnik.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sputnik.zip"
+      ],
+      "tamanho": 1551588,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_ren_dark",
+      "nome": "P250 | Dark Filigree",
+      "categoria": "armas",
+      "descricao": "P250 | Dark Filigree do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNW0OCrZptpIeKYMWuZxuZi_uBrSS3iwBty4zvSntv7Jy_DZg90Xsd2Qudb5xG_kIfuZurm7wHbjtlbjXKpFkxeYNg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_ren_dark.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_ren_dark.zip"
+      ],
+      "tamanho": 2161746,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_urban",
+      "nome": "P250 | Metallic DDPAT",
+      "categoria": "armas",
+      "descricao": "P250 | Metallic DDPAT do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNW0Oe8aqVjH_yaCW-Ej-9ys7UxSiqyzB4jsGnQn9f6cX6UbQ4mDZRyE-AKsxHpmtPiZe7q5wPAy9USTykR2DM",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_urban.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_urban.zip"
+      ],
+      "tamanho": 1634911,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_cartel",
+      "nome": "P250 | Cartel",
+      "categoria": "armas",
+      "descricao": "P250 | Cartel do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNK0OL8PfRSI_GBGmKc_uJ_t-l9AX2wlh906m7Uy4v_cXqWaA4gCpUmQLMNsBO_ltfiYuPltAHbgthGmyzgznQeqxXZ9kg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_cartel.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_cartel.zip"
+      ],
+      "tamanho": 2811376,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_contour",
+      "nome": "P250 | Valence",
+      "categoria": "armas",
+      "descricao": "P250 | Valence do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNK0OL8PfRSI_-dGmiF09F6ueZhW2fiwUx14zmDnNagcC-WagUkApslQuBYsUW_ktexPry3swPfiogTyyiqkGoXuQius2mt",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_contour.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_contour.zip"
+      ],
+      "tamanho": 2066589,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_verdigris",
+      "nome": "P250 | Verdigris",
+      "categoria": "armas",
+      "descricao": "P250 | Verdigris do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiNK0OL8PfRSNvWBCm6X0-dlj-1gSCGn20R35DnRn42udXiVOg91CpZ4ReACthC4wYexZuuw5VeIjdkUzyqq3CNXrnE8Cr6wnKw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_verdigris.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_verdigris.zip"
+      ],
+      "tamanho": 2673483,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_brutalist_architecture",
+      "nome": "P250 | Constructivist",
+      "categoria": "armas",
+      "descricao": "P250 | Constructivist do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiBJ-uavZK1-NM-SHGSYyPpzs_V8XSyMmRQguynLn974cXzGPAYgXpV4F-4NtRK6l4LkP7i35lSIgt1Nny6thnhA7SdtsPFCD_QCdWsc4g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_brutalist_architecture.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_brutalist_architecture.zip"
+      ],
+      "tamanho": 1928961,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_bittersweet",
+      "nome": "P250 | Supernova",
+      "categoria": "armas",
+      "descricao": "P250 | Supernova do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0PCnfLBoMuOEC2KE_uJ_t-l9AXzlwk5zsGnWz46uICjCPAZ2CZF0QO8LtBjtkNaxZrji7wbY2tkUySXgznQe4Iqu8Lg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_bittersweet.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_bittersweet.zip"
+      ],
+      "tamanho": 3602970,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_money",
+      "nome": "P250 | Franklin",
+      "categoria": "armas",
+      "descricao": "P250 | Franklin do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0P-hZqF0H_yaCW-Ej70htLhtF3Dgx0Vz5WrWwtf4JCjEPA8oDZF4FrRZ5xnulNy1Zrvn5wHAy9USTWvgE_Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_money.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_money.zip"
+      ],
+      "tamanho": 3511361,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_asiimov",
+      "nome": "P250 | Asiimov",
+      "categoria": "armas",
+      "descricao": "P250 | Asiimov do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSIeOaB2qf19F6ueZhW2fixx53tWqEm4ugeXuebQN0CZJyRrMJuxm4loCyPr_i51TfjtgXzi79kGoXuUXmUJzm",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_asiimov.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_asiimov.zip"
+      ],
+      "tamanho": 2537765,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_axiom",
+      "nome": "P250 | Red Rock",
+      "categoria": "armas",
+      "descricao": "P250 | Red Rock do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSIeiaAWqvzedxuPUnSizhkEh05zzQmIr8JX6UbAZ2DsMhTOEOthexl9e2NuLktAzaiIpGnjK-0H2BmRk7ww",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_axiom.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_axiom.zip"
+      ],
+      "tamanho": 2806835,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_cassette",
+      "nome": "P250 | Cassette",
+      "categoria": "armas",
+      "descricao": "P250 | Cassette do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSI_GAHWKE1etJvOhuRz39lkwltT7Ww4ugc3PGOwd0DpQkQbUPshbpm93lMuy25QGIjIwUn3_72DQJsHjyHnRH0Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_cassette.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_cassette.zip"
+      ],
+      "tamanho": 2062836,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_cybercroc",
+      "nome": "P250 | See Ya Later",
+      "categoria": "armas",
+      "descricao": "P250 | See Ya Later do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSI-mRC3WT0-F1j-1gSCGn2x9ytmzWnN6pInjGOwMlDZp0EORe5BHsx93lP7zr5wzbiI5AyXr_jS9XrnE8gQrIgng",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_cybercroc.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_cybercroc.zip"
+      ],
+      "tamanho": 2610055,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_infect",
+      "nome": "P250 | Contaminant",
+      "categoria": "armas",
+      "descricao": "P250 | Contaminant do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSKf6VC2SE_uJ_t-l9AXG3xUt-4jjcn4yqIHLGO1QkDsZ4TeNetUK4m9eyP-6xtVHcjd5DzSrgznQee4rYsVM",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_infect.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_infect.zip"
+      ],
+      "tamanho": 2217747,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_mandala",
+      "nome": "P250 | Muertos",
+      "categoria": "armas",
+      "descricao": "P250 | Muertos do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSLfGdCmacwNF6ueZhW2e1lh51sm3UmN37cHuUbQQhXJtwQO4C4BXsxtHjM-624A3a2IoWySiskGoXuSIJMqiP",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_mandala.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_mandala.zip"
+      ],
+      "tamanho": 2219930,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_rebuilt",
+      "nome": "P250 | Re.built",
+      "categoria": "armas",
+      "descricao": "P250 | Re.built do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSMvWRG26c1dF6ueZhW2flkRh_sjjXmNb8cCnDPVUnW5ByQ-JZ5hG_xN3gZuPltAHegogWzH7-kGoXuSIylluX",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_rebuilt.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_rebuilt.zip"
+      ],
+      "tamanho": 2974845,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_refined",
+      "nome": "P250 | Mehndi",
+      "categoria": "armas",
+      "descricao": "P250 | Mehndi do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0OL8PfRSMvWVB2mVxdF6ueZhW2eykERysj-GnNv7eHuTbAYjCpN4Q-ILsxGxw4DjM-rn5QTciIIRn36rkGoXuU7_dDjp",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_refined.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_refined.zip"
+      ],
+      "tamanho": 2388647,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_xray",
+      "nome": "P250 | X-Ray",
+      "categoria": "armas",
+      "descricao": "P250 | X-Ray do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiFO0Oq8ab1SMKLGXlicyOl-pK8_HSjjxx9wsmXQnIv6cH2TaAQoWZd4RuAKshe7wdS1NOvi5VCIi48Q02yg2fSIc8-4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_xray.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_xray.zip"
+      ],
+      "tamanho": 2817522,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_apep",
+      "nome": "P250 | Apep's Curse",
+      "categoria": "armas",
+      "descricao": "P250 | Apep's Curse do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiVI0OL8PfRSIeCWHlicyOl-pK87HCjkxR9ztj-Dzdv8di2TPFchDptyTbEIthTsl9znY77r5Qzc2YwR02yg2XoGglyv",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_apep.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_apep.zip"
+      ],
+      "tamanho": 3313013,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_checker",
+      "nome": "P250 | Vino Primo",
+      "categoria": "armas",
+      "descricao": "P250 | Vino Primo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiVI0OL8PfRSI_iWDWyV09F6ueZhW2eyxR9x6m3SydqqcinFPQN2CcF4F-5buhi9w9PgYem25AKNj40Wzy2rkGoXuZ9g813e",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_checker.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_checker.zip"
+      ],
+      "tamanho": 2206230,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_cybershell",
+      "nome": "P250 | Cyber Shell",
+      "categoria": "armas",
+      "descricao": "P250 | Cyber Shell do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiVI0OL8PfRSI-mRC3WDyet6vN5lRi67gVMl6mzUm9n8IHzCaQUmA5Z3RLJb4xC9m4bhMbzn7lOL2Y5Am3j73HxI8G81tOdaiAQT",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_cybershell.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_cybershell.zip"
+      ],
+      "tamanho": 2636180,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_inferno",
+      "nome": "P250 | Inferno",
+      "categoria": "armas",
+      "descricao": "P250 | Inferno do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiVI0OL8PfRSKf6VC3WeztF6ueZhW2e3wUgi6z7WmI6gc3LDPQAgXsB2E7Veshbpl4DiNL_htQDZ2NlHy3qvkGoXuXYeEedL",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_inferno.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_inferno.zip"
+      ],
+      "tamanho": 3183323,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_metal_panels",
+      "nome": "P250 | Iron Clad",
+      "categoria": "armas",
+      "descricao": "P250 | Iron Clad do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiVI0OL8PfRSLfWHD2uv0e94te16cCW6khUz_W2Hzd6heSjBbFd1CsFxF-8DsULulNLjZu6xtQDfitlCyiWt3HtNu3p1o7FVE3GEpAE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_metal_panels.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_metal_panels.zip"
+      ],
+      "tamanho": 2892687,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_visions",
+      "nome": "P250 | Visions",
+      "categoria": "armas",
+      "descricao": "P250 | Visions do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwiVI0OL8PfRSNvmAB2ie0tF6ueZhW2fmzERx5jyHm4v_dXvGaQR2WJF2QrIMsxW_w9PvN-zhtgXXiokWn3_6kGoXuc_iGAKZ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_visions.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_visions.zip"
+      ],
+      "tamanho": 3277887,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_blueprint_red",
+      "nome": "P250 | Facility Draft",
+      "categoria": "armas",
+      "descricao": "P250 | Facility Draft do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0PCifaF9MvmdGliCxOpJvOhuRz39l05wt2XRzNr7dHjCalBxXschRucD4xnpwIfhN7ngtVTe2tlCyi_5hzQJsHgA1f7ZYg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_blueprint_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_blueprint_red.zip"
+      ],
+      "tamanho": 3149013,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_crumple_dark_bravo",
+      "nome": "P250 | Facets",
+      "categoria": "armas",
+      "descricao": "P250 | Facets do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0PG8fal9LPWsCmaCytF0ouB_QBa_nBovp3ODy9z8c3KQOg5zDJR3Te5e4RXpxoLuMbjl7wDdioJAzn_2jShJ6y9i_a9cBseVOER4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_crumple_dark_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_crumple_dark_bravo.zip"
+      ],
+      "tamanho": 2097561,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_desert_multicam",
+      "nome": "P250 | Black & Tan",
+      "categoria": "armas",
+      "descricao": "P250 | Black & Tan do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0Pare6F_NM-eG2uEyO13vd5lRi67gVMm5GrTyN-ueH6fO1MlDMd2RLQC50Trw4fvMuPns1eLj9hHzCn4j3lK8G81tJittFNq",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_desert_multicam.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_desert_multicam.zip"
+      ],
+      "tamanho": 1799163,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_ducts_blue",
+      "nome": "P250 | Exchanger",
+      "categoria": "armas",
+      "descricao": "P250 | Exchanger do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0Pa7a7B-H_KfG2KvzedxuPUnHnDkzRhz42rUnoqvcXyfPA4lDZVxEbReskS7lteyZLvq4FCKgo1DxTK-0H1XkoQg2Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_ducts_blue.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_ducts_blue.zip"
+      ],
+      "tamanho": 2480871,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_forest_boreal",
+      "nome": "P250 | Boreal Forest",
+      "categoria": "armas",
+      "descricao": "P250 | Boreal Forest do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0PSheqF-NM-RAXWVwOJJvOhuRz39wEsm4WXRz4urcXvEZw8pXJp1RrEIuhC_lNfiYeLj51TXg4JAyyT_jTQJsHgo2RMlUQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_forest_boreal.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_forest_boreal.zip"
+      ],
+      "tamanho": 1809070,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_forest_night",
+      "nome": "P250 | Forest Night",
+      "categoria": "armas",
+      "descricao": "P250 | Forest Night do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0PSheqF-NM-dB2CY1dF6ueZhW2fqkUpy5zzVyo76eC7DO1AnXJtzQuQMtkG_mtS1Y7zl41ffg91HyHmtkGoXueNjwZxk",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_forest_night.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_forest_night.zip"
+      ],
+      "tamanho": 1809070,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_gelpen",
+      "nome": "P250 | Gunsmoke",
+      "categoria": "armas",
+      "descricao": "P250 | Gunsmoke do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0PWrZLRoLs-fB2CY1aB04LJsSy_rkUhy52qAyteoJS2XbVV2DJElR-cPtxjplNy0M7jg4weNlcsbmpJkoaMM",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_gelpen.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_gelpen.zip"
+      ],
+      "tamanho": 2723017,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_hunter_modern",
+      "nome": "P250 | Modern Hunter",
+      "categoria": "armas",
+      "descricao": "P250 | Modern Hunter do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0Pq7ZrBoMs-eAWOV0-BJvOhuRz39lkV-5zuEmN6seX-QbgYpA8B0QLZbtRXpmofgM-Pj4FSI3tkXxCj8hzQJsHhBKeBm5Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_hunter_modern.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_hunter_modern.zip"
+      ],
+      "tamanho": 2904194,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_kimono_diamonds_red",
+      "nome": "P250 | Crimson Kimono",
+      "categoria": "armas",
+      "descricao": "P250 | Crimson Kimono do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0PmnZatjL8-XB2adzuByo957Si2MmRQguynLw9uvI3qVbld2XJF3ROMKtBTqxNO0P-Pj4lbXjt9HySv5hikf6y9s4PFCD_Tv7NBHeA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_kimono_diamonds_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_kimono_diamonds_red.zip"
+      ],
+      "tamanho": 1931249,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_nuclear_skulls4",
+      "nome": "P250 | Contamination",
+      "categoria": "armas",
+      "descricao": "P250 | Contamination do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0Py7a6hoIeKsHWyFzeJl5N55HXzjqhEutDWR1NahIH6SaVUnDsB2Q-MIthHrxtTjMuLk7gXc2YlHyir93CtMuCdt4e8cEf1ykWaXO4g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_nuclear_skulls4.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_nuclear_skulls4.zip"
+      ],
+      "tamanho": 3634139,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_p250_crackshot",
+      "nome": "P250 | Wingshot",
+      "categoria": "armas",
+      "descricao": "P250 | Wingshot do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0OL8PfRSI-KSDWyDyeFij-1gSCGn205wtT7Xn4yuc3qQbQUkXJQmEeQCtkK7wdDgZO7n71Df2IkQxH7-hyhXrnE8AH9Qqg8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_p250_crackshot.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_p250_crackshot.zip"
+      ],
+      "tamanho": 1920577,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_p250_tiger",
+      "nome": "P250 | Bengal Tiger",
+      "categoria": "armas",
+      "descricao": "P250 | Bengal Tiger do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0OL8PfRSNPmUC3WvzedxuPUnSX7llhghsGjQnNv7I36SZlAjDZMmE-VYskS_kYfkNO2w4QffiItNyjK-0H3QIgynUA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_p250_tiger.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_p250_tiger.zip"
+      ],
+      "tamanho": 1687371,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hy_redhex",
+      "nome": "P250 | Hive",
+      "categoria": "armas",
+      "descricao": "P250 | Hive do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC0OCrbKxoOM-fB2CY1aAu6LltFny1xRt2tjuAzoyoI33BOgQpX5ByTOVY5xXql4HvNbviswbelcsbmoYK4S35",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_redhex.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hy_redhex.zip"
+      ],
+      "tamanho": 2891084,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hye_car_wrap_3",
+      "nome": "P250 | Sleet",
+      "categoria": "armas",
+      "descricao": "P250 | Sleet do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC6s2tabZSN-KSHljD_uJ_t-l9AXCwxhwi6j_Syoysc36TbAAhXpYiRuIPshLsk4bnYemw7wCKiNoUyC7gznQekhpLnpY",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hye_car_wrap_3.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hye_car_wrap_3.zip"
+      ],
+      "tamanho": 2764763,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_hye_pink_coral",
+      "nome": "P250 | Red Tide",
+      "categoria": "armas",
+      "descricao": "P250 | Red Tide do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwipC6s2-YapmH_OcHGac_uJ_t-l9AXznkUV35WiGy4yhcX6ROgYnCcd3F-AJ4RG_wNXvZOjm7wXWj9lFnCrgznQexaJMRP4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hye_pink_coral.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_hye_pink_coral.zip"
+      ],
+      "tamanho": 3654247,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_lotus_imprint_glitter_purple",
+      "nome": "P250 | Lotus Imprint",
+      "categoria": "armas",
+      "descricao": "P250 | Lotus Imprint do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRZKt5NeOsB2qA0-d4pN5uQyCngRg1jC2QiJ_1JBTLN1F4ToxzF7ZeukbulYDhZu3h7gCPi4hCnHir2CJPvyds4rsDUvF0_KeBjwnJL_RjtsYiHzcf",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_lotus_imprint_glitter_purple.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_lotus_imprint_glitter_purple.zip"
+      ],
+      "tamanho": 2737842,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_so_sand",
+      "nome": "P250 | Sand Dune",
+      "categoria": "armas",
+      "descricao": "P250 | Sand Dune do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFU0OGvZqBSLPmUBnPelesn5-RrSXDlwRhx5TjSwtmocCifPwQpDpshReBfsxPrk4DhNu3jshue1dy8VcXxuA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_sand.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_sand.zip"
+      ],
+      "tamanho": 1106260,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_so_whiteout",
+      "nome": "P250 | Whiteout",
+      "categoria": "armas",
+      "descricao": "P250 | Whiteout do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFU0OWmYbBoL-WHMWuZxuZi_rJqTCq1wUUh6mSBntaqdHyTPFdzXJQjTeMLskTrk9zlN-7lsgyM34lbjXKp2HY6z6k",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_whiteout.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_so_whiteout.zip"
+      ],
+      "tamanho": 1106287,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_sp_desert_skulls_dawn",
+      "nome": "P250 | Drought",
+      "categoria": "armas",
+      "descricao": "P250 | Drought do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFL0Pare6F_NM-ABXKczf1JtOB-QRa_nBovp3PVyd6tIijBOAQhXsAlE-ECsxC9x9flMuPn5wfZ2YNNnn32iy4d53pi_a9cBo6jFyfx",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_desert_skulls_dawn.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_desert_skulls_dawn.zip"
+      ],
+      "tamanho": 3860400,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_sp_kimono_diamonds",
+      "nome": "P250 | Mint Kimono",
+      "categoria": "armas",
+      "descricao": "P250 | Mint Kimono do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFL0PmnZatjL8-XB2adzuByo95lRi67gVNx4z_cn934JHvDOAEnCcZxTeZbsUTrxoGyMrzi4FHZiI0Uzyn-3HtM8G81tISNzIT_",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_kimono_diamonds.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_kimono_diamonds.zip"
+      ],
+      "tamanho": 1931249,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_sp_lace",
+      "nome": "P250 | Plum Netting",
+      "categoria": "armas",
+      "descricao": "P250 | Plum Netting do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFL0P6va6FSLPmUBnPembh05eA4H36ykBh3sGnRmN-hJyiQag4nDZB4RuQDtxLuw4fkYuK27xue1dzA89j_Xg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_lace.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_lace.zip"
+      ],
+      "tamanho": 2671291,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_sp_nukestripe_green",
+      "nome": "P250 | Nuclear Threat",
+      "categoria": "armas",
+      "descricao": "P250 | Nuclear Threat do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFL0Py7Y6F-NOKaHmKvxvxzte9WQyC0nQlp5mrRztyuIy3GbQF1WMN2QbFetBfulNbnPruz7lGKit4UyS6vjn9K5jErvbiRPSOzZg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_nukestripe_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_nukestripe_green.zip"
+      ],
+      "tamanho": 2543631,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_sp_splash",
+      "nome": "P250 | Splash",
+      "categoria": "armas",
+      "descricao": "P250 | Splash do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFL0OG-ZKV-KM-DXDLA_uJ_t-l9AXDrxh4i62vTzNyrc3zEP1MpWJN2EOMN5kTpl9K2Zb62slTdi4NMzC7gznQe9E-5MVM",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_splash.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_splash.zip"
+      ],
+      "tamanho": 1211732,
+      "arma": "P250"
+    },
+    {
+      "id": "arma_p250_sp_tape",
+      "nome": "P250 | Bone Mask",
+      "categoria": "armas",
+      "descricao": "P250 | Bone Mask do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjFL0OaveKFSLPmUBnPekL0l47g9TXuylE916mrRy9-vdS6VZgQpWJJ5F-8OsRawl4DhNbix4Rue1dyhzdnPWw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_tape.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_p250_sp_tape.zip"
+      ],
+      "tamanho": 3637861,
+      "arma": "P250"
     }
   ],
   "links": {},
