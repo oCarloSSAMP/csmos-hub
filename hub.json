@@ -521,32 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_revolver_so_night",
-      "nome": "R8 Revolver | Night",
-      "categoria": "armas",
-      "descricao": "R8 Revolver | Night do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z5tjKfebGlicyOl-pK9oGCjkk0sktWyAntv6cSrDaAdzAsFxQuFZtRnqwNPlP7jg5QHd39oU02yg2UcfjkJE",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_so_night.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_so_night.zip"
-      ],
-      "tamanho": 2342602,
-      "arma": "R8 Revolver"
-    },
-    {
-      "id": "arma_revolver_so_orange_accents3",
-      "nome": "R8 Revolver | Nitro",
-      "categoria": "armas",
-      "descricao": "R8 Revolver | Nitro do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z5tiMvGdCWKvwO11te99XHqMmRQguynLzo34IiiTagQoWZUlFOYOsha6ltLlPuPlsweMj4tDnyT6jy5MuytosvFCD_SeBWArcQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_so_orange_accents3.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_so_orange_accents3.zip"
-      ],
-      "tamanho": 2342606,
-      "arma": "R8 Revolver"
-    },
-    {
       "id": "arma_deagle_so_night",
       "nome": "Desert Eagle | Night",
       "categoria": "armas",
@@ -15950,6 +15924,305 @@
       ],
       "tamanho": 3889238,
       "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_revolver_phoenix_tags_blue",
+      "nome": "R8 Revolver | Phoenix Marker",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Phoenix Marker do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2vZZt9KP-WAG6I_vp3t_JWTSWmkCIrujqNjsH9dSnGZgQiC5Z5EOQP5ETsmtLjNuzi5lPe3tpEmyj9ji0a6Cxp4blRT-N7rZuorHqs",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_phoenix_tags_blue.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_phoenix_tags_blue.zip"
+      ],
+      "tamanho": 4408670,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_titanium_acid",
+      "nome": "R8 Revolver | Leafhopper",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Leafhopper do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2veZt5KeSSAG6FzNF3s-htcCW6khUz_W-Gy96pJXmWOwJyX8QlF7Zeshm5wYbiMOvm5laLjohNxCis3S8a5311o7FVOU-zWog",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_titanium_acid.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_titanium_acid.zip"
+      ],
+      "tamanho": 3606547,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_r8_cybersport",
+      "nome": "R8 Revolver | Reboot",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Reboot do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2tfZt_eM-QF2WV0_1mv_N9cCW6khUz_WjRyouseHqUPwQoXMNyQbMM4ETulNSxNuq3s1DZi95CzH_-2Cgf7Hp1o7FVySZFkkA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_cybersport.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_cybersport.zip"
+      ],
+      "tamanho": 3025022,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_r8_survivalist",
+      "nome": "R8 Revolver | Survivalist",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Survivalist do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2tfZt_eM-AG3WGyPh3vOh6Wxa_nBovp3OBzditcSmSOFUnDsEiE-4MuhPqw4bmY-jisQff2dhGnCyq2n4a631v_a9cBkWPt9yi",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_survivalist.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_survivalist.zip"
+      ],
+      "tamanho": 4055914,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_oppressor",
+      "nome": "R8 Revolver | Skull Crusher",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Skull Crusher do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2tfZt_JeacAnGV09F5oPF7Sjqgmg8YvjiBk5r0b3uSaQUiCsZ2E-EI5EKwldW2NOzqslffgopHxHj-jHxLvH4_tbwHWaQ7uvqApie1xz8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_oppressor.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_oppressor.zip"
+      ],
+      "tamanho": 4312403,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_r8_banana",
+      "nome": "R8 Revolver | Banana Cannon",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Banana Cannon do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_eM-RD2mRz-9JvOhuRz39kU4msjzdmd6peXKTOFd2DcchEOEP40btlt3lN7iz5FbeiNpFzi_83zQJsHgWY2btRg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_banana.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_banana.zip"
+      ],
+      "tamanho": 4438587,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_r8_leviathan",
+      "nome": "R8 Revolver | Bone Forged",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Bone Forged do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_eM-fC3GZwPp-se9WQyC0nQlp5jmEydqpci2SaQdyDZEjEeFe4Re4wdznNu6ztgbWidkQzSz6jiJKuDErvbgK8jU85g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_leviathan.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_leviathan.zip"
+      ],
+      "tamanho": 4504704,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_r8_llamacannon",
+      "nome": "R8 Revolver | Llama Cannon",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Llama Cannon do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_eM-fAmadwO13vu9mQRa_nBovp3OEz9n7JH-UPwEoA5t2TLFYtBmxlNzhYuOztgHZjo9Mzyqq3C9O63o5_a9cBr5nn1G8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_llamacannon.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_llamacannon.zip"
+      ],
+      "tamanho": 4082025,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_r8_memento",
+      "nome": "R8 Revolver | Memento",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Memento do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_eM-eC2qVz_p5j-1gSCGn20wk4D7Vz9_9JHyeawMnXpByReMDshfuxIDnPunj5gCN2ohFyST_2C1XrnE8s2YJKK4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_memento.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_memento.zip"
+      ],
+      "tamanho": 4002844,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_r8_rustking",
+      "nome": "R8 Revolver | Junk Yard",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Junk Yard do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_eM-BG3SEyud4t95lRi67gVMj4WTdzY2qcXjFbwUmDpcmTOEO5xC-x9XgYb7h71eM2dlMmCX_3CpK8G81tNsMj6E-",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_rustking.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_rustking.zip"
+      ],
+      "tamanho": 4719690,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_acanthus_bronze",
+      "nome": "R8 Revolver | Inlay",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Inlay do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_JeacAnGV09F3s-BnWyGmhiIloTKLgIrGLSLANkI-A5cjFOBc5ES_m921Ybux5gXeioMQzy2ojHlMuChi4bxQVfFzr6OEjRaBb-Nm3twhXg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_acanthus_bronze.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_acanthus_bronze.zip"
+      ],
+      "tamanho": 4397484,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_purple_elite",
+      "nome": "R8 Revolver | Crazy 8",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Crazy 8 do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_JeacAnGV09FmpfN5QyyMkBEupzi6lob-KT-JZlJ0X5MhEOFcthO9wIHuZrng5A3XgotFmSv82ClAuHo46-wHU6p38rqX0V9gOeDH5A",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_purple_elite.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_purple_elite.zip"
+      ],
+      "tamanho": 4519811,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_tread",
+      "nome": "R8 Revolver | Grip",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Grip do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_JeacAnGV09FiouRoSxa_nBovp3PTwt-hJH-WbFMnWJdwRuUPtEG7k93iN7uw4wLf2I9FxCr733hBvXxj_a9cBlQvB05B",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_tread.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_tread.zip"
+      ],
+      "tamanho": 3870435,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_hy_brush_camo_tan",
+      "nome": "R8 Revolver | Desert Brush",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Desert Brush do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2mcZtvMuWABliTwON5j_VoQRa_nBovp3PUz9iodirCaQQkA5R2RbFe5kO5lt3lZuLn41DfiI9FxSn4j38f73xs_a9cBhkVhlil",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_hy_brush_camo_tan.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_hy_brush_camo_tan.zip"
+      ],
+      "tamanho": 4182571,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_hy_webs",
+      "nome": "R8 Revolver | Crimson Web",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Crimson Web do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2mcZt6JfKAMWuZxuZi_rdrHny2wkR_sDuHw4muJXuWOwZyAsdzTeNcu0S4ktfkP77htAOPiYlbjXKp8jg9HbM",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_hy_webs.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_hy_webs.zip"
+      ],
+      "tamanho": 3221537,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_r8_monarch_extended",
+      "nome": "R8 Revolver | Monarch",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Monarch do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c28MJtgL_6SHGSY_utupORnSyy3qhEutDWR1Nb7dnvBOFApWZp4RrQM4UO_ldOzZOKx7gDdiYhCyyz23ytK7ihu67ocEf1ygxNUTvE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_monarch_extended.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_r8_monarch_extended.zip"
+      ],
+      "tamanho": 4036383,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_so_night",
+      "nome": "R8 Revolver | Night",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Night do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z5tjKfebGlicyOl-pK9oGCjkk0sktWyAntv6cSrDaAdzAsFxQuFZtRnqwNPlP7jg5QHd39oU02yg2UcfjkJE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_so_night.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_so_night.zip"
+      ],
+      "tamanho": 2342606,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_so_orange_accents3",
+      "nome": "R8 Revolver | Nitro",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Nitro do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z5tiMvGdCWKvwO11te99XHqMmRQguynLzo34IiiTagQoWZUlFOYOsha6ltLlPuPlsweMj4tDnyT6jy5MuytosvFCD_SeBWArcQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_so_orange_accents3.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_so_orange_accents3.zip"
+      ],
+      "tamanho": 2342609,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_soch_copper_accent",
+      "nome": "R8 Revolver | Mauve Aside",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Mauve Aside do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z6dlH_OcHneV09F3s-JsQT2MhxgxvDGTn53GLSLANkI-C5d5Q7EK4xLpxtDhY-vksleP3d1DzXn52itKvCxstewGVKosqPDTiRaBb-Oa78uGvw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_soch_copper_accent.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_soch_copper_accent.zip"
+      ],
+      "tamanho": 4109587,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_soch_indigo_grips",
+      "nome": "R8 Revolver | Cobalt Grip",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Cobalt Grip do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z6dlH_mdCm6XztFxouh5XBa_nBovp3ODyI2scn3BO1J2WJJ0F-MLsha6wNTgY7_m4VePid9AzSv4iC9LuiY5_a9cBmU4DDcB",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_soch_indigo_grips.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_soch_indigo_grips.zip"
+      ],
+      "tamanho": 4615380,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_soch_smoke_grips",
+      "nome": "R8 Revolver | Dark Chamber",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Dark Chamber do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z6dlH-OeAWyV_ulkufF6cCW6khUz_WqGmNatdnzDbAR0CcR2FLQO4UKxxNfuM-rj4QzX3YsTziuqiHgf7351o7FV2A-FKGc",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_soch_smoke_grips.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_soch_smoke_grips.zip"
+      ],
+      "tamanho": 4666219,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_sp_spray_water",
+      "nome": "R8 Revolver | Canal Spray",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Canal Spray do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29eJt-MOKSF1iHwPpzot5lRi67gVN04jnTyd2hIHqUOwUiX8BzEbYM4xDum4K2ZrvltQWPgthFm3j63yhB8G81tDz6WJ29",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_sp_spray_water.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_sp_spray_water.zip"
+      ],
+      "tamanho": 4168214,
+      "arma": "R8 Revolver"
+    },
+    {
+      "id": "arma_revolver_sp_tape",
+      "nome": "R8 Revolver | Bone Mask",
+      "categoria": "armas",
+      "descricao": "R8 Revolver | Bone Mask do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29eJt5IeCWMWuZxuZi_rNtHX_hwh91sWjXm9qreSqfaAIgD5d3RLNbt0Pqx4e2Mrjn5wHbi99bjXKpUIbZI8w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_sp_tape.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_revolver_sp_tape.zip"
+      ],
+      "tamanho": 4685586,
+      "arma": "R8 Revolver"
     }
   ],
   "links": {},
