@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 7,
-    "nome": "1.6",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.6.apk",
-    "notas": "Nova seção Skins por arma, com busca e filtro por arma.",
+    "versao": 8,
+    "nome": "1.7",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.7.apk",
+    "notas": "Novo cartão do perfil do Discord na aba Ajustes.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
@@ -11008,5 +11008,14 @@
       "exclusiva": false,
       "pasta_solta": "particles"
     }
-  ]
+  ],
+  "perfil": {
+    "link": "https://discord.com/users/269470715797962754",
+    "nome": ".gg/phub",
+    "usuario": "ocarlosx",
+    "avatar": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/perfil_avatar.jpg",
+    "banner": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/perfil_banner.jpg",
+    "botao": "Ver perfil",
+    "selos": []
+  }
 }
