@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 11,
-    "nome": "1.10",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.10.apk",
-    "notas": "Explorador de pastas dentro do Hub para escolher a pasta do jogo.",
+    "versao": 12,
+    "nome": "1.11",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.11.apk",
+    "notas": "Explorador de pastas com visual novo e aviso dos Ajustes mais curto.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
