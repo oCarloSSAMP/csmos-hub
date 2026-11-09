@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 7,
-    "nome": "1.6",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.6.apk",
-    "notas": "Nova seção Skins por arma, com busca e filtro por arma.",
+    "versao": 9,
+    "nome": "1.8",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.8.apk",
+    "notas": "Botões do YouTube e do Discord na aba Ajustes.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
@@ -13235,7 +13235,10 @@
       "arma": "Glock-18"
     }
   ],
-  "links": {},
+  "links": {
+    "youtube": "https://www.youtube.com/@ocarlos_yt",
+    "discord": "https://discord.gg/pC255CEvX9"
+  },
   "jogo": {
     "versao": "1.0",
     "url_base": "https://github.com/oCarloSSAMP/csmos-hub/releases/download/v1.0/",
