@@ -521,32 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_g3sg1_so_green",
-      "nome": "G3SG1 | Green Apple",
-      "categoria": "armas",
-      "descricao": "G3SG1 | Green Apple do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I4M2peqFoLs-fB2CY1aBzs7g4SXC2zRgjsWuBmdmtdiifagMhWZUlEeEP5BG9ktG2Pu-w4QSMlcsbmpnYc5LS",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_green.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_green.zip"
-      ],
-      "tamanho": 1407011,
-      "arma": "G3SG1"
-    },
-    {
-      "id": "arma_g3sg1_so_pmc",
-      "nome": "G3SG1 | Contractor",
-      "categoria": "armas",
-      "descricao": "G3SG1 | Contractor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I4M2-ZadSLPmUBnPelOwj47A4GCyywEgl52_TmNyuJH2XOgJzX5UlQeUCsBS9m9bhP-rq4Rue1dx74w5z0g",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_pmc.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_pmc.zip"
-      ],
-      "tamanho": 1406977,
-      "arma": "G3SG1"
-    },
-    {
       "id": "arma_scar20_an_emerald_bravo",
       "nome": "SCAR-20 | Emerald",
       "categoria": "armas",
@@ -6421,6 +6395,383 @@
       ],
       "tamanho": 3121878,
       "arma": "Galil AR"
+    },
+    {
+      "id": "arma_g3sg1_ancient_wine",
+      "nome": "G3SG1 | Ancient Ritual",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Ancient Ritual do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1a4s2vZqdkJf6HMXCZz-tJvOhuRz39zE5ysWjSyterJX-VZ1UgX8EhTeVf5EOxlN3jYemwsw3WjtgQzi7-2zQJsHjSk9PLGw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_ancient_wine.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_ancient_wine.zip"
+      ],
+      "tamanho": 2227054,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_murky",
+      "nome": "G3SG1 | Murky",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Murky do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1a4s2pO7dqcc-eG3Wb2NF6ueZhW2e2wE5y6juDy46uJ3qePVR1C5BzR7UO4xa9ldXlYuK07wSP2dlMzin6kGoXucw3wj8l",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_murky.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_murky.zip"
+      ],
+      "tamanho": 2892364,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_murano_violet",
+      "nome": "G3SG1 | Violet Murano",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Violet Murano do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1a4s2jfbZsLv-sGG6fzetij-1gSCGn2050tmuDn9v8JXmXPwclD5txROII40G-l9S1Mb-04lGIit5Mm3qt2HtXrnE8WK3_Jks",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_murano_violet.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_murano_violet.zip"
+      ],
+      "tamanho": 2684108,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_chronos",
+      "nome": "G3SG1 | Chronos",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Chronos do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1Y-s2tYLZiLv-AMWDD0uknj-1gSCGn20R1sG3dyt2qdyiWbwB2A8R0QeJcska6x9znNurrsgWNjooWxX37iyhXrnE8dtReaHc",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_chronos.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_chronos.zip"
+      ],
+      "tamanho": 2970114,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_blacksand",
+      "nome": "G3SG1 | Black Sand",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Black Sand do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1Y-s2pO7dqcc-RAmaTyv13vuVWQyC0nQlp4miGytahcSiTZ1J0DZZ1ELYDskO7mtfjMujn5gbajYlGyS38jywY6jErvbjKP5Wfiw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_blacksand.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_blacksand.zip"
+      ],
+      "tamanho": 2988441,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_executioner",
+      "nome": "G3SG1 | The Executioner",
+      "categoria": "armas",
+      "descricao": "G3SG1 | The Executioner do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1Y-s2pO7dqcc-WFmKT1Pp_v-9sXRa_nBovp3PXmdyseC3DOFN1DJZ1TeIOtEKxmoG2PuKwsgOPgoxGzyr7jnhPvXlq_a9cBnGZIRC4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_executioner.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_executioner.zip"
+      ],
+      "tamanho": 3509260,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_glade",
+      "nome": "G3SG1 | Dream Glade",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Dream Glade do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1Y-s2pO7dqcc-UAmaUxNF6ueZhW2e3wkl162TVmdqvd3mUPw9yDJZ4FOYJ4UKxkNfiNrvn4QCMjdlHmHj6kGoXub9gXKkW",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_glade.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_glade.zip"
+      ],
+      "tamanho": 2838437,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_tacticalmap",
+      "nome": "G3SG1 | Keeping Tabs",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Keeping Tabs do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1Y-s2pO7dqcc-HD2SEyO13vOxoXxa_nBovp3OHzouqcHqRZwBxDcd2EOUDskXtl4DmYevi4FGLg4tDz3n4iylB6Xw9_a9cBgS1m-61",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_tacticalmap.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_tacticalmap.zip"
+      ],
+      "tamanho": 2729178,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_buccaneer",
+      "nome": "G3SG1 | High Seas",
+      "categoria": "armas",
+      "descricao": "G3SG1 | High Seas do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1c_M2pO7dqcc-RG2STwOBztfNWQyC0nQlp4j7Syt-rdHPEOAIjCpV5TLQK40K5wdLjY-_r7wfeio1AySiriCIf6DErvbj1Mwus0A",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_buccaneer.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_buccaneer.zip"
+      ],
+      "tamanho": 3702854,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_cetme_redux",
+      "nome": "G3SG1 | Hunter",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Hunter do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1c_M2pO7dqcc-QC3OdxNFkteV8Vxa_nBovp3Pdw9arJCrCP1N1DZFyR7EDskO4wd3mYr_ltVHa2oNNziWshn5Nunlp_a9cBi4_3bmx",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_cetme_redux.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_cetme_redux.zip"
+      ],
+      "tamanho": 3572117,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_disrupt",
+      "nome": "G3SG1 | Digital Mesh",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Digital Mesh do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1c_M2pO7dqcc-XB3SC1P5ij-1gSCGn20wh4m-By9-qIC7COA8jWcNxRuUPshe6kNfnYe62tQ2K2NpHmXj2iC9XrnE82YBIy5I",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_disrupt.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_disrupt.zip"
+      ],
+      "tamanho": 3301537,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_flux_purple",
+      "nome": "G3SG1 | Flux",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Flux do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1c_M2pO7dqcc-VAnKI_v5jovFlSha_nBovp3ODz9uoc3vGOgMmApp3QrFe5xftm9bjNOm24Afb3YlBn3mqjS8dvy1p_a9cBmtTF-_C",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_flux_purple.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_flux_purple.zip"
+      ],
+      "tamanho": 2867628,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_savage",
+      "nome": "G3SG1 | Scavenger",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Scavenger do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1c_M2pO7dqcc-AD3GRxutJvOhuRz39xkl2tziGmNf9JX-WPQcpAsEiQOUNsBixx4bmN7nj5FHb3Y9Cyiz-hzQJsHglCU9Y5w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_savage.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_savage.zip"
+      ],
+      "tamanho": 3556064,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_ventilator",
+      "nome": "G3SG1 | Ventilator",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Ventilator do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1c_M2pO7dqcc-FC2mEyOJ3pO57cCW6khUz_W_Rwo36cC6SagZzDZZyQbMN5kTtwNC0Mb60sg3cjo8UnHn4j3hPuid1o7FVSaKTKS0",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_ventilator.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_ventilator.zip"
+      ],
+      "tamanho": 2977963,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_viper_yellow",
+      "nome": "G3SG1 | Stinger",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Stinger do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1c_M2pO7dqcc-FB3eV09Fvte1lQD6MmRQguynLyo6rdH-RPAZ0D8chQeIL50TukdK2P-_rtFPejN8WmH34jylJvHtq5fFCD_TvHmnxYA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_viper_yellow.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_viper_yellow.zip"
+      ],
+      "tamanho": 2551197,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_hy_arctic_contrast",
+      "nome": "G3SG1 | Polar Camo",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Polar Camo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1T9s2veqd5KfOsDWie1fx3o_VWQyC0nQlp5D7Xn9n6cn2UP1IoCMF0ROYO4xnsldK1Nbnh5AGM2olDyy-siXwfuzErvbiZGyPTng",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_arctic_contrast.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_arctic_contrast.zip"
+      ],
+      "tamanho": 2149601,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_hy_arctic",
+      "nome": "G3SG1 | Arctic Camo",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Arctic Camo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1T9s2veqd5KfOsAm6Xyfo4s7BsFyyxzUlw5j6BmNn6In-QZw8pA8MiQuBYuha9mtLvZengtlGIjpUFk3s2Ceep5Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_arctic.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_arctic.zip"
+      ],
+      "tamanho": 2149601,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_hy_bluepolygon_bravo",
+      "nome": "G3SG1 | Demeter",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Demeter do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1T9s2sZLFoMP-fF2Cfz9F0ouB_QBa_nBovp3OEnoz4cHnFZgMnD5R5TeQP40Swx4XgNLm34g3ei49FxC2qiXgbuy9t_a9cBh-mV6Cr",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_bluepolygon_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_bluepolygon_bravo.zip"
+      ],
+      "tamanho": 2776763,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_hy_desert",
+      "nome": "G3SG1 | Desert Storm",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Desert Storm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1T9s2qbbdoMuSsAm6Xyfo45bU5S3i1wR5w5DnUyt6tIyqVOAEkCccjQ7Nb4RbslYayPr7i4FGPjpUFk3uqKe2F9w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_desert.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_desert.zip"
+      ],
+      "tamanho": 1770814,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_hy_kimono_diamonds_orange",
+      "nome": "G3SG1 | Orange Kimono",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Orange Kimono do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1T9s2lYaliLv-sCm6RzOF4tPJWQDuymxoijDGMnYftby6RPwN1DZQmTbYL5kO9mt2zN-3j4wSKjdpDmy2tjCNN6ik45ewAAKs7uvqAyDUCDXE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_kimono_diamonds_orange.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_kimono_diamonds_orange.zip"
+      ],
+      "tamanho": 2225416,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_hy_varicamo",
+      "nome": "G3SG1 | VariCamo",
+      "categoria": "armas",
+      "descricao": "G3SG1 | VariCamo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1T9s24abZkI_GeAVicyOl-pK9qTn7gwUlwsWrVzd2sci3GZ1cnDpF0TeNe5kG9mt21Mrzq4VPYjdhA02yg2WVbe73u",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_varicamo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_hy_varicamo.zip"
+      ],
+      "tamanho": 3798036,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_so_green",
+      "nome": "G3SG1 | Green Apple",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Green Apple do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I4M2peqFoLs-fB2CY1aBzs7g4SXC2zRgjsWuBmdmtdiifagMhWZUlEeEP5BG9ktG2Pu-w4QSMlcsbmpnYc5LS",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_green.zip"
+      ],
+      "tamanho": 1407012,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_so_pmc",
+      "nome": "G3SG1 | Contractor",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Contractor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I4M2-ZadSLPmUBnPelOwj47A4GCyywEgl52_TmNyuJH2XOgJzX5UlQeUCsBS9m9bhP-rq4Rue1dx74w5z0g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_pmc.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_so_pmc.zip"
+      ],
+      "tamanho": 1406979,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_sp_g3sg1_militiaorange",
+      "nome": "G3SG1 | Orange Crash",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Orange Crash do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I_82pO7dqcc-eB2uZ1ed3v_NoQS62qhEutDWR1Iv_IC2eZgUkA5Z0RbEL5BLqw9flMby2swba34JBnHr22CMd5i1r67ocEf1y0mrzb0E",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_g3sg1_militiaorange.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_g3sg1_militiaorange.zip"
+      ],
+      "tamanho": 2381635,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_sp_khaki_camo",
+      "nome": "G3SG1 | Green Cell",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Green Cell do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I_82lYKVmKc-QD2qf_uJ_t-l9AXi3whgm4WjczNageHzCZgRyDcchRu8Ls0W5l922N7jhsgyMjYpAzS7gznQe2xurqq8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_khaki_camo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_khaki_camo.zip"
+      ],
+      "tamanho": 3555006,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_sp_mesh_tan",
+      "nome": "G3SG1 | Safari Mesh",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Safari Mesh do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I_82jbbdlH-SSAFicyOl-pK8-Tn3qwkgi5j7Wm9z7dy6fbFMoWcZ0RucOshK5l4DkZr_l5ACNgtpM02yg2YL7CXWd",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_mesh_tan.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_mesh_tan.zip"
+      ],
+      "tamanho": 2794789,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_sp_moro_carving_lightblue",
+      "nome": "G3SG1 | New Roots",
+      "categoria": "armas",
+      "descricao": "G3SG1 | New Roots do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I_82jZ7ZiH_OSHHGZz-lJvOhuRz2xmQgijDGMnYftby2eOgEiDsMmReUDs0G5m4fhM7zm4ADY2d9FzyT_33kfvylp4utQV6E7uvqAlSn4mj4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_moro_carving_lightblue.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_moro_carving_lightblue.zip"
+      ],
+      "tamanho": 3401794,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_sp_tape_short_jungle",
+      "nome": "G3SG1 | Jungle Dashed",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Jungle Dashed do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I_826abRoH-ObAXWE_uRjvuZlSha_nBovp3PRz92tJSrFOw4oAsYmFucLsxaxkdfiNejj5gPX349BmXmqhnlPun5i_a9cBim8k1Zw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_tape_short_jungle.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_tape_short_jungle.zip"
+      ],
+      "tamanho": 3771637,
+      "arma": "G3SG1"
+    },
+    {
+      "id": "arma_g3sg1_sp_zebracam_blue",
+      "nome": "G3SG1 | Azure Zebra",
+      "categoria": "armas",
+      "descricao": "G3SG1 | Azure Zebra do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2zYXnrB1I_820baZ_IfOSA1iSzftzj-1gSCGn20tz6jjXnN-pJSiUOAIlD5FyR-FYuhbtwdSyMb_l4VPajI1FyCSo2iJXrnE87owZcUA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_zebracam_blue.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_g3sg1_sp_zebracam_blue.zip"
+      ],
+      "tamanho": 4248210,
+      "arma": "G3SG1"
     }
   ],
   "links": {},
