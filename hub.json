@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 13,
-    "nome": "1.12",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.12.apk",
-    "notas": "Ícone novo, lista de servidores completa, opção para jogo escuro em emulador e escolha da pasta para quem já tem o jogo.",
+    "versao": 14,
+    "nome": "1.13",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.13.apk",
+    "notas": "Nova correção para jogo escuro em emulador, servidores sempre atualizados e ajuste na primeira abertura.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
@@ -13325,5 +13325,10 @@
   ],
   "masters": [
     "ms.workbench.network:27010"
+  ],
+  "destaques": [
+    "deathmatch+qlf",
+    "mix #1+qlf",
+    "4fun+qlf"
   ]
 }
