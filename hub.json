@@ -521,71 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_cz75_an_emerald",
-      "nome": "CZ75-Auto | Emerald",
-      "categoria": "armas",
-      "descricao": "CZ75-Auto | Emerald do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4c2rZaF_IfyXMWuZxuZi_rNsFyzqzUhy4zzWmdqvdnPFbQYoCpolQeMOuxHum4HnMbjl4FCM2I1bjXKpBQcUgmo",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_emerald.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_emerald.zip"
-      ],
-      "tamanho": 1542347,
-      "arma": "CZ75-Auto"
-    },
-    {
-      "id": "arma_cz75_an_silver",
-      "nome": "CZ75-Auto | Silver",
-      "categoria": "armas",
-      "descricao": "CZ75-Auto | Silver do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4c29Yah7JeKsAm6Xyfo457c5Gn7nwEV-6jvRy96rcHPEPwcpDcZ4RrQItxHsk9bnMOrg5QKPi5UFk3v7O4lRrA",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_silver.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_silver.zip"
-      ],
-      "tamanho": 1542371,
-      "arma": "CZ75-Auto"
-    },
-    {
-      "id": "arma_cz75_so_indigo_and_grey",
-      "nome": "CZ75-Auto | Indigo",
-      "categoria": "armas",
-      "descricao": "CZ75-Auto | Indigo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlp5zmGzo2rcXnDbFJxDZoiRrII40Puw9a2YeOwsgbdjNlCnCSoiilK6TErvbj4Q9U5dw",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_indigo_and_grey.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_indigo_and_grey.zip"
-      ],
-      "tamanho": 1542308,
-      "arma": "CZ75-Auto"
-    },
-    {
-      "id": "arma_cz75_so_orange_accents2",
-      "nome": "CZ75-Auto | Nitro",
-      "categoria": "armas",
-      "descricao": "CZ75-Auto | Nitro do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2heqVjJ_WsD2STxOBio7NWQyC0nQlptWvXw9_7I3zCaVB1C5YkTeAIsRC8m9a1MePg5VGLiI9CnH772C9AuDErvbi4qlLcDQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orange_accents2.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orange_accents2.zip"
-      ],
-      "tamanho": 1542336,
-      "arma": "CZ75-Auto"
-    },
-    {
-      "id": "arma_cz75_so_orca",
-      "nome": "CZ75-Auto | Tuxedo",
-      "categoria": "armas",
-      "descricao": "CZ75-Auto | Tuxedo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2heqdsH_yaCW-Ej7lz6Oc9GXC3zEwh4D_VzY36eHvDaQYkXJV3FLMJtEG_kNHiZLmxtAPAy9USE1srPao",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orca.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orca.zip"
-      ],
-      "tamanho": 1542304,
-      "arma": "CZ75-Auto"
-    },
-    {
       "id": "arma_revolver_so_night",
       "nome": "R8 Revolver | Night",
       "categoria": "armas",
@@ -15573,6 +15508,448 @@
       ],
       "tamanho": 4177572,
       "arma": "Tec-9"
+    },
+    {
+      "id": "arma_cz75_army_shine",
+      "nome": "CZ75-Auto | Army Sheen",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Army Sheen do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s2veql0H-ObB2mV_uJ_t-l9ASrgl0lzsWSDytatICnDaVQmWZt3Q-MJsxS4m4DgYuuz7w2L3ogRyivgznQeVdjncD8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_army_shine.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_army_shine.zip"
+      ],
+      "tamanho": 2995769,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_crystallized_green",
+      "nome": "CZ75-Auto | Emerald Quartz",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Emerald Quartz do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s2ter1-NPGfAm6KxOpJt_NsSieMmRQguynLyNivIn6XPFUnXsYmFuNbukK6ltfiYeux5A2M2dgXyCqo2igY7yhutfFCD_SCQHbp0w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_crystallized_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_crystallized_green.zip"
+      ],
+      "tamanho": 3171663,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_czv2_mf",
+      "nome": "CZ75-Auto | Polymer",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Polymer do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s2tcrI_H_2VMWuZxuZi_rcwSnHjwxgh527SzI6oIHKUZ1dxA8ckTbUCskG6ldTuY-nh5FTf34JbjXKpj6qz0B4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_czv2_mf.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_czv2_mf.zip"
+      ],
+      "tamanho": 2711726,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_diamond_plate",
+      "nome": "CZ75-Auto | Tread Plate",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Tread Plate do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s2qYaVgL_6XMXecwPpzj-1gSCGn20l_62-Bzd39cH2QaAYoD8ckE-9csxmxx9biML_q4w3Wi4gTmSyvjShXrnE8FqKNMu4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_diamond_plate.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_diamond_plate.zip"
+      ],
+      "tamanho": 1997845,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_fuschia",
+      "nome": "CZ75-Auto | The Fuschia Is Now",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | The Fuschia Is Now do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s2ofbduKPmSMWuZxuZi_uM-Sn_hlhgi4D_RnImrJC3COFIoApB3FLUP4RS9mtSzYu_r7wHZjopbjXKpFZZFzGk",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_fuschia.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_fuschia.zip"
+      ],
+      "tamanho": 1567154,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_gyrate",
+      "nome": "CZ75-Auto | Twist",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Twist do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s2pcbZsNPWsAm6Xyfo45bY7TXzjxk5w42XXn93_cnLFOFN1C5t0ROANsBLtx9ziNu6x4FHejpUFk3uH-TvaLw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_gyrate.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_gyrate.zip"
+      ],
+      "tamanho": 2231911,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_nitrogen",
+      "nome": "CZ75-Auto | Poison Dart",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Poison Dart do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnj53UO7ryvaac0dKiVW2XBlrwmsuA6GH3hkE9062qEz9aoeCmVawchW8dwEe4MrFDmxWPDR_Ga",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_nitrogen.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_nitrogen.zip"
+      ],
+      "tamanho": 2325633,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_royal",
+      "nome": "CZ75-Auto | Chalice",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Chalice do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4s28Z71sLM-fB2CY1aBzsrQ5HnyyzBh25jzcyI3_dyqXaFcmC8ByReBZuxi-lYXlMei05FSPlcsbmsOlfuvI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_royal.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_royal.zip"
+      ],
+      "tamanho": 1567154,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_an_emerald",
+      "nome": "CZ75-Auto | Emerald",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Emerald do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4c2rZaF_IfyXMWuZxuZi_rNsFyzqzUhy4zzWmdqvdnPFbQYoCpolQeMOuxHum4HnMbjl4FCM2I1bjXKpBQcUgmo",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_emerald.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_emerald.zip"
+      ],
+      "tamanho": 1542348,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_an_silver",
+      "nome": "CZ75-Auto | Silver",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Silver do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a4c29Yah7JeKsAm6Xyfo457c5Gn7nwEV-6jvRy96rcHPEPwcpDcZ4RrQItxHsk9bnMOrg5QKPi5UFk3v7O4lRrA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_silver.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_an_silver.zip"
+      ],
+      "tamanho": 1542371,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_etched",
+      "nome": "CZ75-Auto | Victoria",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Victoria do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1a_s2rfKdlJfSsDX3HlNF6ueZhW2fkk04i5WrXmY2sc3qfPFAlWZd3EOdY4Bi6loCxPu7h51fZjNlGzST5kGoXuTXAF0gA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_etched.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_etched.zip"
+      ],
+      "tamanho": 3230787,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_abstract_white_cz",
+      "nome": "CZ75-Auto | Slalom",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Slalom do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1Y-s2vard5MvGQGliHyeditd5qVRa_nBovp3Pdzt3_eSqUOA4hDpB1EbQPshXqkdPmPrm04APXjdhExXis2C1N7io9_a9cBtMaUZjs",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_abstract_white_cz.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_abstract_white_cz.zip"
+      ],
+      "tamanho": 3285076,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_c75a_tiger",
+      "nome": "CZ75-Auto | Tigris",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Tigris do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1Y-s2tP_FsbeSaCWKC_uJ_t-l9ASvil0R15WjUmYmqc33CaQ91W5QlRbVetETtwNC1P-u34g2L2dpEmS_gznQebcVQ6rs",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_c75a_tiger.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_c75a_tiger.zip"
+      ],
+      "tamanho": 1823623,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_cerakote",
+      "nome": "CZ75-Auto | Distressed",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Distressed do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1Y-s2tcvM4H_OWHGabzvpzj-1gSCGn208hsTyHw9z6eS2faQEoX5p1ELECtBi7xtG2Pr7j5APZjopDynj_iHtXrnE8XiCan1o",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_cerakote.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_cerakote.zip"
+      ],
+      "tamanho": 3225918,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_eco",
+      "nome": "CZ75-Auto | Eco",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Eco do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1Y-s2tcvM4H_WQAVicyOl-pK87HivqxR5xt2_Qnt6qI3-fPFciWJBzRuFZ5Ba_moG0Mrm04lfajYwQ02yg2Q7xomN1",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_eco.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_eco.zip"
+      ],
+      "tamanho": 2666045,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_precision",
+      "nome": "CZ75-Auto | Pole Position",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Pole Position do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1Y-s2tcvM4H-CBC2SZ0ud5vt5lRi67gVNy4mTdzdmgc33COg90DcB2FuMPtxLpldSxZeLn4w2K34NCzXj9hnsY8G81tCL36RK-",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_precision.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_precision.zip"
+      ],
+      "tamanho": 2899148,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_whirlwind",
+      "nome": "CZ75-Auto | Circaetus",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Circaetus do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1Y-s2tcvM4H-ebB3Wc1ud4tN5lRi67gVN242-AzNuoIyieOg8lDJdyEeVe40TqxoDvZLixtVPZ2IhFmC333yNJ8G81tFbyihAW",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_whirlwind.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_whirlwind.zip"
+      ],
+      "tamanho": 4087884,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_cz75a_chastizer",
+      "nome": "CZ75-Auto | Yellow Jacket",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Yellow Jacket do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1Y-s2tcvM4Ic-QBmaD1edstfNWQyC0nQlptjjRn9z8cHjBbgB2WccmFOAPukbux9zlP77nsQXf3YxFzSX9iy9AvDErvbgg0Q8tFg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_cz75a_chastizer.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_cz75a_chastizer.zip"
+      ],
+      "tamanho": 2816924,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_hydraulics",
+      "nome": "CZ75-Auto | Hydraulics",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Hydraulics do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1Y9aX7V6x0JOKSG2uZwv1JvOhuRz39kE135DzRyN2hIHyea1AkA8BwTOYJ4RG6kNzlZOm0sgXX2doRmS6riTQJsHilInmzoA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_hydraulics.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_hydraulics.zip"
+      ],
+      "tamanho": 3027145,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_tacticat",
+      "nome": "CZ75-Auto | Tacticat",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Tacticat do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1c_M2tcvM4H-SSDXOZwu9ij-1gSCGn2x4k5zvVm9z8IH7FZwFyCJckR7NfshSwwNGyMLzn41fejINHn3r6jy5XrnE8D8_CCNo",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_tacticat.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_tacticat.zip"
+      ],
+      "tamanho": 2529501,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_tread",
+      "nome": "CZ75-Auto | Imprint",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Imprint do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1c_M2tcvM4H-SBC2aU_uJ_t-l9AX_ql0kksWTVyYupJC7FOAUiAptxQudbs0KxkNK1MLzl4wOPjIsWyCngznQeZTDWXeo",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_tread.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_tread.zip"
+      ],
+      "tamanho": 3068718,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_vendetta",
+      "nome": "CZ75-Auto | Vendetta",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Vendetta do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1c_M2tcvM4H-aWAGOV1fp3j-1gSCGn205ysWiEw9iqInueOAZyD5J1EOdf4Ea9l9bmMb_q4AaI2NhGySz6iStXrnE8_AWQoqE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_vendetta.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_vendetta.zip"
+      ],
+      "tamanho": 3532406,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_cz75a_redastor",
+      "nome": "CZ75-Auto | Red Astor",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Red Astor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1c_M2tcvM4Ic-BC2OR0vp5ot5lRi67gVMh5D_cwor7cy7GZ1UpA8F0QrQP5BjuwdHiZr7r5FeNjIpAmyT8hnlI8G81tORsc2LX",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_cz75a_redastor.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_cz75a_redastor.zip"
+      ],
+      "tamanho": 3102192,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_cz_snakes_purple",
+      "nome": "CZ75-Auto | Xiangliu",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Xiangliu do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1c_M2tcpt-LvGYC3Sv0ftkoO1scCW6khUz_WTcw9r7JH7BOgApApojQuBb5kO5lNO1ZO_h4VaM2o5Gm36s3HgbvH51o7FVgkdxNDg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_cz_snakes_purple.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_cz_snakes_purple.zip"
+      ],
+      "tamanho": 3135618,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_train",
+      "nome": "CZ75-Auto | Syndicate",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Syndicate do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1c_M26eqVkLs-QFDDF_uJ_t-l9ASjglxhw52rQy974IirCa1UiC5R4RbJbsxjrk9SxMb7k4lfZ2o9AzirgznQeG7VwMmI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_train.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_train.zip"
+      ],
+      "tamanho": 3705204,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_hy_bluehex",
+      "nome": "CZ75-Auto | Hexane",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Hexane do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1T9s2sZLFoKPWLMWuZxuZi_rBqS3vrkRxz5W7dnN2oIyiTZgYhXpN5EOIPsUbsloC1M-_qs1HdiYlbjXKpP5VEBps",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_hy_bluehex.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_hy_bluehex.zip"
+      ],
+      "tamanho": 3266630,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_hy_plaid2",
+      "nome": "CZ75-Auto | Green Plaid",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Green Plaid do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1T9s2-ZKVkJKKsAm6Xyfo4s7Y4Fn22xkhw6mzSyY2tcn3DaVIhXpshFLQD5hTpmtCzP-Pg4wKLg5UFk3t4lHCTnQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_hy_plaid2.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_hy_plaid2.zip"
+      ],
+      "tamanho": 1930073,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_hy_vertigoillusion",
+      "nome": "CZ75-Auto | Framework",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Framework do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1T9s24bbZ5KfecB2uc1P1_v-9WQyC0nQlp4WrQn42pIiqTZlQpXMByE-8Mu0Huxte0Y-zl41Pci4lFxST_33lA6TErvbh9z0zyoQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_hy_vertigoillusion.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_hy_vertigoillusion.zip"
+      ],
+      "tamanho": 2548561,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_hy_webs",
+      "nome": "CZ75-Auto | Crimson Web",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Crimson Web do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1T9s25baZ-H_yaCW-Ej-0u4-VsH3G2x0x-sGXQyY76JXPGOAQkCMAlR-YNsBDqxtHhZerjsgTAy9USIjIDnE8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_hy_webs.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_hy_webs.zip"
+      ],
+      "tamanho": 2424925,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_so_indigo_and_grey",
+      "nome": "CZ75-Auto | Indigo",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Indigo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2nZqBkJ_-sD2mU_ulktfhWQyC0nQlp5zmGzo2rcXnDbFJxDZoiRrII40Puw9a2YeOwsgbdjNlCnCSoiilK6TErvbj4Q9U5dw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_indigo_and_grey.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_indigo_and_grey.zip"
+      ],
+      "tamanho": 1542309,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_so_orange_accents2",
+      "nome": "CZ75-Auto | Nitro",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Nitro do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2heqVjJ_WsD2STxOBio7NWQyC0nQlptWvXw9_7I3zCaVB1C5YkTeAIsRC8m9a1MePg5VGLiI9CnH772C9AuDErvbi4qlLcDQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orange_accents2.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orange_accents2.zip"
+      ],
+      "tamanho": 1542337,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_so_orca",
+      "nome": "CZ75-Auto | Tuxedo",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Tuxedo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I4M2heqdsH_yaCW-Ej7lz6Oc9GXC3zEwh4D_VzY36eHvDaQYkXJV3FLMJtEG_kNHiZLmxtAPAy9USE1srPao",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orca.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_so_orca.zip"
+      ],
+      "tamanho": 1542305,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_sp_palm_night",
+      "nome": "CZ75-Auto | Midnight Palm",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Midnight Palm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I_82-aahgH_6aCW-E_uJ_t-l9ASiwl0lw5z_Unt_9IHqRbwV1X5QmFuJZtxi-l9HuML7htgGN3t1NzSjgznQe0h5WimA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_sp_palm_night.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_sp_palm_night.zip"
+      ],
+      "tamanho": 3587234,
+      "arma": "CZ75-Auto"
+    },
+    {
+      "id": "arma_cz75_sp_tape_short_jungle",
+      "nome": "CZ75-Auto | Jungle Dashed",
+      "categoria": "armas",
+      "descricao": "CZ75-Auto | Jungle Dashed do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1I_826abRoH-ObAXWE_uRjvuZlSha_nBovp3PQyt2reHrGPAQiDJYjTOQItRDpwd3kZO23sQLY3Y0TmX75iXxB631i_a9cBsRmAsJf",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_sp_tape_short_jungle.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_cz75_sp_tape_short_jungle.zip"
+      ],
+      "tamanho": 3889238,
+      "arma": "CZ75-Auto"
     }
   ],
   "links": {},
