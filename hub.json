@@ -521,45 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_mp7_an_navy",
-      "nome": "MP7 | Anodized Navy",
-      "categoria": "armas",
-      "descricao": "MP7 | Anodized Navy do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_Cxk4fO4cZthKfebGinIw-0v5-cxS33kwEh2tz-HyYugJC7FZwVyXJZ2FO4CtBa4xtPkN-nn-UWA3HYryggq",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_an_navy.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_an_navy.zip"
-      ],
-      "tamanho": 1150228,
-      "arma": "MP7"
-    },
-    {
-      "id": "arma_mp7_so_olive_bravo",
-      "nome": "MP7 | Groundwater",
-      "categoria": "armas",
-      "descricao": "MP7 | Groundwater do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7i1k4P6nfqFSIuKSGGivzedxuPUnSX7nxEl_527Vzoyvcy2QbQUpC8NxF7NbtkbqwNLlZu-w5QHdiN0UyjK-0H0qFVLm2g",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_olive_bravo.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_olive_bravo.zip"
-      ],
-      "tamanho": 1150216,
-      "arma": "MP7"
-    },
-    {
-      "id": "arma_mp7_so_whiteout",
-      "nome": "MP7 | Whiteout",
-      "categoria": "armas",
-      "descricao": "MP7 | Whiteout do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7i1k-PqnfKFiNeSsAm6Xyfo4teU9Hirmx0gh4GXdy9atInqfOAcgCscmRrNetxewl9HjP7_jsgfei5UFk3u-0OOK7w",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_whiteout.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_whiteout.zip"
-      ],
-      "tamanho": 1150257,
-      "arma": "MP7"
-    },
-    {
       "id": "arma_mp5sd_so_orange_accents3",
       "nome": "MP5-SD | Nitro",
       "categoria": "armas",
@@ -7565,6 +7526,448 @@
       ],
       "tamanho": 4345379,
       "arma": "MP9"
+    },
+    {
+      "id": "arma_mp7_circuitboard_green",
+      "nome": "MP7 | Motherboard",
+      "categoria": "armas",
+      "descricao": "MP7 | Motherboard do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k7Pu8a7FkNPKcD3WU_ulkteRncCW6khUz_T7Wm9-vJHmWbAVzDJZzFuMP5hKwxIDiP7jlsQGI2Y9CzSr_j3tJ6i51o7FV2fbsGVQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_circuitboard_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_circuitboard_green.zip"
+      ],
+      "tamanho": 1463402,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_heist_plans_yellow",
+      "nome": "MP7 | Vault Heist",
+      "categoria": "armas",
+      "descricao": "MP7 | Vault Heist do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k5_ene7BSMPySAHSv2Ot6vO5-cCW6khUz_Wrcydz9di2WPAApA5EmF-MCtRDpktznNri35FeLithAzSuqiHxM7iZ1o7FVdAUc4V4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_heist_plans_yellow.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_heist_plans_yellow.zip"
+      ],
+      "tamanho": 3462482,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_ossify_blue",
+      "nome": "MP7 | Ocean Foam",
+      "categoria": "armas",
+      "descricao": "MP7 | Ocean Foam do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_C9k4OG9YaJ0H_KfG2KvzedxuPUnGX6xlEl2tWmEzdyrd32RbQ5yXpB5RuIK4xaxxIGzY7zl5gza2YITnzK-0H3lsKvKCA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_ossify_blue.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_ossify_blue.zip"
+      ],
+      "tamanho": 2204221,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_an_navy",
+      "nome": "MP7 | Anodized Navy",
+      "categoria": "armas",
+      "descricao": "MP7 | Anodized Navy do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_Cxk4fO4cZthKfebGinIw-0v5-cxS33kwEh2tz-HyYugJC7FZwVyXJZ2FO4CtBa4xtPkN-nn-UWA3HYryggq",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_an_navy.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_an_navy.zip"
+      ],
+      "tamanho": 1150227,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_ultramodern",
+      "nome": "MP7 | Armor Core",
+      "categoria": "armas",
+      "descricao": "MP7 | Armor Core do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_DNk4uL5V7FhNOKSA2iUxPx4j-1gSCGn2xhw6zjSzYysICiUOgV0Cpd1TORe5BW9w922Nrux5gKLitpGz3irhnlXrnE866qixJk",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_ultramodern.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_ultramodern.zip"
+      ],
+      "tamanho": 1475236,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_mp7_commander",
+      "nome": "MP7 | Urban Hazard",
+      "categoria": "armas",
+      "descricao": "MP7 | Urban Hazard do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5JadiLf2SAGOV09F6ueZhW2fgx0gl4WTczdj7I3LFaQYjDcQiE-Beuhe6xIXnP-_l41eKi9pEyH79kGoXuW6iY_I1",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_mp7_commander.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_mp7_commander.zip"
+      ],
+      "tamanho": 1863218,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_classified",
+      "nome": "MP7 | Special Delivery",
+      "categoria": "armas",
+      "descricao": "MP7 | Special Delivery do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6dhIeOAB2GZxOpJvOhuRz39xRhytjuBm9n4d3yXbQF1XJAhQLID4BTskobhZb-35wXZ2toTySz2jTQJsHhDRFQUDw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_classified.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_classified.zip"
+      ],
+      "tamanho": 2968284,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_fear",
+      "nome": "MP7 | Abyssal Apparition",
+      "categoria": "armas",
+      "descricao": "MP7 | Abyssal Apparition do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6JoIeKsAm6Xyfo45uc9GnnnzBh-5zzTw9n9I3mQPAEgD5YlFuIOthC6wNK1MeKwsgHeiZUFk3vcOiyhPQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_fear.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_fear.zip"
+      ],
+      "tamanho": 2188057,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_khaki",
+      "nome": "MP7 | Guerrilla",
+      "categoria": "armas",
+      "descricao": "MP7 | Guerrilla do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V69lIfuaMWuZxuZi_uU7Hy22xE5x5TnWyYqvIi2SaVN0C8d1QeVf4RC-kdC0MOPl4Qbf2dhbjXKpOJ4z2JA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_khaki.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_khaki.zip"
+      ],
+      "tamanho": 3042630,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_nemsis",
+      "nome": "MP7 | Nemesis",
+      "categoria": "armas",
+      "descricao": "MP7 | Nemesis do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V6poLeOaHVicyOl-pK87Hyu1kR5_5j_WntigcXmXOlBzCZUjQeMLtBG6x9HuNrvl4gCP2I1B02yg2TXalB0S",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_nemsis.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_nemsis.zip"
+      ],
+      "tamanho": 2186953,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_racketeer",
+      "nome": "MP7 | Mischief",
+      "categoria": "armas",
+      "descricao": "MP7 | Mischief do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZsI_uWGmKV09F6ueZhW2fnlE5x52Tdz4mscn6XOAFzXppyQ7RZtkTpwNzuMejn5wyPjYoTy336kGoXuS747mDn",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_racketeer.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_racketeer.zip"
+      ],
+      "tamanho": 2964773,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_replica",
+      "nome": "MP7 | Neon Ply",
+      "categoria": "armas",
+      "descricao": "MP7 | Neon Ply do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZoMPyaDWavzedxuPUnGS2wzBglsm6AnNyqJHLBOAdyCZV0ELIN5xC6kNThY-jqslbbid4WyjK-0H0WWbSZ_g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_replica.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_replica.zip"
+      ],
+      "tamanho": 3297001,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_constellation_dark",
+      "nome": "MP7 | Astrolabe",
+      "categoria": "armas",
+      "descricao": "MP7 | Astrolabe do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf-jFk7P2ge7BoLPySGm6fz9FysfNicCSjwiIrujqNjsGrcSmSZlMjX8YhQ7QKshWxxoHuZbzm5lfajIsRmSqvjy1Nv3tu6uhQT-N7rcDJm_6d",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_constellation_dark.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_constellation_dark.zip"
+      ],
+      "tamanho": 2677286,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_final_pooldeadv2",
+      "nome": "MP7 | Cirrus",
+      "categoria": "armas",
+      "descricao": "MP7 | Cirrus do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf-jFk6fugaahSMP-cAmOVwOpg4t5lRi67gVMj5j6Dwtaocy6UOAIgApNyQrQOshS7lIXlMbvqslHfi41Eyi7823xK8G81tHGGql6L",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_final_pooldeadv2.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_final_pooldeadv2.zip"
+      ],
+      "tamanho": 2566530,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_bloodsport",
+      "nome": "MP7 | Bloodsport",
+      "categoria": "armas",
+      "descricao": "MP7 | Bloodsport do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf-jFk4uL5V6ZhL_-XHXef0_pJvOhuRz39lxsk4W3Ry96pIHrFOgElDZN2Q-9etUSwk4LnYu3h5wLejYwWxSr43zQJsHiIGMoJQA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_bloodsport.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_bloodsport.zip"
+      ],
+      "tamanho": 3105327,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_strone",
+      "nome": "MP7 | Sunbaked",
+      "categoria": "armas",
+      "descricao": "MP7 | Sunbaked do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf-jFk4uL5V7d5Mv-dC1icyOl-pK84S3C1lx9w6mndytn8JymTZ1QoC5AiR-AMukbqkoXvZu2x5VfW2o9F02yg2esX37bl",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_strone.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_strone.zip"
+      ],
+      "tamanho": 3370663,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_powercore",
+      "nome": "MP7 | Powercore",
+      "categoria": "armas",
+      "descricao": "MP7 | Powercore do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf-jFk__25bbZuL-KWMWqAltF6ueZhW2fjkE114W7Vzduqdn2XOAYhXpMlEeQI4BW9kofiZOzq4VHXg9hGzi78kGoXuRPPGxs7",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_powercore.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_powercore.zip"
+      ],
+      "tamanho": 2918959,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_hy_ddpat",
+      "nome": "MP7 | Forest DDPAT",
+      "categoria": "armas",
+      "descricao": "MP7 | Forest DDPAT do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Ttk6_a-abBSLPmUBnPek79w4eNoGnC2xx5x4WvRy43_I3-QOA4iWZJwFu5e5xfpl9HvM-_r5Bue1dxLI7RHCA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_ddpat.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_ddpat.zip"
+      ],
+      "tamanho": 1701833,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_hy_drywood_green",
+      "nome": "MP7 | Tall Grass",
+      "categoria": "armas",
+      "descricao": "MP7 | Tall Grass do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Ttk6-C3f6tiJM-UHGKVz9F6ueZhW2frxxlx4jnQw4yuJ3yfPQ4hDpd5QOVZsUa5l9XiNb6w5laPjosWyC6qkGoXuWq2Rgm4",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_drywood_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_drywood_green.zip"
+      ],
+      "tamanho": 3258105,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_hy_gelpen",
+      "nome": "MP7 | Gunsmoke",
+      "categoria": "armas",
+      "descricao": "MP7 | Gunsmoke do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Ttk6PeieKFjH_yaCW-Ej7d0sbI8Gyrklht04GvXy46vJ3uQbQ4nWcN5EeAI5hPtmtzjP7nktlHAy9USqCgnGlg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_gelpen.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_gelpen.zip"
+      ],
+      "tamanho": 2756025,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_hy_plaid1",
+      "nome": "MP7 | Olive Plaid",
+      "categoria": "armas",
+      "descricao": "MP7 | Olive Plaid do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Ttk__6vYaA8H_yaCW-Ej7cv5-BqSijgkRx252yAzdj_cy6QZ1R0XpB0QuZf4Bbrk9a0Yenr5wPAy9USeuvoaWg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_plaid1.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_plaid1.zip"
+      ],
+      "tamanho": 1538133,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_hy_skulls",
+      "nome": "MP7 | Skulls",
+      "categoria": "armas",
+      "descricao": "MP7 | Skulls do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Ttk_Pm7ZKh-H_yaCW-Ej7l35OBoTCrmzUQht2mDwon7cHuWPFUlDcFxQ7EDtxbpx4W1Y-LltAfAy9USYNky6pY",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_skulls.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_skulls.zip"
+      ],
+      "tamanho": 2064262,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_hy_varicamo_red",
+      "nome": "MP7 | Full Stop",
+      "categoria": "armas",
+      "descricao": "MP7 | Full Stop do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf9Ttk-fO8YadsLf-sHGKU_uJ_t-l9AS3nlhhx5W7Xyo6vJHPDagQpC5d4TO4IsRWwmtSxYuzi5FfciY9CxH_gznQebimdppU",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_varicamo_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_hy_varicamo_red.zip"
+      ],
+      "tamanho": 3579557,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_binary_green",
+      "nome": "MP7 | Base-2",
+      "categoria": "armas",
+      "descricao": "MP7 | Base-2 do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0PCnZqV_Oc-UHGKVz9F6ueZhW2e2wUtwsmrVw46hJS3EaVAgX8RxRuVf4Ebum9TiYbiz5gaIiYgXmCv6kGoXuanNFq47",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_binary_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_binary_green.zip"
+      ],
+      "tamanho": 3113328,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_so_olive_bravo",
+      "nome": "MP7 | Groundwater",
+      "categoria": "armas",
+      "descricao": "MP7 | Groundwater do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7i1k4P6nfqFSIuKSGGivzedxuPUnSX7nxEl_527Vzoyvcy2QbQUpC8NxF7NbtkbqwNLlZu-w5QHdiN0UyjK-0H0qFVLm2g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_olive_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_olive_bravo.zip"
+      ],
+      "tamanho": 1150218,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_so_whiteout",
+      "nome": "MP7 | Whiteout",
+      "categoria": "armas",
+      "descricao": "MP7 | Whiteout do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7i1k-PqnfKFiNeSsAm6Xyfo4teU9Hirmx0gh4GXdy9atInqfOAcgCscmRrNetxewl9HjP7_jsgfei5UFk3u-0OOK7w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_whiteout.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_so_whiteout.zip"
+      ],
+      "tamanho": 1150261,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_sp_bud_green",
+      "nome": "MP7 | Teal Blossom",
+      "categoria": "armas",
+      "descricao": "MP7 | Teal Blossom do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk7eeqV6N_JfWdMWuZxuZi_uAwTnC1zE1zsWTSy936di-fb1AnCMYlTeINsBbrm9S1Mr7r5gKLi9lbjXKpdi5Lf9g",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_bud_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_bud_green.zip"
+      ],
+      "tamanho": 1689935,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_sp_dapple",
+      "nome": "MP7 | Scorched",
+      "categoria": "armas",
+      "descricao": "MP7 | Scorched do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk6_O-eKhoH_yaCW-Ej7kvs7c_GXrhwk4lsWzUztn7ciiUPFQgW5clE-UC5Bbtx9TmY-m041DAy9USq3Wit9I",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_dapple.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_dapple.zip"
+      ],
+      "tamanho": 2672139,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_sp_labyrinth",
+      "nome": "MP7 | Asterion",
+      "categoria": "armas",
+      "descricao": "MP7 | Asterion do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk4_OscbZkLuSbMWuZxuZi_rA_FnC3wERw5zuDyYusInKSOFQhCpZ2FO9Y40a_loC2NL6z5gHWjY9bjXKpANIUSxE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_labyrinth.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_labyrinth.zip"
+      ],
+      "tamanho": 3079035,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_sp_mp7_impire",
+      "nome": "MP7 | Impire",
+      "categoria": "armas",
+      "descricao": "MP7 | Impire do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk4uL5V61gMPmBC1icyOl-pK8xGiq2kUV24j6Gn9b4eXmWPwIoApJxRbRbtRW5wdfjYbi0sVfW2tkQ02yg2fafAb5i",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_mp7_impire.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_mp7_impire.zip"
+      ],
+      "tamanho": 2403176,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_sp_mp7_tribal_yellow",
+      "nome": "MP7 | Akoben",
+      "categoria": "armas",
+      "descricao": "MP7 | Akoben do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk4uL5V7B_KfKSAliJxOJ6v_ZWQyC0nQlpsWmHyIquci7EPQQgCZMkE7FZsUXpx9y2Mu6wsgbWjINFyir9iXlNujErvbjY0_iNfw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_mp7_tribal_yellow.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_mp7_tribal_yellow.zip"
+      ],
+      "tamanho": 3512918,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_sp_spray_army",
+      "nome": "MP7 | Army Recon",
+      "categoria": "armas",
+      "descricao": "MP7 | Army Recon do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk_OK8ab1SIeKeF1icyOl-pK84Sijhwk525z-AmN2rcC7GaVIgW5p3ROQLthe9ltGyMOKw5wHZjd5E02yg2bE0ycdT",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_spray_army.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_spray_army.zip"
+      ],
+      "tamanho": 3082846,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_sp_tape_orange",
+      "nome": "MP7 | Orange Peel",
+      "categoria": "armas",
+      "descricao": "MP7 | Orange Peel do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk-_O-bZtiMvGdCWKvzedxuPUnFiuxxRl3622By9z4dSiTPwB0ApsjQOMNsxTpkYHnZrvr4AWLiNlEnDK-0H2hOymBhQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_tape_orange.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_tape_orange.zip"
+      ],
+      "tamanho": 3653208,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_mp7_sp_zebracam_red",
+      "nome": "MP7 | Prey",
+      "categoria": "armas",
+      "descricao": "MP7 | Prey do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7jJk9feseqVuIf2sHGKU_uJ_t-l9AXvqwUsk4DyHnIr7eHySbg8gWcckTOUCsxawk9O1ZeywsQOIg95AznjgznQehcsrUP8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_zebracam_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mp7_sp_zebracam_red.zip"
+      ],
+      "tamanho": 4029778,
+      "arma": "MP7"
     }
   ],
   "links": {},
