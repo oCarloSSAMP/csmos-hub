@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 7,
-    "nome": "1.6",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.6.apk",
-    "notas": "Nova seção Skins por arma, com busca e filtro por arma.",
+    "versao": 10,
+    "nome": "1.9",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.9.apk",
+    "notas": "Novo botão em Ajustes para procurar a pasta do jogo, sem digitar o caminho.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
