@@ -521,84 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_fiveseven_an_gunmetal_bravo",
-      "nome": "Five-SeveN | Anodized Gunmetal",
-      "categoria": "armas",
-      "descricao": "Five-SeveN | Anodized Gunmetal do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRaapSJ-WdA2KEwOJJsvNoWSaMmRQguynLy9v_J3qTPAYmX8Z5F-YCskG5xtHgNe22sgTYjIIXmSX5jX5L6Ck-t_FCD_SvybkrEQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_an_gunmetal_bravo.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_an_gunmetal_bravo.zip"
-      ],
-      "tamanho": 2397802,
-      "arma": "Five-SeveN"
-    },
-    {
-      "id": "arma_fiveseven_so_grey_nuclear_orange_five_seven",
-      "nome": "Five-SeveN | Hot Shot",
-      "categoria": "armas",
-      "descricao": "Five-SeveN | Hot Shot do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSJ-KWF1ie1O16teB7cCahlBMgtgKDk5n8HjjCKFN-Zc4pEr9OrBm4xN3vNrix41aIjtkQyH-s2ipMvSY_sOxRBaFx-vCE3AuXYLE_45kdZKHwQRxY8PU",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_grey_nuclear_orange_five_seven.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_grey_nuclear_orange_five_seven.zip"
-      ],
-      "tamanho": 2397810,
-      "arma": "Five-SeveN"
-    },
-    {
-      "id": "arma_fiveseven_so_jungle",
-      "nome": "Five-SeveN | Jungle",
-      "categoria": "armas",
-      "descricao": "Five-SeveN | Jungle do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSKuWdCWuV_uJ_t-l9AXy3wEok5G6Gw9uocnKfbQRzXpJzQ-Ne4BLsm9LnNrzk7wWKiIxNxSngznQeNadjO4s",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_jungle.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_jungle.zip"
-      ],
-      "tamanho": 2397785,
-      "arma": "Five-SeveN"
-    },
-    {
-      "id": "arma_fiveseven_so_orange_accents",
-      "nome": "Five-SeveN | Nitro",
-      "categoria": "armas",
-      "descricao": "Five-SeveN | Nitro do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSL-KSAGCV_u91s-RnWzqMmRQguynLy9ugci3EZlUpDMYjTOID4EPrxNTvZO224QWM3o9NniWs23lP5nw9tfFCD_Qs49oXvw",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_orange_accents.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_orange_accents.zip"
-      ],
-      "tamanho": 2397803,
-      "arma": "Five-SeveN"
-    },
-    {
-      "id": "arma_fiveseven_so_pmc",
-      "nome": "Five-SeveN | Contractor",
-      "categoria": "armas",
-      "descricao": "Five-SeveN | Contractor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSMP2QMWuZxuZi_rRtTXjkxE115DjdmNn7ciieaVAkAsN4ELVc40Htx4fmPrng51DXj95bjXKpZ_EmD5Y",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_pmc.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_pmc.zip"
-      ],
-      "tamanho": 2397777,
-      "arma": "Five-SeveN"
-    },
-    {
-      "id": "arma_fiveseven_so_red",
-      "nome": "Five-SeveN | Candy Apple",
-      "categoria": "armas",
-      "descricao": "Five-SeveN | Candy Apple do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSMvWXMWuZxuZi_rAwG36xxUp-t2rVwt6vdCmSPAQnDpNxQOBY5BXsxoWzZuvg5Ffdid1bjXKptD9kyfI",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_red.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_red.zip"
-      ],
-      "tamanho": 2397804,
-      "arma": "Five-SeveN"
-    },
-    {
       "id": "arma_tec9_an_titanium30v",
       "nome": "Tec-9 | Blue Titanium",
       "categoria": "armas",
@@ -14702,6 +14624,461 @@
       ],
       "tamanho": 3637861,
       "arma": "P250"
+    },
+    {
+      "id": "arma_fiveseven_copper_flecks",
+      "nome": "Five-SeveN | Copper Galaxy",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Copper Galaxy do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRaalSI_-DHmKC_uh6teJiXBa_nBovp3OAnN_6cXvEOwFzDcFzQ7Vc4BPuwNy0M7jk5gWL39pCnC35jShN6S1p_a9cBt8cUyQh",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_copper_flecks.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_copper_flecks.zip"
+      ],
+      "tamanho": 5103666,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_crystallized_silver",
+      "nome": "Five-SeveN | Silver Quartz",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Silver Quartz do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRaalSI-KKHXORzeJ_quRtcDq6mQsioQKJk4jxNWXCP1AmX8Z0EbIP5Be8w4fhNu7r5ATZ3t4Xzn782yJB63o-5bkLA_En5OSJ2KaCxRX6",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_crystallized_silver.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_crystallized_silver.zip"
+      ],
+      "tamanho": 4061176,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_an_gunmetal_bravo",
+      "nome": "Five-SeveN | Anodized Gunmetal",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Anodized Gunmetal do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRaapSJ-WdA2KEwOJJsvNoWSaMmRQguynLy9v_J3qTPAYmX8Z5F-YCskG5xtHgNe22sgTYjIIXmSX5jX5L6Ck-t_FCD_SvybkrEQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_an_gunmetal_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_an_gunmetal_bravo.zip"
+      ],
+      "tamanho": 2397804,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_57_feathers",
+      "nome": "Five-SeveN | Fowl Play",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Fowl Play do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRabVSdaesCGKR1eZzovJWQyC0nQlptm_Vw9ercnOUaA8lA5skFuIPsxPqmtXkNu205lfYiN8XnCyvj3hNvDErvbiIo1idJQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_57_feathers.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_57_feathers.zip"
+      ],
+      "tamanho": 3612496,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_case_hardened",
+      "nome": "Five-SeveN | Heat Treated",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Heat Treated do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRabVSI_GAC1iYwPxyte9sSxa1nAsioDiTn4HGLSLANkI-D5pxEbIDu0btkoXlNuO24wDZ2YhDmH7923tI7ClrsblWAqMj-KPRiBaBb-NawNZy0w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_case_hardened.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_case_hardened.zip"
+      ],
+      "tamanho": 5210166,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_five_seven_scumbria",
+      "nome": "Five-SeveN | Scumbria",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Scumbria do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRabVSJvmFC1iDxPhzvt56TDy-lw8usgKJk4jxNWXBP1JzAppxQ-UN5hm_mtLgZbjn5wPdi49Bnyqr3SJPvChq4-tWB6Ak5OSJ2BFWlPNZ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_five_seven_scumbria.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_five_seven_scumbria.zip"
+      ],
+      "tamanho": 2975469,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_oiled",
+      "nome": "Five-SeveN | Case Hardened",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Case Hardened do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRabVSL_mfC2OvzedxuPUnH3C1kRsi4jiAw4qtdXjCO1V2WcZxF-EO5xLsxtHmMeKw5g3fit4TnDK-0H1W4XC76Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_oiled.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_oiled.zip"
+      ],
+      "tamanho": 5033726,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_five_seven_angry",
+      "nome": "Five-SeveN | Angry Mob",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Angry Mob do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC1iDxPhzvt5oQS6hjCIrujqNjsH_cy2RagUjA8BwR-de5hjskNflNrnqsgaLiYgRyyythitM7Hw-sekKT-N7rXEld5dH",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_five_seven_angry.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_five_seven_angry.zip"
+      ],
+      "tamanho": 4424628,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_five_seven_daimyo",
+      "nome": "Five-SeveN | Violent Daimyo",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Violent Daimyo do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC1iDxPhzvt5tTiC-jBIYvzSCkpu3cXjCPAB2WZMmQ-EK4BTqlNSzNOLk71GI3tpGmX2oii5N6nk667kDWL1lpPNv4wCTtw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_five_seven_daimyo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_five_seven_daimyo.zip"
+      ],
+      "tamanho": 3954232,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_five_seven_diary",
+      "nome": "Five-SeveN | Fairy Tale",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Fairy Tale do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC1iDxPhzvt5tRiihjCIrujqNjsGtdi-UbVUgXJAlRrFfuxi-lNbuPr7ltA3cjtkRzyit2H8c7H1t4O9TT-N7rZbBTJfn",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_five_seven_diary.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_five_seven_diary.zip"
+      ],
+      "tamanho": 4694694,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_alpha_omega",
+      "nome": "Five-SeveN | Scrawl",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Scrawl do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-BlXyGyqhIqtjqEpYPwJiPTcAInA5J0FO9csBSww4bhZruzswLcjIsXmCusjCsbuno_57tXUqB386HJz1aW2pI_m5Q",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_alpha_omega.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_alpha_omega.zip"
+      ],
+      "tamanho": 4610093,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_augmented",
+      "nome": "Five-SeveN | Triumvirate",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Triumvirate do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-B8SCS2mwkitwKJk4jxNWWXPAZzD5pwTeBetUPtw4C1N7jh5A3bj48RxSyqiiwc7Sg6tr0ABaAk5OSJ2O3yTJMF",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_augmented.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_augmented.zip"
+      ],
+      "tamanho": 4190450,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_banana",
+      "nome": "Five-SeveN | Monkey Business",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Monkey Business do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-NoQSi9lCIrujqNjsGheXmXPQcoWMFzEO5ZtUOwkILjY7yzsg3ci91DySiohn4buCht4eYET-N7rZVO80Su",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_banana.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_banana.zip"
+      ],
+      "tamanho": 2909057,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_gsg9",
+      "nome": "Five-SeveN | Buddy",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Buddy do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-Z6SHCMmRQguynLw4r9IHiRbFdzA8FzELYL4xntw9e1Mu7q5laMjN5AzXiqinxI6iw_t_FCD_TZbg2oLg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_gsg9.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_gsg9.zip"
+      ],
+      "tamanho": 4217829,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_hyperbeast",
+      "nome": "Five-SeveN | Hyper Beast",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Hyper Beast do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j-lwXyyhlxgmoCm6lob-KT-JO1QgWZVyELEPu0W4l9KzYbzn5Fbf3YkTzn_8hihIvXxtsOoFUKYirLqX0V_f6-eqCw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hyperbeast.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hyperbeast.zip"
+      ],
+      "tamanho": 3905245,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_retrobution",
+      "nome": "Five-SeveN | Retrobution",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Retrobution do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j_NsWzu8lwgzujKLpYPwJiPTcAByWJB4TOULsxS5wNfmPuzjtQHciYpHmCuqhypJvSlr4LsGBaEmr_bJz1aWW-JyGhc",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_retrobution.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_retrobution.zip"
+      ],
+      "tamanho": 3931330,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_urban_hazard",
+      "nome": "Five-SeveN | Urban Hazard",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Urban Hazard do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j_R7TSi9qhUmqTyXnrD1KCzPKhhzXpBwFu9YtxK6k4buYenrtgDWj4NGyX3-2yhBun1qt-YBBKsg_aXWkUifZnLiQ4dl",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_urban_hazard.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_urban_hazard.zip"
+      ],
+      "tamanho": 3239801,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_vein",
+      "nome": "Five-SeveN | Capillary",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Capillary do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSJvmFC3SV1-t4j_dsRieMmRQguynLmY79IinFbA90CZN2Q-Bc4UW6x9KyZLnjtQCMjo8WyXr7jy1O6Ck_sfFCD_SqR6qLvA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_vein.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_vein.zip"
+      ],
+      "tamanho": 3902944,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_vertigo",
+      "nome": "Five-SeveN | Fall Hazard",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Fall Hazard do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRa7FSNvWBGm6XztFwufdsXCylkBMYvzSCkpu3Ii-QbQ51XJpzQ-8PsUOwmoLvZLm3sQfb3tkTxHj-hytBv35jt7wFBL1lpPNwauo7lw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_vertigo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_vertigo.zip"
+      ],
+      "tamanho": 4470875,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_desert_seal",
+      "nome": "Five-SeveN | Desert Seal",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Desert Seal do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRbq17JeOWGGKe_upzo-R7WxagkBwrjDGMnYftb3-SZgR1A5IhFLRc4xO6xoDuYuO35wLdjYpFySv4hnsf7H1s5-ZRUaI7uvqAnq2GNHw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_desert_seal.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_desert_seal.zip"
+      ],
+      "tamanho": 4411658,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_five_seven_efusion",
+      "nome": "Five-SeveN | Boost Protocol",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Boost Protocol do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRb7dSJvmFC1iDxPhzvt5sSTygnBIpjDGMnYftby7FalV1D5QhE-EDthW8xtCyPu63tFPciYhBynn_jykfuCttte4CA6E7uvqAn_5lxU8",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_five_seven_efusion.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_five_seven_efusion.zip"
+      ],
+      "tamanho": 3053868,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_hot_rod_violet",
+      "nome": "Five-SeveN | Flame Test",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Flame Test do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRb7dSJvmFC3SV1-t4j-lmWxahmhkYpTSKlortHifOOV5kFJt1FOVYsBC_lobmNe3q4AOK3dhDnimrhyoa7i9ssO4CU6F0rvWBiwvfcepqcNk1MwM",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hot_rod_violet.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hot_rod_violet.zip"
+      ],
+      "tamanho": 3440540,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_hy_bud_red",
+      "nome": "Five-SeveN | Crimson Blossom",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Crimson Blossom do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SIuWXMXWVxdF6ueZhW2ewkE5162rRnNerIy6WagApDptyRuVZshbql9DuMOPj71CI2YoRzyqokGoXufqVyZvA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_bud_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_bud_red.zip"
+      ],
+      "tamanho": 2950727,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_hy_ducts_green",
+      "nome": "Five-SeveN | Coolant",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Coolant do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SJOWQGnSvxvxzte9WQyC0nQlp5m_cmNqueH7EbQAiXpN0FO5YtBK_x4XgMrjmswON2osQzn77iipJ6zErvbgVYFr6QQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_ducts_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_ducts_green.zip"
+      ],
+      "tamanho": 3736621,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_hy_flowers",
+      "nome": "Five-SeveN | Nightshade",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Nightshade do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SJvycGWKC0tF6ueZhW2frl08m5mrXyd-seSmVOgUkX5MhReRcsRHsm9LjZe_htACI3oJEzHj6kGoXucu6NwSL",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_flowers.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_flowers.zip"
+      ],
+      "tamanho": 3316945,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_hy_forest_night",
+      "nome": "Five-SeveN | Forest Night",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Forest Night do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SJv-BC3SE_uB_t-l9cCW6khUz_T7Untv9cXmfPAEnCZFwRLUJtEXtxN3iN-mz7gffjtkRnir-2nkauyx1o7FVpfrK-Xo",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_forest_night.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_forest_night.zip"
+      ],
+      "tamanho": 3098914,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_hy_kami",
+      "nome": "Five-SeveN | Kami",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Kami do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SK_GeB1icyOl-pK9oGnHnk012sT_XzNv4eXuUawUlDpEkQOIN40XskIHmP-mx4wOLio1B02yg2SJzf1Vk",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_kami.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_kami.zip"
+      ],
+      "tamanho": 3017088,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_hy_kimono_diamonds",
+      "nome": "Five-SeveN | Neon Kimono",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Neon Kimono do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRYL1SK_meAWmf_up_sexmQS2gqhEutDWR1In4di-TagIkXMMiF-Vcthm5kNbvML604Ffdgt4WzCj22ikau35q4OwcEf1ySWJgvKc",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_kimono_diamonds.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_hy_kimono_diamonds.zip"
+      ],
+      "tamanho": 3226457,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_so_grey_nuclear_orange_five_seven",
+      "nome": "Five-SeveN | Hot Shot",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Hot Shot do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSJ-KWF1ie1O16teB7cCahlBMgtgKDk5n8HjjCKFN-Zc4pEr9OrBm4xN3vNrix41aIjtkQyH-s2ipMvSY_sOxRBaFx-vCE3AuXYLE_45kdZKHwQRxY8PU",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_grey_nuclear_orange_five_seven.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_grey_nuclear_orange_five_seven.zip"
+      ],
+      "tamanho": 2397810,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_so_jungle",
+      "nome": "Five-SeveN | Jungle",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Jungle do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSKuWdCWuV_uJ_t-l9AXy3wEok5G6Gw9uocnKfbQRzXpJzQ-Ne4BLsm9LnNrzk7wWKiIxNxSngznQeNadjO4s",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_jungle.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_jungle.zip"
+      ],
+      "tamanho": 2397785,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_so_orange_accents",
+      "nome": "Five-SeveN | Nitro",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Nitro do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSL-KSAGCV_u91s-RnWzqMmRQguynLy9ugci3EZlUpDMYjTOID4EPrxNTvZO224QWM3o9NniWs23lP5nw9tfFCD_Qs49oXvw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_orange_accents.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_orange_accents.zip"
+      ],
+      "tamanho": 2397806,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_so_pmc",
+      "nome": "Five-SeveN | Contractor",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Contractor do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSMP2QMWuZxuZi_rRtTXjkxE115DjdmNn7ciieaVAkAsN4ELVc40Htx4fmPrng51DXj95bjXKpZ_EmD5Y",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_pmc.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_pmc.zip"
+      ],
+      "tamanho": 2397776,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_so_red",
+      "nome": "Five-SeveN | Candy Apple",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Candy Apple do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe6tSMvWXMWuZxuZi_rAwG36xxUp-t2rVwt6vdCmSPAQnDpNxQOBY5BXsxoWzZuvg5Ffdid1bjXKptD9kyfI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_red.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_so_red.zip"
+      ],
+      "tamanho": 2397807,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_sp_moro_textile_purple_yellow",
+      "nome": "Five-SeveN | Withered Vine",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Withered Vine do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe7RSLf-BAViExPZiue1scDmmhw0rtgKcn4P1Ljz4Ml93UtZuReJcshe5m9HuYunhsQ3dgowWnCqviSgduC1q5OgGBKN0r6Le2gnHZKp9v8fcyxvZMw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_sp_moro_textile_purple_yellow.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_sp_moro_textile_purple_yellow.zip"
+      ],
+      "tamanho": 3733369,
+      "arma": "Five-SeveN"
+    },
+    {
+      "id": "arma_fiveseven_sp_tape_orange",
+      "nome": "Five-SeveN | Orange Peel",
+      "categoria": "armas",
+      "descricao": "Five-SeveN | Orange Peel do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRe7RSNPGDC1if0-94t-RWQyC0nQlp6jjTytf7JH6XbQIiD5t2EOZYsBDtl4LjNe7k4QzYidlEzX34hn8Y7zErvbi46hZUEA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_sp_tape_orange.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_fiveseven_sp_tape_orange.zip"
+      ],
+      "tamanho": 4799467,
+      "arma": "Five-SeveN"
     }
   ],
   "links": {},
