@@ -521,71 +521,6 @@
       "arma": "M4A4"
     },
     {
-      "id": "arma_mag7_an_silver",
-      "nome": "MAG-7 | Silver",
-      "categoria": "armas",
-      "descricao": "MAG-7 | Silver do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNV0OGnZLJoMs-fB2CY1aAm5Lc7SSyxl0t1sj7Wn9ipdXuRZwMkD5NzRbVftkPsx9LvZOjjsgyMlcsbmlF3IVC_",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_an_silver.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_an_silver.zip"
-      ],
-      "tamanho": 1552314,
-      "arma": "MAG-7"
-    },
-    {
-      "id": "arma_mag7_so_aqua",
-      "nome": "MAG-7 | Seabird",
-      "categoria": "armas",
-      "descricao": "MAG-7 | Seabird do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0PO_faVSLPmUBnPel-oj5LhsTnniwRx15TmDn9esdXLGPFIlW5QiRuRftEG8xNTgMuLrtRue1dzd1mVtfQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_aqua.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_aqua.zip"
-      ],
-      "tamanho": 1552299,
-      "arma": "MAG-7"
-    },
-    {
-      "id": "arma_mag7_so_sand",
-      "nome": "MAG-7 | Sand Dune",
-      "categoria": "armas",
-      "descricao": "MAG-7 | Sand Dune do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0OGvZqBSLPmUBnPew-0jtrk6TnDgwEwl4j-GzdqtcHnFPAdxXpMmRLIN5EW8w9KzM-rnshue1dx36R-nYw",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_sand.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_sand.zip"
-      ],
-      "tamanho": 1552213,
-      "arma": "MAG-7"
-    },
-    {
-      "id": "arma_mag7_so_stormfront",
-      "nome": "MAG-7 | Storm",
-      "categoria": "armas",
-      "descricao": "MAG-7 | Storm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0OG6Z7ZgJuKcAHOvzedxuPUnS3_iwk926m6EnIyvIn3DbQF0X5UjRbJfthewktK2MLzq4ATcgoJCxTK-0H2wBd1PlQ",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_stormfront.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_stormfront.zip"
-      ],
-      "tamanho": 1552338,
-      "arma": "MAG-7"
-    },
-    {
-      "id": "arma_mag7_so_yellow",
-      "nome": "MAG-7 | Bulldozer",
-      "categoria": "armas",
-      "descricao": "MAG-7 | Bulldozer do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
-      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0OurZKhiN8-fB2CY1aAn4bMxFijqzB5z4WjdnI2vc3nFbFcpCpomR-8NtxK_x9W2MO_k5VDYlcsbmtRYf5JR",
-      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_yellow.zip",
-      "urls": [
-        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_yellow.zip"
-      ],
-      "tamanho": 1552308,
-      "arma": "MAG-7"
-    },
-    {
       "id": "arma_negev_an_navy",
       "nome": "Negev | Anodized Navy",
       "categoria": "armas",
@@ -11296,6 +11231,435 @@
       ],
       "tamanho": 3570734,
       "arma": "XM1014"
+    },
+    {
+      "id": "arma_mag7_carbon_fiber",
+      "nome": "MAG-7 | Carbon Fiber",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Carbon Fiber do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0PGveqZiLs-VB2WV09F6ueZhW2fqlhgm5mzSnNqgdiqSO1AnW5YlR-8Ct0Hqkte0Y7-xsg3d3o9BnCX6kGoXuYaRGffM",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_carbon_fiber.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_carbon_fiber.zip"
+      ],
+      "tamanho": 3406119,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_chainmail",
+      "nome": "MAG-7 | Chainmail",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Chainmail do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0PGmaa1jLfGaAlicyOl-pK9tHXnrxUV14Gjcy4yoInmQPQEnD8FwQORb5ELqxtXhNOrm5A3Zjo4R02yg2X61hecA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_chainmail.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_chainmail.zip"
+      ],
+      "tamanho": 2579641,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_caustic",
+      "nome": "MAG-7 | Hard Water",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Hard Water do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0P-vb_NSI_GGHXOZwtF6ueZhW2eykx534j_VydygIi6fPQJ0DJcmQrIMukK7k9HvZO224FbajI8WnC-tkGoXudK2z8cj",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_caustic.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_caustic.zip"
+      ],
+      "tamanho": 2727232,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_malform",
+      "nome": "MAG-7 | Sonar",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Sonar do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0P-vb_NSLfGfCGiCzNF6ueZhW2fgxEol4TnQyo2qd3qTPwQhD5d0F-YPuhHpwNHlZLvi5VTY3dhAy339kGoXufaFAiYQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_malform.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_malform.zip"
+      ],
+      "tamanho": 3311498,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_navy_shine",
+      "nome": "MAG-7 | Navy Sheen",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Navy Sheen do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0Pyvfr1SM_iaAGKvzedxuPUnHyu2lh8j5zuBzYv4Iy3FZwJzCJMlQbEL5hO-ltPnP7zmswHY39hAxTK-0H11955Myw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_navy_shine.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_navy_shine.zip"
+      ],
+      "tamanho": 3007430,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_urban",
+      "nome": "MAG-7 | Metallic DDPAT",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Metallic DDPAT do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNW0Oe8aqVjH_yaCW-Ej7ch5bQ_GiqxlBxy422Bwt2seCjEbVMkX5J2R-8J4RPsx9bkNO7jtgLAy9USmH-e5kI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_urban.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_urban.zip"
+      ],
+      "tamanho": 2063416,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_an_silver",
+      "nome": "MAG-7 | Silver",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Silver do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNV0OGnZLJoMs-fB2CY1aAm5Lc7SSyxl0t1sj7Wn9ipdXuRZwMkD5NzRbVftkPsx9LvZOjjsgyMlcsbmlF3IVC_",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_an_silver.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_an_silver.zip"
+      ],
+      "tamanho": 1552313,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_swag7",
+      "nome": "MAG-7 | SWAG-7",
+      "categoria": "armas",
+      "descricao": "MAG-7 | SWAG-7 do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNK0P-vb_NSM-eSCTCvzedxuPUnHirhkxhxtzvRzI38dnLEOlQnW5N1F-FZtRG6kYLvPu205ADaj40RnDK-0H0F4y2tgg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_swag7.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_swag7.zip"
+      ],
+      "tamanho": 2827283,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_steel_inferno",
+      "nome": "MAG-7 | Rust Coat",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Rust Coat do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiNK0OG6baFhH_mdCGKCz-FJvOhuRz39kElztWzRn4r9eXqWblAjXpQjRuIPuhm7k4KxYeLisgDfjtlFmSSqijQJsHiheIBpJg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_steel_inferno.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_steel_inferno.zip"
+      ],
+      "tamanho": 3879332,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_heaven",
+      "nome": "MAG-7 | Heaven Guard",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Heaven Guard do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiFO0P-vb_NSKPWSGGKe_uJ_t-l9AXm1zEol52_cz9z9d3rDb1J0DZdwFOMLtxa4m4W2Zejn5ALc2NhFzyTgznQeMWQmjgI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_heaven.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_heaven.zip"
+      ],
+      "tamanho": 3383373,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_insomnia",
+      "nome": "MAG-7 | Insomnia",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Insomnia do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiFO0P-vb_NSKf6AAWqeyO9JvOhuRz39wh4k4TzUnN_9cC6WO1J2DJdyROcI4BC9x9XmN-vj71eN34xAzC33hzQJsHiziLtbUA",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_insomnia.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_insomnia.zip"
+      ],
+      "tamanho": 2147136,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_monster_call",
+      "nome": "MAG-7 | Monster Call",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Monster Call do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiFO0P-vb_NSLf-dHXOV09F1se1lcCW6khUz_WncmIz8JHmTa1JyApd5FLEMsES-kNDhM-3i5QKM2Y5AzSr9jngY6Cp1o7FV7cAHRyI",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_monster_call.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_monster_call.zip"
+      ],
+      "tamanho": 3386020,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_myrcene",
+      "nome": "MAG-7 | Cobalt Core",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Cobalt Core do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiFO0P-vb_NSLemBDWKexNF6ueZhW2fkwBshsT-DntuscSiVbABzD5Z2QuRftRXuwYblY-_i5AePj49Emyn7kGoXuSUXTp8T",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_myrcene.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_myrcene.zip"
+      ],
+      "tamanho": 3658651,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_predictor",
+      "nome": "MAG-7 | Foresight",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Foresight do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiFO0P-vb_NSMOKWCm6T1eFkj-1gSCGn2xgmsWvRm96seXOfbFMjXJR1R-NY4xjukNLlYurn4QeN3t5CmCT7jHxXrnE8UENGXls",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_predictor.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_predictor.zip"
+      ],
+      "tamanho": 3058920,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_redhot",
+      "nome": "MAG-7 | Heat",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Heat do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiFO0P-vb_NSMvWXBmiE_uJ_t-l9AX7nzBsk623dm46odHmUbFd1Dcd2RbINtBXtkNDjMbzj5AGKjt4UyijgznQe8JftFTE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_redhot.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_redhot.zip"
+      ],
+      "tamanho": 2933742,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_tribal",
+      "nome": "MAG-7 | Petroglyph",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Petroglyph do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiFO0P-vb_NSNOKaDGac_uJ_t-l9AXm1kUQl4TzcytqpeSjFagMkW5AiQbZYsEG_mtTnN-jq4AWLidpNnC3gznQeOK4te4s",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_tribal.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_tribal.zip"
+      ],
+      "tamanho": 3298117,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_bismuth",
+      "nome": "MAG-7 | BI83 Spectrum",
+      "categoria": "armas",
+      "descricao": "MAG-7 | BI83 Spectrum do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiVI0P-vb_NSIvmAA3KEydF6ueZhW2fml0Vw4mWGnN2udHmSOgAoCJMjQOJY4xK8k9XvPu-x5Qba2N5HzH73kGoXuQbKMJGE",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_bismuth.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_bismuth.zip"
+      ],
+      "tamanho": 3597591,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_glass",
+      "nome": "MAG-7 | Cinquedea",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Cinquedea do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiVI0P-vb_NSJ_ySHXSvzedxuPUnSijmlh9x4D-BnNyuJ3LCbAVzAsdxFuRe5EPpw9XiMbvh5lHYiYwQyjK-0H3Th2Gpiw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_glass.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_glass.zip"
+      ],
+      "tamanho": 2931685,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_goold",
+      "nome": "MAG-7 | Copper Coated",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Copper Coated do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiVI0P-vb_NSJ_-cAmOvzedxuPUnHXDilhh1sGzQy4yscXPCbAcgXpNwE-UJuhjqkNW0Zrm05VDdjIoXyDK-0H3aMMdvcg",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_goold.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_goold.zip"
+      ],
+      "tamanho": 3671489,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_justice",
+      "nome": "MAG-7 | Justice",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Justice do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiVI0P-vb_NSKuWAGm6TxNF6ueZhW2fikUt36znWyNz_dn2ROgMhD5EiR7EO5BKxl4DlMLyx7gyNi4hAniz5kGoXuQ9OXJLa",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_justice.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_justice.zip"
+      ],
+      "tamanho": 3002040,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_popdog",
+      "nome": "MAG-7 | Popdog",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Popdog do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiVI0P-vb_NSMP-DCmiX_uJ_t-l9AXixkBgm5G7VnN-rcn_Bb1UmWcBxFuACtRC5kNC1Zunr5wbdi4hEyn7gznQeG1-SDIY",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_popdog.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_popdog.zip"
+      ],
+      "tamanho": 3404939,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_praetorian",
+      "nome": "MAG-7 | Praetorian",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Praetorian do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wiVI0P-vb_NSMOKSC3Of0-d3vt5lRi67gVMl5j_VzIr_eSnBbw4iXsR2FLZfsRi6x9LvNOqw4FePid4UmCX2iC1J8G81tOf1qE-m",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_praetorian.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_praetorian.zip"
+      ],
+      "tamanho": 2998385,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_hy_geometric_steps_green",
+      "nome": "MAG-7 | Counter Terrace",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Counter Terrace do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wipC0PWrZ6loNOKaDViD1etmo95uXSy2myIrujqNjsH6InKeOAIgX5smTbMLtka-loflYe7n5wDZjt5AySX7hyhNuns547wBT-N7rTTigBkB",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_hy_geometric_steps_green.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_hy_geometric_steps_green.zip"
+      ],
+      "tamanho": 2627247,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_hy_geometric_steps_pearl",
+      "nome": "MAG-7 | Prism Terrace",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Prism Terrace do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wipC0PWrZ6loNOKaDViD1etmo955SiihmSIrujqNjsGrcX3GbAB2AsdyQLMOsESxktPgMOKw7wOMgt4WmSv5jS1M63lpsedRT-N7rVBJ5qCN",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_hy_geometric_steps_pearl.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_hy_geometric_steps_pearl.zip"
+      ],
+      "tamanho": 2627247,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_hy_icosahedron",
+      "nome": "MAG-7 | Memento",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Memento do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wipC0PutZ7dsKPWXHGie_uJ_t-l9ASjlzRl34WnUzN6tJy-eOg50C5N1TLYLthaxm4HlZbiz4AXXjNpDmCXgznQeeQk0p-w",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_hy_icosahedron.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_hy_icosahedron.zip"
+      ],
+      "tamanho": 3111058,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_hy_nuclear_hotorange",
+      "nome": "MAG-7 | Core Breach",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Core Breach do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wipC0Py7a6hoIeKsBmiEzvx3vuZscCW6khUz_WzdnoyvIHvGPFJzD8B0QrINshPtw9fmYunrsw2PiNlEnC_5iy5L5y11o7FVg__4LKQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_hy_nuclear_hotorange.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_hy_nuclear_hotorange.zip"
+      ],
+      "tamanho": 3584875,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_so_aqua",
+      "nome": "MAG-7 | Seabird",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Seabird do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0PO_faVSLPmUBnPel-oj5LhsTnniwRx15TmDn9esdXLGPFIlW5QiRuRftEG8xNTgMuLrtRue1dzd1mVtfQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_aqua.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_aqua.zip"
+      ],
+      "tamanho": 1552300,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_so_sand",
+      "nome": "MAG-7 | Sand Dune",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Sand Dune do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0OGvZqBSLPmUBnPew-0jtrk6TnDgwEwl4j-GzdqtcHnFPAdxXpMmRLIN5EW8w9KzM-rnshue1dx36R-nYw",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_sand.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_sand.zip"
+      ],
+      "tamanho": 1552212,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_so_stormfront",
+      "nome": "MAG-7 | Storm",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Storm do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0OG6Z7ZgJuKcAHOvzedxuPUnS3_iwk926m6EnIyvIn3DbQF0X5UjRbJfthewktK2MLzq4ATcgoJCxTK-0H2wBd1PlQ",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_stormfront.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_stormfront.zip"
+      ],
+      "tamanho": 1552337,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_so_yellow",
+      "nome": "MAG-7 | Bulldozer",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Bulldozer do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFU0OurZKhiN8-fB2CY1aAn4bMxFijqzB5z4WjdnI2vc3nFbFcpCpomR-8NtxK_x9W2MO_k5VDYlcsbmtRYf5JR",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_yellow.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_so_yellow.zip"
+      ],
+      "tamanho": 1552307,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_sp_hazard_bravo",
+      "nome": "MAG-7 | Hazard",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Hazard do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFL0PqvcqV_JM-RHGaGztF6ueZhW2flxR8ksDvcnt_7JC7DaQUgA5FxQe8I50TsmobhMe2041SI2dpFySWrkGoXuaG6AS0C",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_sp_hazard_bravo.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_sp_hazard_bravo.zip"
+      ],
+      "tamanho": 1974094,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_sp_mag7_firebitten",
+      "nome": "MAG-7 | Firestarter",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Firestarter do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFL0P-vb_NSJvmBC2WZ1fpzvt5lRi67gVNyt27dz46scn2TaQ52XpV1E-8I4RLuwIHnMO2w4gfa2NlHmy2ri3xP8G81tFM5kI47",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_sp_mag7_firebitten.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_sp_mag7_firebitten.zip"
+      ],
+      "tamanho": 2487855,
+      "arma": "MAG-7"
+    },
+    {
+      "id": "arma_mag7_sp_nukestripe_brown",
+      "nome": "MAG-7 | Irradiated Alert",
+      "categoria": "armas",
+      "descricao": "MAG-7 | Irradiated Alert do CS2 (textura original, Factory New) usando o modelo do jogo. Pacote leve, somente textura.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5G3wjFL0Py7Y6F-NOKaHmKvw_x5p-9WQyC0nQlp5z7dwtr4JHjEawR0W5J5R-INtBPpwdzvMeK24FHZiotBzSWq3SMa5jErvbi6fRO3ow",
+      "url": "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_sp_nukestripe_brown.zip",
+      "urls": [
+        "https://pub-1f7dc93de7534e98919629521221e114.r2.dev/csmos/skins/arma_mag7_sp_nukestripe_brown.zip"
+      ],
+      "tamanho": 2950633,
+      "arma": "MAG-7"
     }
   ],
   "links": {},
