@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 17,
-    "nome": "1.16",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.16.apk",
-    "notas": "Novo: opções Gama 2.2, 1.8 e 1.5 em Jogar para o jogo escuro no emulador. Teste uma de cada vez.",
+    "versao": 20,
+    "nome": "1.19",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.19.apk",
+    "notas": "Corrigido: jogo escuro em emuladores antigos (MSI, BlueStacks, MuMu, LDPlayer). A correção de cor é automática, sem botões. Atualização obrigatória.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
