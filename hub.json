@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 15,
-    "nome": "1.14",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.14.apk",
-    "notas": "Nova correção para jogo escuro em emulador e opção de escolher o caminho do jogo na tela Jogar.",
+    "versao": 16,
+    "nome": "1.15",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.15.apk",
+    "notas": "Diagnóstico de vídeo e nova correção para jogo escuro em emulador.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
