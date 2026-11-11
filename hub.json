@@ -7357,6 +7357,557 @@
       ],
       "tamanho": 2863233,
       "arma": "Dual Berettas"
+    },
+    {
+      "id": "sons_gb_csgo_beta",
+      "nome": "Sons do CS:GO Beta",
+      "categoria": "sons",
+      "descricao": "Sons antigos das armas tirados das versões beta do CS:GO: troca o tiro de 30 armas, mais recargas e saques. Sem passos, granadas ou C4. De JazzyBaz (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/sons_gb_csgo_beta.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/sons_gb_csgo_beta.zip"
+      ],
+      "tamanho": 26809552
+    },
+    {
+      "id": "sons_gb_vanilla_enhanced",
+      "nome": "Sons Vanilla Melhorados",
+      "categoria": "sons",
+      "descricao": "Sons originais com mais peso e as recargas de antes das mudanças: troca o tiro de 19 armas, mais recargas. Sem passos, granadas ou C4. De GeneralEcchi (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/sons_gb_vanilla_enhanced.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/sons_gb_vanilla_enhanced.zip"
+      ],
+      "tamanho": 12460832
+    },
+    {
+      "id": "papel_gb_22462",
+      "nome": "CT no escuro",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De Malignant (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_22462.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_22462.zip"
+      ],
+      "tamanho": 228683,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_22462.jpg"
+    },
+    {
+      "id": "papel_gb_20185",
+      "nome": "M4A1",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De Wormskiller (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_20185.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_20185.zip"
+      ],
+      "tamanho": 795272,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_20185.jpg"
+    },
+    {
+      "id": "papel_gb_20184",
+      "nome": "Calibre .45",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De MeTH (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_20184.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_20184.zip"
+      ],
+      "tamanho": 713704,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_20184.jpg"
+    },
+    {
+      "id": "papel_gb_18229",
+      "nome": "CS grunge",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De BrainZ (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18229.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18229.zip"
+      ],
+      "tamanho": 740730,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_18229.jpg"
+    },
+    {
+      "id": "papel_gb_18230",
+      "nome": "Assalto ao cofre",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De Robogineer (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18230.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18230.zip"
+      ],
+      "tamanho": 794966,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_18230.jpg"
+    },
+    {
+      "id": "papel_gb_18217",
+      "nome": "CS:S Remasterizado",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De Dean. (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18217.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18217.zip"
+      ],
+      "tamanho": 746873,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_18217.jpg"
+    },
+    {
+      "id": "papel_gb_18186",
+      "nome": "Logo dourada",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De S.P.L.A.T (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18186.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18186.zip"
+      ],
+      "tamanho": 494477,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_18186.jpg"
+    },
+    {
+      "id": "papel_gb_18194",
+      "nome": "Source noturno",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De Sethen (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18194.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18194.zip"
+      ],
+      "tamanho": 659437,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_18194.jpg"
+    },
+    {
+      "id": "papel_gb_20179",
+      "nome": "Forças especiais",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De Naomi (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_20179.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_20179.zip"
+      ],
+      "tamanho": 735532,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_20179.jpg"
+    },
+    {
+      "id": "papel_gb_18206",
+      "nome": "Prédio à noite",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De Sethen (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18206.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18206.zip"
+      ],
+      "tamanho": 903559,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_18206.jpg"
+    },
+    {
+      "id": "papel_gb_17021",
+      "nome": "Resgate de refém",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De Ironmad (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_17021.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_17021.zip"
+      ],
+      "tamanho": 564615,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_17021.jpg"
+    },
+    {
+      "id": "papel_gb_18201",
+      "nome": "Visão noturna",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De elitistslayer (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18201.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18201.zip"
+      ],
+      "tamanho": 359192,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_18201.jpg"
+    },
+    {
+      "id": "papel_gb_18141",
+      "nome": "Desert Eagle",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De MakkyCro (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18141.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18141.zip"
+      ],
+      "tamanho": 622277,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_18141.jpg"
+    },
+    {
+      "id": "papel_gb_17410",
+      "nome": "Nuke",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De blackop773643 (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_17410.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_17410.zip"
+      ],
+      "tamanho": 914017,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_17410.jpg"
+    },
+    {
+      "id": "papel_gb_18228",
+      "nome": "Máscara de gás",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De NoiseLess (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18228.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_18228.zip"
+      ],
+      "tamanho": 913516,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_18228.jpg"
+    },
+    {
+      "id": "papel_gb_17415",
+      "nome": "Galáxia",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De SZlobaFM (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_17415.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_17415.zip"
+      ],
+      "tamanho": 765156,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_17415.jpg"
+    },
+    {
+      "id": "papel_gb_22059",
+      "nome": "Cidade futurista",
+      "categoria": "papel_parede",
+      "descricao": "Fundo do menu do jogo, ajustado pra tela de celular. De Scoutzz (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_22059.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/papel_gb_22059.zip"
+      ],
+      "tamanho": 930283,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/papel_gb_22059.jpg"
+    },
+    {
+      "id": "spray_gb_846",
+      "nome": "Noob HQ",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De KillFullSall (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_846.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_846.zip"
+      ],
+      "tamanho": 7429,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_846.jpg",
+      "exec": "spray_846"
+    },
+    {
+      "id": "spray_gb_72982",
+      "nome": "Caveira de férias",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De AliBaba1337 (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_72982.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_72982.zip"
+      ],
+      "tamanho": 22051,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_72982.jpg",
+      "exec": "spray_72982"
+    },
+    {
+      "id": "spray_gb_27199",
+      "nome": "Ás de espadas",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Sarqune (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_27199.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_27199.zip"
+      ],
+      "tamanho": 15712,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_27199.jpg",
+      "exec": "spray_27199"
+    },
+    {
+      "id": "spray_gb_66257",
+      "nome": "Owned (grafite)",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De MS32 (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_66257.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_66257.zip"
+      ],
+      "tamanho": 37406,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_66257.jpg",
+      "exec": "spray_66257"
+    },
+    {
+      "id": "spray_gb_62949",
+      "nome": "Smiley espantado",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Seamus (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_62949.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_62949.zip"
+      ],
+      "tamanho": 9239,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_62949.jpg",
+      "exec": "spray_62949"
+    },
+    {
+      "id": "spray_gb_13133",
+      "nome": "Ás do Counter-Strike",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Falcon (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_13133.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_13133.zip"
+      ],
+      "tamanho": 6676,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_13133.jpg",
+      "exec": "spray_13133"
+    },
+    {
+      "id": "spray_gb_16261",
+      "nome": "Gatinho \"Take this\"",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Falcon (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_16261.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_16261.zip"
+      ],
+      "tamanho": 22296,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_16261.jpg",
+      "exec": "spray_16261"
+    },
+    {
+      "id": "spray_gb_16262",
+      "nome": "Gato camuflado",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Falcon (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_16262.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_16262.zip"
+      ],
+      "tamanho": 16456,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_16262.jpg",
+      "exec": "spray_16262"
+    },
+    {
+      "id": "spray_gb_17468",
+      "nome": "Caveira headshot",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Guest (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_17468.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_17468.zip"
+      ],
+      "tamanho": 21489,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_17468.jpg",
+      "exec": "spray_17468"
+    },
+    {
+      "id": "spray_gb_27652",
+      "nome": "Ás de copas",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Sarqune (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_27652.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_27652.zip"
+      ],
+      "tamanho": 16015,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_27652.jpg",
+      "exec": "spray_27652"
+    },
+    {
+      "id": "spray_gb_39532",
+      "nome": "Robô atirador",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Fallqvist (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_39532.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_39532.zip"
+      ],
+      "tamanho": 19519,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_39532.jpg",
+      "exec": "spray_39532"
+    },
+    {
+      "id": "spray_gb_14975",
+      "nome": "Desert Eagle",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De ramen_noodle (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_14975.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_14975.zip"
+      ],
+      "tamanho": 20769,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_14975.jpg",
+      "exec": "spray_14975"
+    },
+    {
+      "id": "spray_gb_15925",
+      "nome": "Gato de Natal",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Syco (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_15925.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_15925.zip"
+      ],
+      "tamanho": 31339,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_15925.jpg",
+      "exec": "spray_15925"
+    },
+    {
+      "id": "spray_gb_16963",
+      "nome": "Radiação",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Syco (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_16963.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_16963.zip"
+      ],
+      "tamanho": 22589,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_16963.jpg",
+      "exec": "spray_16963"
+    },
+    {
+      "id": "spray_gb_67028",
+      "nome": "Smiley old school",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Kostja08 (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_67028.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_67028.zip"
+      ],
+      "tamanho": 31737,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_67028.jpg",
+      "exec": "spray_67028"
+    },
+    {
+      "id": "spray_gb_13365",
+      "nome": "Cobra (estêncil)",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Falcon (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_13365.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_13365.zip"
+      ],
+      "tamanho": 7703,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_13365.jpg",
+      "exec": "spray_13365"
+    },
+    {
+      "id": "spray_gb_15473",
+      "nome": "Placa \"Warning\"",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De jaketwo_91 (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_15473.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_15473.zip"
+      ],
+      "tamanho": 7709,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_15473.jpg",
+      "exec": "spray_15473"
+    },
+    {
+      "id": "spray_gb_16458",
+      "nome": "Yin-yang",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Syco (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_16458.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_16458.zip"
+      ],
+      "tamanho": 21200,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_16458.jpg",
+      "exec": "spray_16458"
+    },
+    {
+      "id": "spray_gb_16537",
+      "nome": "Caveira de boné",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Syco (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_16537.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_16537.zip"
+      ],
+      "tamanho": 15948,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_16537.jpg",
+      "exec": "spray_16537"
+    },
+    {
+      "id": "spray_gb_18028",
+      "nome": "Bomba pixelada",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Cookie Monster (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_18028.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_18028.zip"
+      ],
+      "tamanho": 1115,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_18028.jpg",
+      "exec": "spray_18028"
+    },
+    {
+      "id": "spray_gb_20933",
+      "nome": "Ursos kung fu",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Microsoft Sam (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_20933.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_20933.zip"
+      ],
+      "tamanho": 26773,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_20933.jpg",
+      "exec": "spray_20933"
+    },
+    {
+      "id": "spray_gb_24415",
+      "nome": "Gato guitarrista",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Papuchongo (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_24415.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_24415.zip"
+      ],
+      "tamanho": 27451,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_24415.jpg",
+      "exec": "spray_24415"
+    },
+    {
+      "id": "spray_gb_28431",
+      "nome": "Contramão",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De GrandSpammer (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_28431.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_28431.zip"
+      ],
+      "tamanho": 19950,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_28431.jpg",
+      "exec": "spray_28431"
+    },
+    {
+      "id": "spray_gb_20165",
+      "nome": "Cobra da selva",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Syco (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_20165.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_20165.zip"
+      ],
+      "tamanho": 18807,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_20165.jpg",
+      "exec": "spray_20165"
+    },
+    {
+      "id": "spray_gb_67027",
+      "nome": "Diabinho old school",
+      "categoria": "sprays",
+      "descricao": "Spray pra marcar a parede (botão de spray no touch). De Kostja08 (GameBanana).",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_67027.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/spray_gb_67027.zip"
+      ],
+      "tamanho": 37905,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_67027.jpg",
+      "exec": "spray_67027"
     }
   ],
   "links": {},
@@ -7575,6 +8126,20 @@
       "descricao": "Rastro de bala, sangue e partículas",
       "exclusiva": false,
       "pasta_solta": "particles"
+    },
+    {
+      "id": "sons",
+      "nome": "Sons",
+      "descricao": "Sons das armas (um pacote por vez)",
+      "exclusiva": true,
+      "pasta_solta": "sound"
+    },
+    {
+      "id": "sprays",
+      "nome": "Sprays",
+      "descricao": "Desenho que você pinta na parede pelo botão de spray",
+      "exclusiva": true,
+      "pasta_solta": "materials/vgui/logos"
     }
   ],
   "masters": [
