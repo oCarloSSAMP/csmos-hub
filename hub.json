@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 21,
-    "nome": "1.20",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.20.apk",
-    "notas": "Skins: saíram as que ficavam com cor errada no jogo, ficaram só as conferidas. Instalar uma skin agora tira a anterior da mesma arma. Atualização obrigatória.",
+    "versao": 23,
+    "nome": "1.22",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.22.apk",
+    "notas": "Novo: modos de desempenho em Ajustes (Rápido e Batata) pra celular fraco, sprays, fundos de menu e pacotes de som em Conteúdo. Skins com cor errada saíram da lista. Atualização obrigatória.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
