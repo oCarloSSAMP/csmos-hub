@@ -8298,6 +8298,18 @@
       ],
       "tamanho": 1085848,
       "arma": "Desert Eagle"
+    },
+    {
+      "id": "agentes_bluevsred",
+      "nome": "Agentes Blue vs Red",
+      "categoria": "agentes",
+      "descricao": "Todos os agentes do jogo ficam de cor sólida: TR vermelho e CT azul, pra enxergar melhor. Vale pra todos os agentes, inclusive os escolhidos em Opções > Agentes. Visor e vidro continuam normais. Só muda no seu jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/agentes_bluevsred.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/agentes_bluevsred.zip"
+      ],
+      "tamanho": 124882,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/agentes_bluevsred.jpg"
     }
   ],
   "links": {},
@@ -8536,6 +8548,12 @@
       "nome": "Luvas",
       "descricao": "Acabamentos novos pras luvas do jogo (uma por tipo de luva)",
       "exclusiva": false
+    },
+    {
+      "id": "agentes",
+      "nome": "Agentes",
+      "descricao": "Muda a aparência dos agentes do jogo (um pacote por vez)",
+      "exclusiva": true
     }
   ],
   "masters": [
