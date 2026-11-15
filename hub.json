@@ -9237,14 +9237,14 @@
     },
     {
       "id": "agentes_bluevsred",
-      "nome": "Agentes Blue vs Red",
+      "nome": "Blue vs Red (remake)",
       "categoria": "agentes",
-      "descricao": "Todos os agentes do jogo ficam de cor sólida: TR vermelho e CT azul, pra enxergar melhor. Vale pra todos os agentes, inclusive os escolhidos em Opções > Agentes. Visor e vidro continuam normais. Só muda no seu jogo.",
+      "descricao": "Deixa os modelos de jogador de cor sólida mais clara: CT azul e TR vermelho, pra enxergar melhor. Mod \"red vs blue remake\" de roo_ (GameBanana). Troca as texturas dos 8 modelos clássicos do CS:S. Só muda no seu jogo.",
       "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/agentes_bluevsred.zip",
       "urls": [
         "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/agentes_bluevsred.zip"
       ],
-      "tamanho": 124882,
+      "tamanho": 11700366,
       "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/agentes_bluevsred.jpg"
     },
     {
