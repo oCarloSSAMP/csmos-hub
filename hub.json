@@ -7908,6 +7908,396 @@
       "tamanho": 37905,
       "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/spray_gb_67027.jpg",
       "exec": "spray_67027"
+    },
+    {
+      "id": "luva_specialist_buckshot",
+      "nome": "Specialist Gloves | Buckshot",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Specialist Gloves\" (CT, TR ou os dois). De Hector_sb212 (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_buckshot.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_buckshot.zip"
+      ],
+      "tamanho": 2447415,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_specialist_buckshot.jpg",
+      "arma": "Luva Especialista"
+    },
+    {
+      "id": "luva_specialist_crimson_web",
+      "nome": "Specialist Gloves | Crimson Web",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Specialist Gloves\" (CT, TR ou os dois). De Hector_sb212 (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_crimson_web.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_crimson_web.zip"
+      ],
+      "tamanho": 3488017,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_specialist_crimson_web.jpg",
+      "arma": "Luva Especialista"
+    },
+    {
+      "id": "luva_specialist_fade",
+      "nome": "Specialist Gloves | Fade",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Specialist Gloves\" (CT, TR ou os dois). De Hector_sb212 (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_fade.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_fade.zip"
+      ],
+      "tamanho": 3968263,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_specialist_fade.jpg",
+      "arma": "Luva Especialista"
+    },
+    {
+      "id": "luva_specialist_field_agent",
+      "nome": "Specialist Gloves | Field Agent",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Specialist Gloves\" (CT, TR ou os dois). De Hector_sb212 (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_field_agent.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_field_agent.zip"
+      ],
+      "tamanho": 1820669,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_specialist_field_agent.jpg",
+      "arma": "Luva Especialista"
+    },
+    {
+      "id": "luva_specialist_forest_ddpat",
+      "nome": "Specialist Gloves | Forest Ddpat",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Specialist Gloves\" (CT, TR ou os dois). De Hector_sb212 (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_forest_ddpat.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_forest_ddpat.zip"
+      ],
+      "tamanho": 2266076,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_specialist_forest_ddpat.jpg",
+      "arma": "Luva Especialista"
+    },
+    {
+      "id": "luva_specialist_marble_fade",
+      "nome": "Specialist Gloves | Marble Fade",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Specialist Gloves\" (CT, TR ou os dois). De Hector_sb212 (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_marble_fade.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_marble_fade.zip"
+      ],
+      "tamanho": 2615547,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_specialist_marble_fade.jpg",
+      "arma": "Luva Especialista"
+    },
+    {
+      "id": "luva_specialist_mogul",
+      "nome": "Specialist Gloves | Mogul",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Specialist Gloves\" (CT, TR ou os dois). De Hector_sb212 (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_mogul.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_mogul.zip"
+      ],
+      "tamanho": 2458482,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_specialist_mogul.jpg",
+      "arma": "Luva Especialista"
+    },
+    {
+      "id": "luva_specialist_lt_commander",
+      "nome": "Specialist Gloves | Lt. Commander",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Specialist Gloves\" (CT, TR ou os dois). De Hector_sb212 (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_lt_commander.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_specialist_lt_commander.zip"
+      ],
+      "tamanho": 2537450,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_specialist_lt_commander.jpg",
+      "arma": "Luva Especialista"
+    },
+    {
+      "id": "luva_pw_bronzed",
+      "nome": "Bloodhound Gloves (Perfect World) | Bronzed",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Bloodhound Gloves (Perfect World) | Charred\" (CT, TR ou os dois). De Xianery (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_pw_bronzed.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_pw_bronzed.zip"
+      ],
+      "tamanho": 9397937,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_pw_bronzed.jpg",
+      "arma": "Luva Bloodhound Perfect World"
+    },
+    {
+      "id": "luva_pw_guerrilla",
+      "nome": "Bloodhound Gloves (Perfect World) | Guerrilla",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Bloodhound Gloves (Perfect World) | Charred\" (CT, TR ou os dois). De Xianery (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_pw_guerrilla.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_pw_guerrilla.zip"
+      ],
+      "tamanho": 7324364,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_pw_guerrilla.jpg",
+      "arma": "Luva Bloodhound Perfect World"
+    },
+    {
+      "id": "luva_pw_snakebite",
+      "nome": "Bloodhound Gloves (Perfect World) | Snakebite",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Bloodhound Gloves (Perfect World) | Charred\" (CT, TR ou os dois). De Xianery (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_pw_snakebite.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_pw_snakebite.zip"
+      ],
+      "tamanho": 7002893,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_pw_snakebite.jpg",
+      "arma": "Luva Bloodhound Perfect World"
+    },
+    {
+      "id": "luva_slick_moon_cake",
+      "nome": "Driver Gloves | Moon Cake",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Driver Gloves\" (CT, TR ou os dois). De NuJaaj (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_slick_moon_cake.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_slick_moon_cake.zip"
+      ],
+      "tamanho": 959815,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_slick_moon_cake.jpg",
+      "arma": "Luva Motorista"
+    },
+    {
+      "id": "luva_zy_moto_st6",
+      "nome": "Moto Gloves | St6 (ZaihnY)",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Moto Gloves | Eclipse\" (CT, TR ou os dois). De ZaihnY (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_moto_st6.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_moto_st6.zip"
+      ],
+      "tamanho": 2483890,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_zy_moto_st6.jpg",
+      "arma": "Luva Moto"
+    },
+    {
+      "id": "luva_zy_moto_blueberry",
+      "nome": "Moto Gloves | Blueberry (ZaihnY)",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Moto Gloves | Eclipse\" (CT, TR ou os dois). De ZaihnY (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_moto_blueberry.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_moto_blueberry.zip"
+      ],
+      "tamanho": 3472990,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_zy_moto_blueberry.jpg",
+      "arma": "Luva Moto"
+    },
+    {
+      "id": "luva_zy_sporty_phoenix",
+      "nome": "Sport Gloves | Phoenix (ZaihnY)",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Sport Gloves\" (CT, TR ou os dois). De ZaihnY (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_sporty_phoenix.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_sporty_phoenix.zip"
+      ],
+      "tamanho": 2820197,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_zy_sporty_phoenix.jpg",
+      "arma": "Luva Esportiva"
+    },
+    {
+      "id": "luva_zy_sporty_enforcer",
+      "nome": "Sport Gloves | Enforcer (ZaihnY)",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Sport Gloves\" (CT, TR ou os dois). De ZaihnY (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_sporty_enforcer.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_sporty_enforcer.zip"
+      ],
+      "tamanho": 2062523,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_zy_sporty_enforcer.jpg",
+      "arma": "Luva Esportiva"
+    },
+    {
+      "id": "luva_zy_slick_sabre",
+      "nome": "Driver Gloves | Sabre (ZaihnY)",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Driver Gloves\" (CT, TR ou os dois). De ZaihnY (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_slick_sabre.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_slick_sabre.zip"
+      ],
+      "tamanho": 3324922,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_zy_slick_sabre.jpg",
+      "arma": "Luva Motorista"
+    },
+    {
+      "id": "luva_zy_specialist_fbi_default",
+      "nome": "Specialist Gloves | Fbi Default (ZaihnY)",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Specialist Gloves\" (CT, TR ou os dois). De ZaihnY (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_specialist_fbi_default.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_specialist_fbi_default.zip"
+      ],
+      "tamanho": 2394680,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_zy_specialist_fbi_default.jpg",
+      "arma": "Luva Especialista"
+    },
+    {
+      "id": "luva_zy_specialist_arctic_camo",
+      "nome": "Specialist Gloves | Arctic Camo (ZaihnY)",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Specialist Gloves\" (CT, TR ou os dois). De ZaihnY (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_specialist_arctic_camo.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_zy_specialist_arctic_camo.zip"
+      ],
+      "tamanho": 3550457,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_zy_specialist_arctic_camo.jpg",
+      "arma": "Luva Especialista"
+    },
+    {
+      "id": "luva_hk_spillers_white",
+      "nome": "HardKnuckle | Blood Spillers (branca)",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Blue Hardknuckle Gloves\" (CT, TR ou os dois). De Azrim (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_hk_spillers_white.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_hk_spillers_white.zip"
+      ],
+      "tamanho": 2217327,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_hk_spillers_white.jpg",
+      "arma": "Luva HardKnuckle azul"
+    },
+    {
+      "id": "luva_hk_spillers_black",
+      "nome": "HardKnuckle | Blood Spillers (preta)",
+      "categoria": "luvas",
+      "descricao": "Acabamento novo pra luva do jogo. Pra usar: no jogo, Opções > aba Luvas, escolha \"Blue Hardknuckle Gloves\" (CT, TR ou os dois). De Azrim (GameBanana). Conferida no modelo de luva do jogo.",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_hk_spillers_black.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/luva_hk_spillers_black.zip"
+      ],
+      "tamanho": 2340539,
+      "imagem": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/imagens/luva_hk_spillers_black.jpg",
+      "arma": "Luva HardKnuckle azul"
+    },
+    {
+      "id": "arma_m4a4_hy_ddpat_urb_pronta",
+      "nome": "M4A4 | Urban DDPAT",
+      "categoria": "armas",
+      "descricao": "M4A4 | Urban DDPAT do CS:GO, versão já pintada feita pela comunidade do CS:Source Offensive (greestree, GameBanana). Conferida no modelo do jogo.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwipC0PaqeKV5H-WBDFicyOl-pK8xF3DjzR5_4zncnouhcSjGPQ8jA5B3ELFbuhPqloDkPrvjsgXY2t5N02yg2Rf5X8A9",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m4a4_hy_ddpat_urb_pronta.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m4a4_hy_ddpat_urb_pronta.zip"
+      ],
+      "tamanho": 701764,
+      "arma": "M4A4"
+    },
+    {
+      "id": "arma_m4a1s_hy_ocean_bravo_pronta",
+      "nome": "M4A1-S | Bright Water",
+      "categoria": "armas",
+      "descricao": "M4A1-S | Bright Water do CS:GO, versão já pintada feita pela comunidade do CS:Source Offensive (greestree, GameBanana). Conferida no modelo do jogo.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_iKMWiTxO94j-N7Tj-8qhEutDWR1N2scy2Sa1UkC8NyRbMPuhexx4fgYrziswHf395Az3-qiStK5i864-kcEf1ycufvRr8",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m4a1s_hy_ocean_bravo_pronta.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_m4a1s_hy_ocean_bravo_pronta.zip"
+      ],
+      "tamanho": 1857579,
+      "arma": "M4A1-S"
+    },
+    {
+      "id": "arma_mp7_so_olive_bravo_pronta",
+      "nome": "MP7 | Groundwater",
+      "categoria": "armas",
+      "descricao": "MP7 | Groundwater do CS:GO, versão já pintada feita pela comunidade do CS:Source Offensive (greestree, GameBanana). Conferida no modelo do jogo.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf7i1k4P6nfqFSIuKSGGivzedxuPUnSX7nxEl_527Vzoyvcy2QbQUpC8NxF7NbtkbqwNLlZu-w5QHdiN0UyjK-0H0qFVLm2g",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_mp7_so_olive_bravo_pronta.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_mp7_so_olive_bravo_pronta.zip"
+      ],
+      "tamanho": 866825,
+      "arma": "MP7"
+    },
+    {
+      "id": "arma_bizon_hy_varicamo_night_pronta",
+      "nome": "PP-Bizon | Night Ops",
+      "categoria": "armas",
+      "descricao": "PP-Bizon | Night Ops do CS:GO, versão já pintada feita pela comunidade do CS:Source Offensive (greestree, GameBanana). Conferida no modelo do jogo.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1T9s24abZkI_GeAVieyOl-pN5lRi67gVMk4Gvdy439eS3DPFUgXpp3Qu5btESxm4LnZbmxtAPdg90WmySqinxN8G81tMa6T4nf",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_bizon_hy_varicamo_night_pronta.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_bizon_hy_varicamo_night_pronta.zip"
+      ],
+      "tamanho": 1286802,
+      "arma": "PP-Bizon"
+    },
+    {
+      "id": "arma_usp_hy_varicamo_night_pronta",
+      "nome": "USP-S | Night Ops",
+      "categoria": "armas",
+      "descricao": "USP-S | Night Ops do CS:GO, versão já pintada feita pela comunidade do CS:Source Offensive (greestree, GameBanana). Conferida no modelo do jogo.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSKOmsGGaCyO13ve5WQSC0nQkYvzSCkpu3cy-RbFciDJUlQ7Rc4xW6l4DuNLzi4gPdg41NzX6r3H8d7y5q5epTAr1lpPPHAcmmJQ",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_usp_hy_varicamo_night_pronta.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_usp_hy_varicamo_night_pronta.zip"
+      ],
+      "tamanho": 1997955,
+      "arma": "USP-S"
+    },
+    {
+      "id": "arma_usp_sp_ancient_bright_pronta",
+      "nome": "USP-S | Ancient Visions",
+      "categoria": "armas",
+      "descricao": "USP-S | Ancient Visions do CS:GO, versão já pintada feita pela comunidade do CS:Source Offensive (LIPO70, GameBanana). Conferida no modelo do jogo.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSM-CsD2mTyOt4pN5rXSC0nQkYvzSCkpu3eHiSOAB0DsMkTOcJtRjtwNG1ZOvq4wDe2t1AzCuojy1JvSpp4ewKVr1lpPOm90TY1A",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_usp_sp_ancient_bright_pronta.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_usp_sp_ancient_bright_pronta.zip"
+      ],
+      "tamanho": 1730682,
+      "arma": "USP-S"
+    },
+    {
+      "id": "arma_tec9_hy_ddpat_urb_pronta",
+      "nome": "Tec-9 | Urban DDPAT",
+      "categoria": "armas",
+      "descricao": "Tec-9 | Urban DDPAT do CS:GO, versão já pintada feita pela comunidade do CS:Source Offensive (greestree, GameBanana). Conferida no modelo do jogo.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0PaqeKV5H-WBDFicyOl-pK89HC3iwkwh522Dm9qqIijEbQN1XJt1TOZb5kbtkIbkZr7l4QTeiYIQ02yg2SkrOr2J",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_tec9_hy_ddpat_urb_pronta.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_tec9_hy_ddpat_urb_pronta.zip"
+      ],
+      "tamanho": 932393,
+      "arma": "Tec-9"
+    },
+    {
+      "id": "arma_tec9_hy_geometric_steps_yellow_pronta",
+      "nome": "Tec-9 | Terrace",
+      "categoria": "armas",
+      "descricao": "Tec-9 | Terrace do CS:GO, versão já pintada feita pela comunidade do CS:Source Offensive (greestree, GameBanana). Conferida no modelo do jogo.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC0PWrZ6loNOKaDViD1etmo95wSiW_mgoYvzSCkpu3eHySPQUmCsF5EeYMu0PuwNe1Nby25AHejY5Myn_5jnxL6S864OoLAL1lpPNSa1bCHA",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_tec9_hy_geometric_steps_yellow_pronta.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_tec9_hy_geometric_steps_yellow_pronta.zip"
+      ],
+      "tamanho": 1287381,
+      "arma": "Tec-9"
+    },
+    {
+      "id": "arma_deagle_hy_ddpat_urb_pronta",
+      "nome": "Desert Eagle | Urban DDPAT",
+      "categoria": "armas",
+      "descricao": "Desert Eagle | Urban DDPAT do CS:GO, versão já pintada feita pela comunidade do CS:Source Offensive (greestree, GameBanana). Conferida no modelo do jogo.",
+      "imagem": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRbKB9IeSsG3WS_uJ_t-l9AXm2kxkk42rWn9egc36UOwYiX5N1EOVYsRLtldC0M77g5QXfiN1Fzn_gznQemk8fKYk",
+      "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_deagle_hy_ddpat_urb_pronta.zip",
+      "urls": [
+        "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/conteudo/arma_deagle_hy_ddpat_urb_pronta.zip"
+      ],
+      "tamanho": 1085848,
+      "arma": "Desert Eagle"
     }
   ],
   "links": {},
@@ -8140,6 +8530,12 @@
       "descricao": "Desenho que você pinta na parede pelo botão de spray",
       "exclusiva": true,
       "pasta_solta": "materials/vgui/logos"
+    },
+    {
+      "id": "luvas",
+      "nome": "Luvas",
+      "descricao": "Acabamentos novos pras luvas do jogo (uma por tipo de luva)",
+      "exclusiva": false
     }
   ],
   "masters": [
