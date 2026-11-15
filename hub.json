@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 23,
-    "nome": "1.22",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.22.apk",
-    "notas": "Novo: modos de desempenho em Ajustes (Rápido e Batata) pra celular fraco, sprays, fundos de menu e pacotes de som em Conteúdo. Skins com cor errada saíram da lista. Atualização obrigatória.",
+    "versao": 26,
+    "nome": "1.25",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.25.apk",
+    "notas": "Novo: editor de HUD na tela Jogar (com os modelos touch1 a touch4), agentes Blue vs Red e luvas novas em Conteúdo. Corrigido o jogo ficar com a tela preta na primeira vez que pede o microfone. A correção de cor pra emulador agora vem desligada: quem usa emulador liga em Ajustes. Atualização obrigatória.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
