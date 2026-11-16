@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 29,
-    "nome": "1.28",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.28.apk",
-    "notas": "O jogo agora abre igual o launcher oficial do CSMOS, pra resolver tela preta e jogo preso no carregamento. Os modos de desempenho ficaram mais seguros e as imagens da aba Conteúdo foram corrigidas. Atualização obrigatória.",
+    "versao": 30,
+    "nome": "1.29",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.29.apk",
+    "notas": "175 skins de arma novas do CS:GO (anodizadas, como Fade e Hot Rod). As luvas agora ficam dentro de Skins por arma, e a Karambit foi pra Facas. Atualização obrigatória.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
