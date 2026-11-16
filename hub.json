@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 27,
-    "nome": "1.26",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.26.apk",
-    "notas": "Novo: aba Conteúdo redesenhada, e em Skins por arma você escolhe a arma num menu, como no CS:GO, e vê as skins dela. Agentes Blue vs Red trocado pelo mod red vs blue remake. Luvas e skins oficiais do CS:GO já disponíveis. Atualização obrigatória.",
+    "versao": 29,
+    "nome": "1.28",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.28.apk",
+    "notas": "O jogo agora abre igual o launcher oficial do CSMOS, pra resolver tela preta e jogo preso no carregamento. Os modos de desempenho ficaram mais seguros e as imagens da aba Conteúdo foram corrigidas. Atualização obrigatória.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
