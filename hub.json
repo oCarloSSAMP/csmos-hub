@@ -1,9 +1,10 @@
 {
   "app": {
-    "versao": 31,
-    "nome": "1.30",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.30.apk",
-    "notas": "Corrige o jogo preso na tela de carregamento no modo Normal, ao entrar em servidor e ao jogar solo. O Hub agora tira do jogo dois ajustes antigos de desempenho que travavam o carregamento. Atualização obrigatória.",
+    "versao": 32,
+    "nome": "1.31",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.31.apk",
+    "notas": "Agora o Hub tem dois idiomas: BR (português) e US (inglês). O botão fica no topo da tela e tudo é traduzido, inclusive as skins. Atualização obrigatória.",
+    "notas_en": "The Hub now has two languages: BR (Portuguese) and US (English). The switch is at the top of the screen and everything is translated, skins included. Required update.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
