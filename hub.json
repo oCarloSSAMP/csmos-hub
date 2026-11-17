@@ -1,9 +1,9 @@
 {
   "app": {
-    "versao": 30,
-    "nome": "1.29",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.29.apk",
-    "notas": "175 skins de arma novas do CS:GO (anodizadas, como Fade e Hot Rod). As luvas agora ficam dentro de Skins por arma, e a Karambit foi pra Facas. Atualização obrigatória.",
+    "versao": 31,
+    "nome": "1.30",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.30.apk",
+    "notas": "Corrige o jogo preso na tela de carregamento no modo Normal, ao entrar em servidor e ao jogar solo. O Hub agora tira do jogo dois ajustes antigos de desempenho que travavam o carregamento. Atualização obrigatória.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
