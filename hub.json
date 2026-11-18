@@ -24292,9 +24292,79 @@
   ],
   "links": {},
   "jogo": {
-    "versao": "1.0",
-    "url_base": "https://github.com/oCarloSSAMP/csmos-hub/releases/download/v1.0/",
+    "versao": "8.7r",
+    "url_base": "https://github.com/oCarloSSAMP/csmos-hub/releases/download/v8.7r/",
     "pacotes": [
+      {
+        "nome": "csmos/maps/de_ancient_csgo_cssold.bsp",
+        "arquivo": "de_ancient_csgo_cssold.bsp",
+        "tamanho": 148073254,
+        "sha256": "1f28eb96042532e08aceac91da8810832fa91319d51da88d0736f0c90ac76d77",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/maps/de_anubis_css.bsp",
+        "arquivo": "de_anubis_css.bsp",
+        "tamanho": 81926028,
+        "sha256": "0283e86ef1476923803d6203560a700adea291fdfba6ed993b86791e9a5b5717",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/maps/de_dust2_csgo_new.bsp",
+        "arquivo": "de_dust2_csgo_new.bsp",
+        "tamanho": 316368226,
+        "sha256": "7888858b1df8d8f94baea8fe1706ce728294d3f6235bdbf485b841b92625eb36",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/maps/de_inferno_csgo_cssold.bsp",
+        "arquivo": "de_inferno_csgo_cssold.bsp",
+        "tamanho": 128166420,
+        "sha256": "559872c32c6d7b6808fb0f55a83575fc431fbe9cbc9eb61ddd8ecce830e947d7",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/maps/de_inferno_csgo_cssold_fix.bsp",
+        "arquivo": "de_inferno_csgo_cssold_fix.bsp",
+        "tamanho": 123654312,
+        "sha256": "faa19077b07bd467ff76027683750ead0476aa49491094408e8bf01432c24634",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/maps/de_mirage_csgo_new.bsp",
+        "arquivo": "de_mirage_csgo_new.bsp",
+        "tamanho": 111867815,
+        "sha256": "0003d6eaddf67dbf8873772e2ccbee7135aacbf2f04999974fbe6d8e5ac52551",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/maps/de_nukenew_csgo.bsp",
+        "arquivo": "de_nukenew_csgo.bsp",
+        "tamanho": 158358172,
+        "sha256": "f0f3acf722a53298fed5747909ea8b247c5cb16627d661ba63e62128b22b622f",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/maps/de_overpass_cs2.bsp",
+        "arquivo": "de_overpass_cs2.bsp",
+        "tamanho": 375131170,
+        "sha256": "d516a0bc32ec8aca14d20752fe697b690ca7e9f0fd7ef7585bc20b3d5839a727",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/maps/de_vertigo_csgo_v34_fix.bsp",
+        "arquivo": "de_vertigo_csgo_v34_fix.bsp",
+        "tamanho": 88606496,
+        "sha256": "ce587dae67c40e2c947de622562d4f99364f032d7688f1f60966a8a90dc7c9b5",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/maps/inferno2.bsp",
+        "arquivo": "inferno2.bsp",
+        "tamanho": 369522628,
+        "sha256": "30b54371a3f5775d9adfb6d13393b09e14f818df05e9e4ed2466185cdc67b6bc",
+        "tipo": "arquivo"
+      },
       {
         "nome": "csmos/mos_extras_000.vpk",
         "arquivo": "mos_extras_000.vpk",
@@ -24305,43 +24375,99 @@
       {
         "nome": "csmos/mos_pak_000.vpk",
         "arquivo": "mos_pak_000.vpk",
-        "tamanho": 210246162,
-        "sha256": "621be041a1d3d6b7c446a5e61381578fc1702d99f2bd9c9bae950491ffffbdc1",
+        "tamanho": 210037672,
+        "sha256": "95b683c21d6387d4e295b94ba5b9920fdbd4810aad2b2c732ce06e29b1d56548",
         "tipo": "arquivo"
       },
       {
         "nome": "csmos/mos_pak_001.vpk",
         "arquivo": "mos_pak_001.vpk",
-        "tamanho": 214491546,
-        "sha256": "e2101390c7adf1f17f571ab35f81134ee10b3dbe6dfeadb6f530daaf31816b41",
+        "tamanho": 209788807,
+        "sha256": "4473c7c068b7c021a34f46348d660e5d5daf69e61bca50b65f5c121a797a36ed",
         "tipo": "arquivo"
       },
       {
         "nome": "csmos/mos_pak_002.vpk",
         "arquivo": "mos_pak_002.vpk",
-        "tamanho": 278250566,
-        "sha256": "9f171ef9d445725275cd76ce183cd8c33ebb14f393997732560232b079be99ae",
+        "tamanho": 210288113,
+        "sha256": "d5f325288165a2aff16856e06937147ba7caaba5e3667d85c0ee01d6218b46ca",
         "tipo": "arquivo"
       },
       {
         "nome": "csmos/mos_pak_003.vpk",
         "arquivo": "mos_pak_003.vpk",
-        "tamanho": 209743534,
-        "sha256": "7fb6a6166ecb788f6a96daf9e115a60a846211b6fbcb9bc0786b44047640ad03",
+        "tamanho": 212521460,
+        "sha256": "228ea59ffd63a9387965bb17fbafc857f0d4b8f65ec0be475b0552ae1dbe4fe8",
         "tipo": "arquivo"
       },
       {
         "nome": "csmos/mos_pak_004.vpk",
         "arquivo": "mos_pak_004.vpk",
-        "tamanho": 209748512,
-        "sha256": "00a2f5d2757b5141c41b14fccdd377c315f80b18f2f0eeca54555b510a4bb3cd",
+        "tamanho": 214988871,
+        "sha256": "007be372af0e93f9ff2987c22ac17b0af00423f9fc05d34ba1324bad9f982c9d",
         "tipo": "arquivo"
       },
       {
         "nome": "csmos/mos_pak_005.vpk",
         "arquivo": "mos_pak_005.vpk",
-        "tamanho": 209793959,
-        "sha256": "36d2971300d06ac3c2137467b7739c159cbd7c3ace341983440a4ead4a025ab5",
+        "tamanho": 209850626,
+        "sha256": "304566e2f81d69971f421bf4870f394d18f72775f6bce786fd75e25892a085bc",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_006.vpk",
+        "arquivo": "mos_pak_006.vpk",
+        "tamanho": 212466851,
+        "sha256": "30618e23f3dcd3f1e4b5b25d746681ff6523a2da0aecb833108aa3311374c34a",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_007.vpk",
+        "arquivo": "mos_pak_007.vpk",
+        "tamanho": 210040936,
+        "sha256": "059ba54ca0f79805947357855c7c290645cd85eade498f6a9ae7b5d1805cfe18",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_008.vpk",
+        "arquivo": "mos_pak_008.vpk",
+        "tamanho": 209802782,
+        "sha256": "e824752b4a2f7d0f296d339c7f728c1221df6a8d4acf9aca5405d3c652fa80b9",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_009.vpk",
+        "arquivo": "mos_pak_009.vpk",
+        "tamanho": 209891127,
+        "sha256": "8d8f049d769375b21ec9522742d9074b941a27021216dc8656d8eb288e3d2461",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_010.vpk",
+        "arquivo": "mos_pak_010.vpk",
+        "tamanho": 231925775,
+        "sha256": "f5f0db0db095f85a735315e7abd8129e991745cbc5d520e97b1c78baf83f366f",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_011.vpk",
+        "arquivo": "mos_pak_011.vpk",
+        "tamanho": 209773773,
+        "sha256": "030300103cb094cbe0be764128aa183f16db9e03779e2f7839e2dfd3759a612e",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_012.vpk",
+        "arquivo": "mos_pak_012.vpk",
+        "tamanho": 209790102,
+        "sha256": "b6e371355b875edaca08ce137d4e3fa70337f2c51b99f38b7aa2d06c283dc8bd",
+        "tipo": "arquivo"
+      },
+      {
+        "nome": "csmos/mos_pak_013.vpk",
+        "arquivo": "mos_pak_013.vpk",
+        "tamanho": 209927573,
+        "sha256": "0943bb258da9d168f1e124504f6a6534f7be03be72b837e3920d88b17ba6644c",
         "tipo": "arquivo"
       },
       {
@@ -24363,83 +24489,6 @@
         "arquivo": "cstrike_pak_002.vpk",
         "tamanho": 116886530,
         "sha256": "cf7ec74834ab22538e25e73af1de5fe015b7f0583e61ef24a7ac52aafa63f757",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/de_ancient_csgo_cssold.bsp",
-        "arquivo": "de_ancient_csgo_cssold.bsp",
-        "tamanho": 148073254,
-        "sha256": "1f28eb96042532e08aceac91da8810832fa91319d51da88d0736f0c90ac76d77",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/de_anubis_css.bsp",
-        "arquivo": "de_anubis_css.bsp",
-        "tamanho": 81926028,
-        "sha256": "0283e86ef1476923803d6203560a700adea291fdfba6ed993b86791e9a5b5717",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/de_cbble_go.bsp",
-        "arquivo": "de_cbble_go.bsp",
-        "tamanho": 173584344,
-        "sha256": "d4b527bb802580ad19bb77d5aff011bce1a97a1a351c4d6620c0be1b747d6368",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/de_inferno_csgo_cssold.bsp",
-        "arquivo": "de_inferno_csgo_cssold.bsp",
-        "tamanho": 128166420,
-        "sha256": "559872c32c6d7b6808fb0f55a83575fc431fbe9cbc9eb61ddd8ecce830e947d7",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/de_inferno_csgo_cssold_fix.bsp",
-        "arquivo": "de_inferno_csgo_cssold_fix.bsp",
-        "tamanho": 123654312,
-        "sha256": "faa19077b07bd467ff76027683750ead0476aa49491094408e8bf01432c24634",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/de_nukenew_csgo.bsp",
-        "arquivo": "de_nukenew_csgo.bsp",
-        "tamanho": 158358172,
-        "sha256": "f0f3acf722a53298fed5747909ea8b247c5cb16627d661ba63e62128b22b622f",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/de_overpass_cs2.bsp",
-        "arquivo": "de_overpass_cs2.bsp",
-        "tamanho": 375131170,
-        "sha256": "d516a0bc32ec8aca14d20752fe697b690ca7e9f0fd7ef7585bc20b3d5839a727",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/de_vertigo_csgo_v34_fix.bsp",
-        "arquivo": "de_vertigo_csgo_v34_fix.bsp",
-        "tamanho": 88606496,
-        "sha256": "ce587dae67c40e2c947de622562d4f99364f032d7688f1f60966a8a90dc7c9b5",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/inferno2.bsp",
-        "arquivo": "inferno2.bsp",
-        "tamanho": 369522628,
-        "sha256": "30b54371a3f5775d9adfb6d13393b09e14f818df05e9e4ed2466185cdc67b6bc",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/mirage2.bsp",
-        "arquivo": "mirage2.bsp",
-        "tamanho": 111595473,
-        "sha256": "2ced1429b871e3799040b89a36caf39029d16e80ee336899014fc8d46a66566e",
-        "tipo": "arquivo"
-      },
-      {
-        "nome": "cstrike/maps/vertigo2.bsp",
-        "arquivo": "vertigo2.bsp",
-        "tamanho": 99788686,
-        "sha256": "460e25c4e7d33c65dcdac492c3160a8aa2b36792e5eff01edbb1448c6b2e0eb6",
         "tipo": "arquivo"
       },
       {
@@ -24480,15 +24529,29 @@
       {
         "nome": "base_01.zip",
         "arquivo": "base_01.zip",
-        "tamanho": 404460866,
-        "sha256": "0c51eafa40dd090e678a95edc6996e18b6cc39d06b3c402871471564d5c9ded7",
+        "tamanho": 411870227,
+        "sha256": "fa652c27242f978afadb05aff5bf5b88e2e775cecb88934ed7e0822a2c6873e5",
         "tipo": "zip"
       },
       {
         "nome": "base_02.zip",
         "arquivo": "base_02.zip",
-        "tamanho": 151999430,
-        "sha256": "4d6f3bba0115b15df5ca78b6d82d8af8543093d64ae9b6b42030565e15df2f7e",
+        "tamanho": 404378232,
+        "sha256": "02c60c5a1750746109dda288a6331bc0c0b5dfabaea460c4b87e711d2d797cd3",
+        "tipo": "zip"
+      },
+      {
+        "nome": "base_03.zip",
+        "arquivo": "base_03.zip",
+        "tamanho": 419451548,
+        "sha256": "a69c167c14d099a1170fa33b30ec54215444e5aa861c21bfe548ed95568cec94",
+        "tipo": "zip"
+      },
+      {
+        "nome": "base_04.zip",
+        "arquivo": "base_04.zip",
+        "tamanho": 115949442,
+        "sha256": "7c056165df8fcc2562bd7761eb3a5704429e2f7b18cd9028a9b85998d3087f3d",
         "tipo": "zip"
       }
     ]
