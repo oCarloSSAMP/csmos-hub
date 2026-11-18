@@ -1,10 +1,10 @@
 {
   "app": {
-    "versao": 32,
-    "nome": "1.31",
-    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.31.apk",
-    "notas": "Agora o Hub tem dois idiomas: BR (português) e US (inglês). O botão fica no topo da tela e tudo é traduzido, inclusive as skins. Atualização obrigatória.",
-    "notas_en": "The Hub now has two languages: BR (Portuguese) and US (English). The switch is at the top of the screen and everything is translated, skins included. Required update.",
+    "versao": 33,
+    "nome": "1.32",
+    "url": "https://raw.githubusercontent.com/oCarloSSAMP/csmos-hub/main/apk/CSMOS-Hub-1.32.apk",
+    "notas": "Quem instalar o jogo agora baixa o CSMOS V8.7 original, igual ao do Qlf_Robert. Quem já tem o jogo instalado continua como está. Atualização obrigatória.",
+    "notas_en": "New installs now download the original CSMOS V8.7, the same as Qlf_Robert's. If you already have the game installed, nothing changes. Required update.",
     "obrigatorio": true
   },
   "anuncio": "Bem-vindo ao CSMOS Hub!",
